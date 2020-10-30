@@ -1,3 +1,21 @@
+Package: com.supportjailbreak.icleanerproVN
+Architecture: iphoneos-arm
+Version: 7.9.0
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debfiles/com.supportjailbreak.icleanerproVN_7.9.0_iphoneos-arm.deb
+Size: 6741638
+MD5sum: b2ccfe7f2c0e39ec9058ad76b82f2a38
+SHA1: f09edd2b1f7b8cba1e0dea4f4811093067af4a2c
+SHA256: 3b6c2b7933d3e007d42c22359e5f03ab49e9ea6a68d6a09182990552ef6bb16e
+SHA512: 82ad346cc4024137af7d0e8549d8c2a0cda04ceb3130c891207085db6d9d5f7bf784837c63c634cc3c5dded16188028b7722fc63f781fa3089db0530e78d4744
+Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
+Name: iCleaner Pro VN
+Author: Ivano Bilenchi
+Icon: file:///Applications/iCleaner.app/Icon.png
+
 Package: com.supportjailbreak.traslationviethoa
 Architecture: iphoneos-arm
 Version: 1.4.9
