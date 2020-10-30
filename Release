@@ -1,0 +1,11 @@
+Origin: Biện Văn Nhật
+Label: Apple-Support
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Apple-Support
+MD5Sum:
+ e7a4af5aba183f1ed197a5b69f7c7890 723 Packages
+ b7b952c3aac244de0146bd2c200a49ec 556 Packages.bz2
