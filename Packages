@@ -16,3 +16,22 @@ Name: Allow Playback While Recording Screen/Sound
 Author: Jun Elvin
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: git
+Architecture: iphoneos-arm
+Version: 2.20.0-1
+Priority: optional
+Section: Data_Storage
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 55432
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, expat, libssl1.0
+Filename: ./debfiles/git_2.20.0-1_iphoneos-arm.deb
+Size: 13203808
+MD5sum: f00c8cf913ac3191e1f4df2d018e570b
+SHA1: 55be4c14044d34f019b6ad8053f9f036c5769aed
+SHA256: 5bf4e5a72702960e19c730684ef26397a54d18e53268b237edb1cd970fa40a6f
+SHA512: b5fde2f4c344f92cca72e5dc5ba7a852a4f4f5e909d6f0bd766644ce52900133ac806936796f607c750ad02ac7d3f0622e798aa2fc797b6245effda15c1556f0
+Description: fast content-addressable filesystem
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Git
+
