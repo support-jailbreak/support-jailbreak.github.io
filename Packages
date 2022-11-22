@@ -6562,6 +6562,34 @@ Name: Messenger No Ads
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.messengernoads
+Architecture: iphoneos-arm
+Version: 3.12.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1012
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.12.0_iphoneos-arm.deb
+Size: 582796
+MD5sum: f0f8985ed2e12d2e842695dee118472c
+SHA1: f1bc3997d45bf59bb0136a620a1f038454f1ec19
+SHA256: cabab7fe1beed7626f2cd82aa5781292496d8a2924c19a5949acf871ef91e2da
+SHA512: 89932dcce63c868180f808c1c0e12ff59fb609b9ca7698f7f85970cb1744712a0d5f834c6f22460fa02747bd946141ccd51e5afb10e0b286484c5b04cef1ce81
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tính Năng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt đã xem tin nhắn
+ - Tắt đang gõ
+ - Tắt đã xem Story
+ - Lưu Story
+ - Ẩn thanh tìm kiếm, hàng truyện, tab người
+ - Ẩn liên hệ được đề xuất trong tìm kiếm
+ - Có thể đăng Story 10 phút
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
+Name: Messenger No Ads
+Author: Hao Nguyen
+
 Package: com.BIENVANNHAT.milkyway4
 Architecture: iphoneos-arm
 Version: 1.0~Beta
