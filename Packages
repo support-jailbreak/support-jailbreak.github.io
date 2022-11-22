@@ -5977,6 +5977,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/noscree/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/noscree?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.notchification
+Architecture: iphoneos-arm
+Version: 2.2-2
+Priority: optional
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 6522
+Depends: firmware (>= 5.0), mobilesubstrate, applist, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./debfiles/com.BIENVANNHAT.notchification_2.2-2_iphoneos-arm.deb
+Size: 1535856
+MD5sum: 982eebf72d05f5975086ea4ec64fcc5b
+SHA1: 8a2274c68a3f0a72db120021c3b862bb3aa5d401
+SHA256: cf6eddb1008459dc415a5726231a7a3b6deb4312acf51f561ffa43591ddb1df1
+SHA512: a103f1e153d5c475a6ca457a8dc4b8198f5bdeaa0e933f8b19450451518fce20fe03fc7659ad57b36f0e812dc59eadb05bf5f6255f045cb529e1d1f006bb42ae
+Description: Hoạt hình khi có thông báo cho thiết bị của bạn.
+Name: Notchification VH
+Author: c1d3r
+Depiction: http://support-jailbreak.github.io/infodeb/notchification/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/notchification/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.notifierdots
 Architecture: iphoneos-arm
 Version: 0.3-5
