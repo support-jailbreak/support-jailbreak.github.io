@@ -6570,11 +6570,11 @@ Maintainer: Repo Cydia BVN
 Installed-Size: 1012
 Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
 Filename: ./debfiles/com.BIENVANNHAT.messengernoads_3.12.0_iphoneos-arm.deb
-Size: 582796
-MD5sum: f0f8985ed2e12d2e842695dee118472c
-SHA1: f1bc3997d45bf59bb0136a620a1f038454f1ec19
-SHA256: cabab7fe1beed7626f2cd82aa5781292496d8a2924c19a5949acf871ef91e2da
-SHA512: 89932dcce63c868180f808c1c0e12ff59fb609b9ca7698f7f85970cb1744712a0d5f834c6f22460fa02747bd946141ccd51e5afb10e0b286484c5b04cef1ce81
+Size: 582840
+MD5sum: 2ef14203619ae96545f368b53e9d96fb
+SHA1: 41576552422ce1dc59b6dbb5ef9d48067cd82594
+SHA256: 340d15bdc9e50f0762350ab3792de9ec5ee84e6a18866aa63b265d590656b18c
+SHA512: 636d0ac8c8cf391d2249138b06f24232eafc07d1bbd0685cbebba6ed575a487bd3cb2121e4fb44b78a976200bd613997e25cc28b1f64d1fdc059c5ac6d84f64e
 Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
  Tính Năng:
  - Ẩn quảng cáo trên ứng dụng Messenger
@@ -6588,6 +6588,7 @@ Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
  - Hỗ trợ iOS 12 - iOS 14
  - Hỗ trợ phiên bản Messenger mới nhất (nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 383.0)
 Name: Messenger No Ads
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
 Package: com.BIENVANNHAT.milkyway4
