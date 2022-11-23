@@ -10371,6 +10371,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOCYDIABVN.ampere
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.REPOCYDIABVN.ampere_1.0.0_iphoneos-arm.deb
+Size: 1284922
+MD5sum: 48a21847215b242bda017a7c3cfda062
+SHA1: c8fc51e048d2d0589a1496a0b9b9bf9898216a08
+SHA256: dc42ca104e6583f299ad1e3a9c879e37693c065dd7817c8813d19be2e951c887
+SHA512: 62be5db716af72091d54246191d7bea1bafd733f4f48247bc5035c36c245549acdf0e6c86ca8efe7e6c92ec9774876fc695c0a63a77e2b4a7332168b4d75e96c
+Description: Hiển thị phần trăm Pin giống iOS 16
+Name: Ampere VH
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+
 Package: com.REPOCYDIABVN.gesturesxv
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13645,6 +13665,26 @@ Author: opa334 <opa334@protonmail.com>
 Name: Choicy Việt Hoá
 dev: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Repo cydia Bvn
+Installed-Size: 1076
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.choicyvn_1.4.3_iphoneos-arm.deb
+Size: 254010
+MD5sum: 05652cd8963c8b5b50de1a1f293d1f4b
+SHA1: b6f47d904f55a9d41c08ba1470b5cc7528c1942c
+SHA256: 379309ff6f046de173241b7bb2211c04404dcdb6d2ac34a423efde30c6d45064
+SHA512: f97eaec7278cfd8e56c490868c50cf92472dc0226bd8d96483b752f9603db1e76e781df7c73cb285f528af8aa7469ae8051cf15be0a23a3655cec47188fe4c10
+Description: Advanced Tweak Configuration!
+Name: Choicy VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
