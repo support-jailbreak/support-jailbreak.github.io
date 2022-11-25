@@ -10637,15 +10637,15 @@ Section: Tweaks
 Maintainer: Biện Văn Nhật
 Depends: firmware (>=12.0)
 Filename: ./debfiles/com.bienvannhat.AirTroller_1.0_iphoneos-arm.deb
-Size: 811126
-MD5sum: ecef377e3edbff462a6b420882196597
-SHA1: ad004769ee0cf2adb9f3122e5d5ca6ba4ea9b64c
-SHA256: 39bffeeaf3bac109ce2bda0dacff61b93e9a6f4cd8625cc4aff18c1585a56d89
-SHA512: b00e86c74b3c5464f108fbd111b4971da6c15b0eca967b39fa339d6c649bb504e2fdac8dc556bc066f91ec72e49a645e85ab8d50a890aec1ef19310602885ad9
+Size: 811124
+MD5sum: c1ecca0513be5b4f55217e7514b1a468
+SHA1: 2066f3e96b64fd7b90d3dd03177566411cb029fb
+SHA256: 4a2ead0055cd058e953d7bf290df642ff6f11ac4c3157ea8c902b2107d3292ac
+SHA512: c01dad81f04ab684937e693815e0288e843bb70c194d723845625689b347029f5ee448f9c3d48e7d5c6c7fe02003bb466036cfc329b57b1cce12dc5c09cb5f6a
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: AirTroller
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AirTroller/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AirTroller/?p=info
+Depiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AirTroller
 Tags: compatible_min::ios12.0
