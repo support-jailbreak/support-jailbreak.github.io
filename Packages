@@ -10391,6 +10391,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 
+Package: com.REPOCYDIABVN.centeredlabels
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Filename: ./debfiles/com.REPOCYDIABVN.centeredlabels_1.1_iphoneos-arm.deb
+Size: 12272
+MD5sum: 1fe73531787a4163b1b0bc71d19c3339
+SHA1: f134d492ec8cfce6ad1bfbe649a7c3fa3049a999
+SHA256: eeb2c7f8d3b3d9a92a9f300513e35cd8fc91d1ad7c799be54e213e23cf201f96
+SHA512: c0203d486b470aebb4146a274abea68085404ad7a5e7d2ff354d22809557fa040944f5a1f1215a88576b52614fb474fbd062f80dbb0fcd51f3a41644e342ddc2
+Description: Căn giữa tất cả các mục trong trang Cài đặt chính.
+Tag: role::enduser
+Name: CenteredLabels
+Tags: compatible_min::ios13.0, compatible_max::ios14.8.1
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+SomeOtherEntryToControl: True
+
 Package: com.REPOCYDIABVN.gesturesxv
 Architecture: iphoneos-arm
 Version: 1.0
@@ -10669,6 +10688,25 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/RingTonesManager/?
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios12.0
+
+Package: com.bienvannhat.april
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Repo Cydia BvN
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, com.REPOCYDIABVN.centeredlabels
+Filename: ./debfiles/com.bienvannhat.april_2.0.1_iphoneos-arm.deb
+Size: 410716
+MD5sum: 6c8fe4f522b07845681dd041918772f8
+SHA1: 384044888b58f85efc7379a5e4061bf489aae4cf
+SHA256: 999a38bfc6a9ed93780e2009f1c05a3015281502a972d2dd3755e3455784945b
+SHA512: 22e7fc53da4b43d8d474a55cd94ca28135a2f82b2e3044c15121db7baf338f93ac092c4171f1065451422862b9d22d5eb809b72797cd12122282a9907f4ef00b
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April VH
+Author: Luki
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/April/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/April/?p=info
 
 Package: com.bienvannhat.bakgrunnur
 Architecture: iphoneos-arm
