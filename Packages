@@ -10430,6 +10430,26 @@ Author: Ethan Whited
 Depiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
 
+Package: com.REPOCYDIABVN.gesturesxv
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo Cydia BvN
+Installed-Size: 2756
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.REPOCYDIABVN.gesturesxv_1.1_iphoneos-arm.deb
+Size: 2185340
+MD5sum: 8ac473cacfbfaf4e193dc381303d9cef
+SHA1: aaaf84e6cfa5e7318bcc1ca4028b0fb9f74b5e58
+SHA256: 80df32e103bab23649e454c71d12a24b29f65aab02ca85fa014bd169a16d0976
+SHA512: a72ef562db3b8ef6750a2a249a0446be6e4753e5f20a1e6b6992e937c340cb105339402fc68a6fa9fd26441430bced96737f8c5ca872ab206cfcf4958fb299b0
+Description: Cử chỉ iPhone X được mang đến iPhone cũ hơn tương thích với iOS 15
+Name: GesturesXV
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Ethan Whited
+Depiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
+
 Package: com.REPOCYDIABVN.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.0.10
@@ -10661,6 +10681,26 @@ MD5sum: c1ecca0513be5b4f55217e7514b1a468
 SHA1: 2066f3e96b64fd7b90d3dd03177566411cb029fb
 SHA256: 4a2ead0055cd058e953d7bf290df642ff6f11ac4c3157ea8c902b2107d3292ac
 SHA512: c01dad81f04ab684937e693815e0288e843bb70c194d723845625689b347029f5ee448f9c3d48e7d5c6c7fe02003bb466036cfc329b57b1cce12dc5c09cb5f6a
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: AirTroller
+Depiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: AirTroller
+Tags: compatible_min::ios12.0
+
+Package: com.bienvannhat.AirTroller
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=12.0)
+Filename: ./debfiles/com.bienvannhat.AirTroller_1.1_iphoneos-arm.deb
+Size: 804848
+MD5sum: 497c3c2b7d13871e20cb8f23de0a10cd
+SHA1: a8074dfaf1ddf1c085bde7d56d2808fcc3638982
+SHA256: 26a05d1a4c15e3575ec9a224a26cb128b9f26e137667a0f1ade5020864d69aaa
+SHA512: 56f995de7c893766ebf8eb9606112e8b157198e6c182932fa2c899ad88f102bf252cc324ea6d39fb746c874eccabfe72328e4b9f789ba4195ec940937b98f4d3
 Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
 Name: AirTroller
 Depiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
