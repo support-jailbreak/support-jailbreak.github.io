@@ -12997,6 +12997,26 @@ Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.repocydiabvn.ampere
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.repocydiabvn.ampere_1.0.1_iphoneos-arm.deb
+Size: 1285368
+MD5sum: 30c7576364ab579f1bf120aa135a7d56
+SHA1: 7798fa8f2807eeab669811445680d570dacaaa80
+SHA256: 3f69badd13739fbbf48655b1496f47cb0fc7ec6331d5f92b81e350141bc0bb9d
+SHA512: 8f799f680a50a47720837f308e48c80af991a29774bf65117886427594f67eaddc1601c9595cdc6796985f7ed9c1e6792d1ef8166f3f869fce35b88e7aac77d5
+Description: Chỉ báo pin kiểu iOS 16
+Name: Ampere VH
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm
 Version: 1.0
