@@ -10691,6 +10691,26 @@ Tags: compatible_min::ios12.0
 
 Package: com.bienvannhat.AirTroller
 Architecture: iphoneos-arm
+Version: 1.1.
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=12.0)
+Filename: ./debfiles/com.bienvannhat.AirTroller_1.1._iphoneos-arm.deb
+Size: 781512
+MD5sum: 3e85b826afdac1aa7d50b22783e93584
+SHA1: 267052a261901142ebeb8437bc6709ce54c9b83e
+SHA256: 6a034cec1530f2fa61b8bc522dd3cd362f09e0b664087401db00c9e28ca82d05
+SHA512: d19a48643d8d966463e10b97095c99736a153947f43b0e97f9b121e86b905650eb0bf1d0a9e18d20246ea3536e6ed0e43c031e7321da465d08254b424eff6e4f
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: AirTroller
+Depiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: AirTroller
+Tags: compatible_min::ios12.0
+
+Package: com.bienvannhat.AirTroller
+Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: Biện Văn Nhật
