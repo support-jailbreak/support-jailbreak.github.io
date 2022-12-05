@@ -10410,6 +10410,26 @@ Author: ETHN <ethanwhited2208@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 SomeOtherEntryToControl: True
 
+Package: com.REPOCYDIABVN.fakepass
+Architecture: iphoneos-arm
+Version: 0.1.0-11+debug
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 208
+Depends: cy+cpu.arm64, firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debfiles/com.REPOCYDIABVN.fakepass_0.1.0-11+debug_iphoneos-arm.deb
+Size: 23456
+MD5sum: d6ec5522310e732ed69edfb038c70f88
+SHA1: 7749aedfbde61939f0fea909166d00e69aaf4b67
+SHA256: 0555bcc64a8584f900fc49a978996b2eb49af9eb05daa120bf7922c831365863
+SHA512: 7d8c13eef1e7da33f8e66074622e06d3b86e4d94350c12f856c22cd9a257cddf5b8100271fbda3b5a7e3f3433c1c7d374bf7491e4a84cb62220efd79f398de6f
+Description: Thêm mật mã vào màn hình khóa cho các thiết bị A10(X)/A11 đã bẻ khóa bằng palera1n. Sử dụng giao diện người dùng mật khẩu gốc của iOS.
+Name: FakePass VH
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Fakepass/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Fakepass/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.gesturesxv
 Architecture: iphoneos-arm
 Version: 1.0
