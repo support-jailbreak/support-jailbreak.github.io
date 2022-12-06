@@ -10391,6 +10391,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 
+Package: com.REPOCYDIABVN.ampere
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 1652
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debfiles/com.REPOCYDIABVN.ampere_1.0.3_iphoneos-arm.deb
+Size: 1311216
+MD5sum: 0f8249deb01f5793ce87b5d1e3a3a937
+SHA1: e696acd475a3da5a2c4ce6e0245cbaaaabec4a04
+SHA256: cb682f9bcf00fbd71ce60cab6a32913802081cf74b33d17f68dc4fdb3318e39a
+SHA512: 5bdd26ac156282bdd3e86e716450bc5e9d388b2bfc02762cac2be96da0521f3b6cb142bf59db23e21c98b21abcc85fe26a13eff8f11dbcec7dfa3f5259c60e86
+Description: iOS 16 Style Battery Indicator
+Name: Ampere VH
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+
 Package: com.REPOCYDIABVN.centeredlabels
 Architecture: iphoneos-arm
 Version: 1.1
