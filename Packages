@@ -10438,16 +10438,16 @@ Maintainer: Repo Cydia BVN
 Installed-Size: 208
 Depends: cy+cpu.arm64, firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14)
 Filename: ./debfiles/com.REPOCYDIABVN.fakepass_0.1.0-11+debug_iphoneos-arm.deb
-Size: 23456
-MD5sum: d6ec5522310e732ed69edfb038c70f88
-SHA1: 7749aedfbde61939f0fea909166d00e69aaf4b67
-SHA256: 0555bcc64a8584f900fc49a978996b2eb49af9eb05daa120bf7922c831365863
-SHA512: 7d8c13eef1e7da33f8e66074622e06d3b86e4d94350c12f856c22cd9a257cddf5b8100271fbda3b5a7e3f3433c1c7d374bf7491e4a84cb62220efd79f398de6f
+Size: 23452
+MD5sum: b63f07362908dfe0aa1173ec016ae9b8
+SHA1: d6272c30d821b8e103cecda77542dd3464c26125
+SHA256: 993b6b591dd5c17ceda901d8e719d4c990cba1b31759b3fbd5f6a43918c235b4
+SHA512: 6e95d95f31115932ef3bfe27965f6cb67773f5bdc4ae896c600abcccc27dbb5f19bc3ff0847d427fb4db6acb2dd903d4366f42498f8ae89091f4791656155bac
 Description: Thêm mật mã vào màn hình khóa cho các thiết bị A10(X)/A11 đã bẻ khóa bằng palera1n. Sử dụng giao diện người dùng mật khẩu gốc của iOS.
 Name: FakePass VH
 Author: nyuszika7h <nyuszika7h@gmail.com>
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Fakepass/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Fakepass/?p=info
+Depiction: http://support-jailbreak.github.io/infodeb/Fakepass/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Fakepass/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.gesturesxv
