@@ -205,6 +205,23 @@ Name: Black orange pro
 Author: Khoảng lặng
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Christmas
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Themes
+Maintainer: Biện Văn Nhật
+Depends: com.bienvannhat.snoverlay
+Filename: ./debfiles/com.BIENVANNHAT.Christmas_0.1_iphoneos-arm.deb
+Size: 63420
+MD5sum: d56ecbcecec9acd8343d822dd1484dc0
+SHA1: 1261a8582c9fc7c94c0b3c989396b25f368348a9
+SHA256: 428a2c7721add9e512c888d7a36bcdc9db483a490ef6266e6fada9e66590d161
+SHA512: 2bd414bafc3189acb869bcea53cb5e10ea9fe81693e2db3703bb32e194a2d78ab7abda0eff7249c5d8c42af5435081f64dc9e2414a873737828101b174fdc87b
+Description: Gói AE Christmas
+Name: AE Christmas
+Author: unclear
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.DARKMODE
 Architecture: iphoneos-arm
 Version: 3.4
