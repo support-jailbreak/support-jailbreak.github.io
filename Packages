@@ -16191,3 +16191,24 @@ Name: Zebra VH
 Author: Wilson Styres <wilson@styres.me>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: xyz.willy.zebra
+Architecture: iphoneos-arm
+Version: 1.1.29
+Section: Packaging
+Maintainer: Repo Cydia BVN
+Installed-Size: 12580
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debfiles/xyz.willy.zebra_1.1.29_iphoneos-arm.deb
+Size: 8276548
+MD5sum: 3e78e66631cfecff9c4e5bbd6292b581
+SHA1: 5839096106145c43e66561b2785fa0ccf6294540
+SHA256: f06ad2c751290fba076229bdb4d0a75c5464603e2f650fa6580d6351acf50762
+SHA512: 27ff2331f98081284f9ddc0732454ff606764d3fdd54fc59f4497a6eb820dc4d632bb3e5f95c18ed75142dbd8876b38cb60f436fef941b17f29cb4d5b39b5364
+Description: A Useful Package Manager
+Tag: compatible::9.0-15.7
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+
