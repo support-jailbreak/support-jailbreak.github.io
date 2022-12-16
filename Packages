@@ -12335,6 +12335,23 @@ Description: Be the god of your games!
 Name: iGameGod
 Author: iGameGod
 
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.2.6.1
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 184468
+Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
+Filename: ./debfiles/com.gamegod.igg_0.2.6.1_iphoneos-arm.deb
+Size: 39438808
+MD5sum: 5f3f1875c8e6850ffc57c69cf6de3222
+SHA1: 308fa76b261a28efb2055ea94c01460c97d23bd4
+SHA256: e05cabce781baee98250a8153a007d13994a5f1db5a309a8599511d9fdf3b32e
+SHA512: ea35f43747d7320adf7ada5cfb835c2818c24110259811e360a1e4823920789382b8857637499e1cf83cec0c9a8f68e663e234e64a59aaad8d7ec5d165fbff80
+Description: Be the god of your games!
+Name: iGameGod
+Author: iGameGod
+
 Package: com.ginsu.libgscommon
 Architecture: iphoneos-arm
 Version: 1.0.0-1
