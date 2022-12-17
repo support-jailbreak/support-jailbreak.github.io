@@ -10410,6 +10410,27 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOCYDIABVN.aim
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 4180
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: ./debfiles/com.REPOCYDIABVN.aim_1.0_iphoneos-arm.deb
+Size: 2229786
+MD5sum: 39e16ab3e43184444469c4ec69b344b3
+SHA1: 18bddfa4e66ae76ccba3aaaa47ea202482492b45
+SHA256: 625adc94d27f4a239c55e373d291b9e2646725dbba5f4b41d3b8c034c8534a9d
+SHA512: 994de13e363c023141a4f7586ae01f7c56d18ffda5ef55909a7092ed74588bb0f3d409ce9dd20df475ee0f97ea234ddda14f929dd240c5545a1b2d179ddca2b8
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM VH
+Author: alimaulana
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+
 Package: com.REPOCYDIABVN.ampere
 Architecture: iphoneos-arm
 Version: 1.0.0
