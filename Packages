@@ -13134,6 +13134,27 @@ Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.repocydiabvn.aim
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 4180
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi
+Filename: ./debfiles/com.repocydiabvn.aim_1.1_iphoneos-arm.deb
+Size: 2234390
+MD5sum: 843c488ba3834431cd6108fc6c8434dc
+SHA1: 5145e4af559b8dd0ab0299e0c1b881ca7a4f860f
+SHA256: 6ee6ccf86ad7b9e1571314ee924cb7772d64a817658c39f28312dd0e440c30ef
+SHA512: 647dd73f940cc8b687b6e4d17c6097b5dd17a4bb50bfbdd25c02248d9e77fe680048c65eaa999fe619c945504919e65d1285da7151bcf10af212c264fd974604
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM VH
+Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: alimaulana
+
 Package: com.repocydiabvn.ampere
 Architecture: iphoneos-arm
 Version: 1.0.1
