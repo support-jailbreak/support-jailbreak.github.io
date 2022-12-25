@@ -10572,6 +10572,25 @@ Author: Ethan Whited
 Depiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/GesturesXV/?p=info
 
+Package: com.REPOCYDIABVN.milkyway2iOS15
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debfiles/com.REPOCYDIABVN.milkyway2iOS15_0.2.0_iphoneos-arm.deb
+Size: 101292
+MD5sum: dfc845545f5251c3358f20572ac04446
+SHA1: 369f1b314517f6285c9c89d13c2edc096d766d75
+SHA256: 9c7262eb07807494694f51672b88a66296761afac143dfa7fca0e7dba7369b05
+SHA512: 94ab2ec814b2fbd6e2110d66c9dba3d49a45ed99fed011dd540a11b6e00c6f76265899ec8d2ae044dd74beb0151ac608682a4833efbe70adc4fba9192049c583
+Description: Milkyway2 hỗ trợ iOS 15!
+Depiction: http://support-jailbreak.github.io/infodeb/Milkyway2/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Milkyway2/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: MilkyWay2 (iOS 15)
+Author: akusio <akusio-report@neko2.net>
+
 Package: com.REPOCYDIABVN.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.0.10
