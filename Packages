@@ -15684,18 +15684,18 @@ Maintainer: Biện Văn Nhật
 Depends: firmware (>= 9.0)
 Conflicts: com.matchstic.reprovision
 Filename: ./debfiles/jp.soh.reprovision_0.8.4R_iphoneos-arm.deb
-Size: 16789306
-MD5sum: ec789e4f2182e6941df2bb2a38eeeaea
-SHA1: 075e69f3ed35a72b1bcb2f07ba53b4f5f945c129
-SHA256: d1ff61c931673572d34c4b76029068b53a1052b4f8fd24fefb45ffffa4bac79a
-SHA512: 301fd43587cfb81425a4a8fece8120fbafdd58a011a009d0db1d1cda7ac51cab687ba84fa7c7f855b2ed626a0325b6bc0f847604d6c02fd8d7e562b543dcc257
+Size: 16789316
+MD5sum: 10503acd66ba2bc0a466d3e3f520bfe5
+SHA1: fa3e40420ef6a8732f74cda6c70d53024c946bc8
+SHA256: 21de2b060fcd2027279be12c51176e5d2314a20a7e3975d4d113d1ac593ece23
+SHA512: aab17b88e42e8eb331625faf2d4bc7f47f295292f05e94ce86d714f645aa58e5cddb50d2d715bd7dc04b553b4634ce06a167cb8c08bf2380942ff706d60fcac2
 Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
 Name: ReProvision Reborn VH
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Repro/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Repro/?p=info
+Depiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Repro/?p=info
 
 Package: libnghttp2-14
 Architecture: iphoneos-arm
