@@ -16238,6 +16238,29 @@ Name: Mejor Việt Hoá
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AzozzALFiras
 
+Package: ws.REPOCYDIABVN.newterm3
+Architecture: iphoneos-arm
+Version: 3.0~beta1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 14891
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debfiles/ws.REPOCYDIABVN.newterm3_3.0~beta1_iphoneos-arm.deb
+Size: 6354766
+MD5sum: d5713dca72812f3c18a690f95c663e58
+SHA1: 5c3a0993ddb75e34f7aabf43d9d452f175f54735
+SHA256: fc2a52b5da54d0b17b9fbbdaf696a2973a621647fab882a655fcfe402c1a279f
+SHA512: 036f19202ab52bc8cbd8bc288fc4cbb486e77da7a046bb8b7e09f169b258f919d2d86112408cb1897ae74ff61af53c5adfce1b410c34f4d1c6e4cb6f0cb03bd4
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Name: NewTerm 3(iOS 14-16)
+Support: https://hashbang.productions/support/
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://chariz.com/get/newterm-beta
+
 Package: ws.hbang.alderis
 Architecture: iphoneos-arm
 Version: 1.1.2R
