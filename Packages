@@ -15503,6 +15503,26 @@ Description: Fix Lira
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Git
 
+Package: ios.REPOCYDIABVN.lunartime
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debfiles/ios.REPOCYDIABVN.lunartime_1.0_iphoneos-arm.deb
+Size: 26634
+MD5sum: 10a4ac0103acad4423a507ebc3104147
+SHA1: 25cd3854464967e54da58b21df0f81d538d49fbc
+SHA256: a1a9f2db66dcf4fd886414f97c36959eab44f4bf1cc358d09c253b186dd21950
+SHA512: 025847894d8ffb6e0c1fdea43c2ef4342138101ff5286da7b63846d8e45901198f050933569d6122492b4e31859367890c5c50f3438eb2a27fa70e7bb6c766ba
+Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
+Name: LunarTime Plus
+Depiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
 Package: jp.dcsyhi.zetsu
 Architecture: iphoneos-arm
 Version: 1.0
