@@ -11009,6 +11009,26 @@ Name:  KineMaster Premium
 Author: Qamislo Tech
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.lunartime
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bienvannhat.lunartime_1.3_iphoneos-arm.deb
+Size: 20656
+MD5sum: 4e8c37e5336cd5ea51e5aec1c26b0233
+SHA1: cd86d272a5615307b1dd05666393f0f54dcfb798
+SHA256: b266fad8da47510abb4212c7036b37887ce10275c0dbe175e794003b2ff12f2b
+SHA512: a20e3287a0eb7f738542673d145218519ad9ed8852986cfc59a610410795ae096cd6a8b8b08329b2329b857d06d5a7cf6caace0f05a49933c971359d73bc845c
+Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
+Name: LunarTime
+Depiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
