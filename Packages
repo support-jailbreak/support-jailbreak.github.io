@@ -10514,6 +10514,29 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 
+Package: com.REPOCYDIABVN.callbarxs
+Architecture: iphoneos-arm
+Version: 4.0-127
+Section: Tweaks
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Installed-Size: 1728
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, org.mr.unsubs
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debfiles/com.REPOCYDIABVN.callbarxs_4.0-127_iphoneos-arm.deb
+Size: 544408
+MD5sum: 361c8bd29b9816f276e3894570f5f781
+SHA1: 4ae29ba44fec5ebe73e75bae895a89ca4d764b30
+SHA256: 55c07ca1b79631a85a03bdc73b9e730b3cc6ecacd415f890b4208bf39efd1071
+SHA512: cb6214fa717a570a4e3abe29e056bccf0f3ea550524eae1fd206dc690d70ab63c5ca82c76a75fb222e4beffa53053a75b938e75e3684b1c3e568235a310e21df
+Description: Đừng để các cuộc gọi đến làm gián đoạn bạn!
+Tag: purpose::extension
+Name: CallBar XS (iOS 12/14)VH
+Author: Limneos
+dev: limneos
+Depiction: http://support-jailbreak.github.io/infodeb/CallBar/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/CallBar/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.centeredlabels
 Architecture: iphoneos-arm
 Version: 1.1
