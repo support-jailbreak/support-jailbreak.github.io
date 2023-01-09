@@ -10656,6 +10656,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: MilkyWay2 (iOS 15)
 Author: akusio <akusio-report@neko2.net>
 
+Package: com.REPOCYDIABVN.smileglyph
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 2336
+Depends: mobilesubstrate
+Filename: ./debfiles/com.REPOCYDIABVN.smileglyph_1.0_iphoneos-arm.deb
+Size: 769232
+MD5sum: 441a100f542374d36acbca7ce8174625
+SHA1: 0d664f6244498a2ee7b632ea00d1e648628796b2
+SHA256: f737ac6e720e01cb76c3474ff21825f8235c987898fb87dee7cd1c7bdc3a839f
+SHA512: f76c5fc4142ce440943ae558a83d0c874d1aed26803c4747f78f2a0412b8cfdb087aed2cd35d173b3d41781658ce3be44caed2d9feaf46f151273c6bf356e164
+Description: Replace Default LockGlyph With Smile Icon Animation Glyph!
+Name: SmileGlyph
+Depiction: http://support-jailbreak.github.io/infodeb/SmileGlyph/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SmileGlyph/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
 Package: com.REPOCYDIABVN.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.0.10
