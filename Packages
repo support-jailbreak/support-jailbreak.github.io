@@ -8377,18 +8377,18 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debfiles/com.BIENVANNHAT.shuffle_1.6.1_iphoneos-arm.deb
-Size: 574890
-MD5sum: 673209e33bb582bbb31c5262da501f8b
-SHA1: bf05cffa3bb24a46c9e61c92040ed02d29b6b240
-SHA256: afea01f4692501eccc63fef7af983cbf8eb00a42479e744ef5f742cb78fce2da
-SHA512: b82697a6ac234a76f6826a894ec7c36a385a9c8d99088b467c01814c6e15c2ed157b0ae2827ca1e15a9117261f6ced46b8e9ffdff17642dbda9a4492b8cb5e01
+Size: 574896
+MD5sum: f887462e9c4e6dc3b9bd421600aefad7
+SHA1: 0e604a7218356e56da91663b2d3e1f307012b1f4
+SHA256: de19a5b77b19b719a91a5b6253e871108f7d73ff95750dd2be8cd7126a4cf1a1
+SHA512: c623fe050a867bf3a5aeda293619adbe29d727ade2224814bb188a78aa1199477d71711d01fc28b509834f942c0fe5120edd49597e517e7f3385f1128bb37251
 Description: Sắp xếp cài đặt của bạn
 Tag: purpose::extension, compatible_min::ios10
 Name: Shuffle Việt Hoá
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Shuffle/?p=info
-SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Shuffle/?p=info
+Depiction: http://support-jailbreak.github.io/infodeb/Shuffle/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Shuffle/?p=info
 
 Package: com.BIENVANNHAT.simplus
 Architecture: iphoneos-arm
@@ -10514,6 +10514,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 
+Package: com.REPOCYDIABVN.blacklist
+Architecture: iphoneos-arm
+Version: 0.0.1-59
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.REPOCYDIABVN.blacklist_0.0.1-59_iphoneos-arm.deb
+Size: 36446
+MD5sum: b181114976ca9ae753bfb2d6754d5ded
+SHA1: 41c13a9a8f9e0768e79d3fe7fe0d3bf560b69f19
+SHA256: 06fc67aaf2fbcebe1650fb17de06b4d8a4558a952cc8177c3911f35231585bc8
+SHA512: 894109d530937b569f52b58ffbc8b27d70e68fdaa155990033aee84eaaebc107d2a0702ee262d279a4fd49dfd2479081d0c5b44eb73d7734451de41051c4c610
+Description: Chặn phát hiện Jailbreak cho Tool Xina520
+Name: XinaBlackList
+Author: xina520
+Depiction: http://support-jailbreak.github.io/infodeb/XinaBlackList/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/XinaBlackList/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.callbarxs
 Architecture: iphoneos-arm
 Version: 4.0-127
@@ -10655,6 +10674,26 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Milkyway2/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: MilkyWay2 (iOS 15)
 Author: akusio <akusio-report@neko2.net>
+
+Package: com.REPOCYDIABVN.shufflexinaa15
+Architecture: iphoneos-arm
+Version: 1.6.1-1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.creaturecoding.shuffle
+Filename: ./debfiles/com.REPOCYDIABVN.shufflexinaa15_1.6.1-1_iphoneos-arm.deb
+Size: 1749318
+MD5sum: 54a008fca778b8fca27bac6ead18d433
+SHA1: df7afa382071665edfb056249b5e7009e9ef26f7
+SHA256: bb169bef4ca70f3fd5269d9f59f5855f05e49d88d1523b7d8f83f22744618124
+SHA512: eccbf6dcbf8a19df66f88c3cbf88796878aa38dc0c3b9679326e50f69c8d70c1c747e0a8c9edf674b254f040f73bca9afd336174b5ea43ee51cb0c05278b5f4e
+Description: Sắp xếp cài đặt của bạn
+Name: Shuffle for Xina A15
+Author: CreatureSurvive
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/Shuffle2/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Shuffle2/?p=info
 
 Package: com.REPOCYDIABVN.smileglyph
 Architecture: iphoneos-arm
