@@ -10684,13 +10684,13 @@ Installed-Size: 4944
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
 Filename: ./debfiles/com.REPOCYDIABVN.aim_1.2.9_iphoneos-arm.deb
-Size: 3067128
-MD5sum: ac2965f2ab7c3478158052f3d0e2c347
-SHA1: b23d8d1bdb4552962a9a46017f1c11c18730d5e0
-SHA256: 936eeaabc32f3610b28c28ceb06323dc1ef4aa2aea4e1d850c2ebf2447cd212a
-SHA512: 6a9906d7768d89980767bde20e0a5e542d3c3535f55e8a4ff75891f308f5ab4284a34007c7c2594dbb0ec93ce74b5fb4ce90c1221fadfcf13bad6e8def15b384
+Size: 3067132
+MD5sum: 6c55f209ded7071f48bf012e40586fe8
+SHA1: 31f608726f4f75fb15f71b4b961cd8f206a20e72
+SHA256: b63b4062ec3d9a3d414b0ef6f53920b4154ae81b54dd81d7677fb0a3c8e4ce6b
+SHA512: c30dc8f5cf05a7a3b1fbb190a22cddb6a0226166c31e6e794bc54f665749d0424f98114b8a0826fd924b8b8c98ce888996c34bbd2fad13c66863cf7eba0f435e
 Description: Màn hình khóa thời gian và ngày kiểu iOS 16
-Name: AIM
+Name: AIM Việt Hoá
 Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
