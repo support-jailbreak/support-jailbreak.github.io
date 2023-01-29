@@ -10261,6 +10261,25 @@ Name: AutoScroll iOS14 VH
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAY.autoscroll14
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAY.autoscroll14_1.0.1_iphoneos-arm.deb
+Size: 34408
+MD5sum: fda22b5ba460d39eae0dfceb4b14330e
+SHA1: 0b8c0492c7e37bbc200451311bb989b9b094f12c
+SHA256: e665ae69090e698bfc80c47b648bc6a0ede493700c8c5f9b83204bf238acf9a8
+SHA512: 1af8629c1d35a62e17966473e77d6ebf62c14ae4ec5332d8de54932c4999e0614e300a895b452fbe59ba99a6b451a98786ea4b6a1d1058da3202505788e2b92a
+Description: Tự động cuộn trong toàn bộ hệ thống và trong tất cả ứng dụng
+Depiction: http://support-jailbreak.github.io/infodeb/AutoScroll/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AutoScroll/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AutoScroll (iOS 13/14/15)
+Author: pxcex
+
 Package: com.BIENVANNHAY.vezaIos14
 Architecture: iphoneos-arm
 Version: 0.2-beta
@@ -16411,6 +16430,27 @@ Author: ReJail
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AdBlock/?p=info
+
+Package: ru.rejail.limneosos
+Architecture: iphoneos-arm
+Version: 2.0.2-2
+Priority: optional
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debfiles/ru.rejail.limneosos_2.0.2-2_iphoneos-arm.deb
+Size: 52130
+MD5sum: c68866b4bb7f580061a5a4a3381b7008
+SHA1: b60daf8aa3975f8cbc3e78914805e05e09e53804
+SHA256: 8be2be726eac29c8521892d739776ec33b3c1adb98f4fc8f12b45ab16159469a
+SHA512: 018b7f12ba15b4d6b899d07bbb1be3a794822b1bc15ddbaf8902583a0b4b4e75463320880bb6483102c1c703af44eae8ffd98475de9524819dc4d95220e31cb4
+Description: Công cụ giúp kích hoạt bản quyền các Tinh chỉnh của Limneos
+Name: Limneosos
+Depiction: http://support-jailbreak.github.io/infodeb/Limneosos/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Limneosos/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ReJail
 
 Package: ru.rj.libtitand3vuniversal
 Architecture: iphoneos-arm
