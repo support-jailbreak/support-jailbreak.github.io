@@ -2816,6 +2816,29 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.bioprotectxs
 Architecture: iphoneos-arm
+Version: 4.7-46R
+Section: Tweaks
+Maintainer: Repo Cydia BvN
+Installed-Size: 2125
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), ru.rejail.limneosos
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debfiles/com.BIENVANNHAT.bioprotectxs_4.7-46R_iphoneos-arm.deb
+Size: 835194
+MD5sum: 43fd1d671fd3fd7cbcb2851d8973f295
+SHA1: 8b5a024a4ce7ed1a3de622bbe939ad9cc58192e7
+SHA256: 5882bcd92a7311759307c8cfba883d0c47305c33cc1eb4ead5c81012d7c36580
+SHA512: 1651b987130df3e84f2b531aaef5e22710e1f842691552c8059f16da3e7508ba9ef87eba130b4bc436bb8e518ca8830ef04f80150050860b504c16d1009928ce
+Description: Bảo vệ ứng dụng của bạn bằng Touch / Face ID
+Tag: purpose::extension
+Name: BioProtect XS (iOS 12/13/14/15)VH
+Depiction: http://support-jailbreak.github.io/infodeb/BioProtect/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/BioProtect/?p=info
+Author: Elias Limneos <limneoselias@gmail.com>
+dev: limneos
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.bioprotectxs
+Architecture: iphoneos-arm
 Version: 4.7
 Section: Tweaks
 Maintainer: Repo Cydia BvN
