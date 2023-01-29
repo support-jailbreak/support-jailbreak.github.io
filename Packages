@@ -267,14 +267,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.Dumbledor1Shadow_1.0_iphoneos-arm.deb
-Size: 72890
-MD5sum: d356e4d4083ec23d9bb0529a9d79062b
-SHA1: 84a622af7113491c6e33d494062483fc96bfc0f3
-SHA256: b24302d6f938a3c1be7876d215b9362df62e267164f6cfb1a2236f974349aa9f
-SHA512: 3b3ada0e1f16fd7b52e5148e2b981e6c33274e6c13fe58c016ef151eaee538b8c358aaeda13bab70e4bfb234339c210ed089f6ea860482cc929069995a4f83c4
+Size: 72970
+MD5sum: 1d4cf1a7b78a0a74746c3ac2f2c1f8b7
+SHA1: b29593e84931b97dc3a2f4f1015973484c386b3e
+SHA256: 57159da05b6823a3b671419330630a7e2abb2ec56b27ce81bc7995f19d5420fa
+SHA512: 3f4ebd282c14705b67674a98b54b9297c43f111284d59942a73d864d89a6303c10187558dce6713025f469018dda45dcd1b5b408c651a9f1f9141ba88e230da5
 Description: Phông chữ cho AIM
 Name: Dumbledor 1 Shadow
 Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font7/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font7/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.ElagenLyo
@@ -400,14 +402,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.GuardianPro_1.0_iphoneos-arm.deb
-Size: 36372
-MD5sum: 640fbabb5cd1c845cac3fa6cb74ac82b
-SHA1: 6fdd1300a63f6600aadbe04f7d70d11881fecf85
-SHA256: 6fa110b8ac760b0ffc9e9640ccb95fa2d9ed625ea71681cd67d66c13cd3c2d00
-SHA512: 10c8e72f3d8afc358458cd423594e90997cb10a9dd1a848becaa00187b902e329559d77ca5e14cb6516fd2248768012041881dce4e495e76abf2aef7701da7dd
+Size: 36454
+MD5sum: 17357541b4d45cd622a88e2ebf3a7c80
+SHA1: 96f3f9192e481b8845295fa2c63bcb490d251640
+SHA256: 0227aca4bd5305168bc069e6c953ef261d810203484f74c15092841a3500352c
+SHA512: 7305a205c4512ba1c5ebb2ad67e1b721660f448bbcb35393d507d4342943a769fa4f39779dc892b8d87cde6c8e39c0155ca1c04698ef872f36f956e6ffb4b0b5
 Description: Phông chữ cho AIM
 Name: Guardian_Pro
 Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font6/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font6/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.Key+
@@ -636,14 +640,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.PlasmaDrip_1.0_iphoneos-arm.deb
-Size: 63830
-MD5sum: ba3a47e37fe15a9b4a07023d2f1a9620
-SHA1: 65c2f4ead6a9611ca8305767e789d54f756d71bd
-SHA256: 8a8cc78cff2e787e9630badce38bc11cd3882aaa3dcaefec6b7b5d728ec6b6e0
-SHA512: d6c16a5578ea2b1687145c68c3825b0e83da5730f69932715e9329d4f91d29f235e907c31e8d536d5f489184661acd3a6b83194e8bc7efd1053aa77aa072c6b8
+Size: 63914
+MD5sum: 3aba97a109c65d10d95777bb9a455054
+SHA1: d2afb38e7e1fdc06b28b3b89ce6a5c2fd58ec9f1
+SHA256: 6e13f615e384cdcd0c91e357810c338922640fc30e77ece7e406b129dcce10f9
+SHA512: 65c73dea79bbf24618d5d2a6fb7ab8b7901e1d4b6a25f97a3832136f0ec2481362631d0f4778ee2864d98fe621084d663e4e3dddaa7a4a62a8d36bc00bccd27f
 Description: Phông chữ cho AIM
 Name: Plasma Drip
 Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font5/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font5/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.PlayTogetherX
@@ -966,14 +972,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.SlipstreamLET_1.0_iphoneos-arm.deb
-Size: 66370
-MD5sum: aedec4b3455f63e7641ae960faf2f2ba
-SHA1: 8f3c8f2bb0e04357c82424397df69ffce85171e5
-SHA256: 0a7086fbee7f08c3acf309725ee5e1d5a6063f894223bc4a8b6fb51be33037d3
-SHA512: 108737d35f89ef0efb6da99f2f679e390968ad16526452204e756be8c8e787ea9276f12dc33b23cba72be5535ab411c6e5175def0052431b7eada2e8183f261f
+Size: 66452
+MD5sum: 6b639e011fd676850f985e93e662ef50
+SHA1: 98fd44f68bd08d7e4c0e4e48a3c6d3b5a9561f8c
+SHA256: 61bffb46127d42d467f3e558901515e13a28597e8db6ea7f3be6d773747881f8
+SHA512: 2d26056c162a86fffbc93252568c7b9333a9ef1b87155da60f742c10f84f4ff9241d30116a4e68ebe6400d75f476f1bddd106a17499a875e12beb3458b04ded5
 Description: Phông chữ cho AIM
 Name: Slipstream_LET
 Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.SmartDND
@@ -1118,14 +1126,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.TriremeAcademyItalic_1.0_iphoneos-arm.deb
-Size: 33996
-MD5sum: e06ce10c9658718c10643d38c4bc76d5
-SHA1: f27c3b77e8849e791a4457cf4f33761b359b89c5
-SHA256: 05100376fad6961dbb6c5197bba3757824fc38b2bc1b7720a9332256fb0d258a
-SHA512: 8901c5a8ba1a69a7891e80da42192c95d1ef2c3df921b25eca8739c298090ae92c6866c82f2cbca257fae6769aad03239236fd7dd0595a76d96fe410acd03f4c
+Size: 34072
+MD5sum: 1e70380500006a9d57d06d5e42a2326b
+SHA1: 770d718bbbe3058d09b83bf34c5db418b1e514f7
+SHA256: 3e2c987173c6c96646a5a5d854a65b02128cb89c9efe04d7ba77df672ea3f1db
+SHA512: 61f66ac634726335cd2868875d9c54095df3f8979e5413face2efd358fa3ac16e868e4a773ea6b7f6c3b11a9a41fe29d1e22795d7bf38cda349c7c35bf3f7b87
 Description: Phông chữ cho AIM
 Name: Trireme Academy Italic
 Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font4/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font4/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.Wifi
@@ -1152,14 +1162,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.YangJiiiLineat_1.0_iphoneos-arm.deb
-Size: 19256
-MD5sum: c1a2e15d00f986b489e472e9066689cc
-SHA1: 296f4b9ea2380fd8023d556cb56af9062eaae089
-SHA256: 2b32c354be3a7b6390083854beef4b2fa46a8b09e000ea7f556482f2a047bb1b
-SHA512: a7a8954caec00ef07d4115f8e46aa23c2e9adfba25fb0fc0a158694d67d0f6e236e6f9fb1800af4afd2ffee5aa4475ab63fccce01725729e6a43f0406bb5fa3c
+Size: 19340
+MD5sum: a7cf459d4d993db10e5177f1264939c9
+SHA1: ae0be35f524a1aa29e25901755425d318c878e63
+SHA256: 58e680749b5dee3175187a9962858c2571559e2ffae5a9b69074875ad663c6d1
+SHA512: 2716b52d29e00c83bd7c1469e9022ea96abeae3ae68af84a303965b4fe90d0bc740395de133fcf2343943d360e5381e93214d3db52aafee76d7415311bcd8407
 Description: Phông chữ cho AIM
 Name: YangJiii_Lineat
 Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.a-font
@@ -5409,14 +5421,16 @@ Section: AIM Fonts
 Maintainer: REPO CYDIA BVN
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debfiles/com.BIENVANNHAT.gwyneth23_1.0_iphoneos-arm.deb
-Size: 16774
-MD5sum: 3328082d32590dc4dd744745a2d9df4e
-SHA1: 22ffc9de5798d658b90c7675cfd70730ab2be958
-SHA256: 19d7675c13b06a189bd6c1ef57fe6a413177f38ad7fe2f62cd5469945d19d1be
-SHA512: e503a0b56f09c87143edb89782a078b162e9e772fa294f1359c545f6d8de80f3b77dfc6f3b11c963f9219b5bad020248d3346260f9749f86a5e3875cc06fbc87
+Size: 16930
+MD5sum: 0c40e863c3c0d36d030b827a429f0294
+SHA1: 16c8806919ed82ebfdd7db1459ef6f7c819c2175
+SHA256: e67e27c26c42cd9ad90858706eb8ce8512730005c0c74b912e5b1ea2783bc79d
+SHA512: aafa478ce785b2d871cc56f1dfba74cf76b59820954fd582f45d716bea022193ab6dcd1b9f8e4f05ce9a0e3e79512cfce11909e77eb31242527d47d6c5bb89d4
 Description: Phông chữ cho AIM
 Name: Gwyneth23
 Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font2/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font2/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.halem
