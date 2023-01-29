@@ -260,6 +260,23 @@ Name: Diary wallpaper
 Author: Litten/BVN
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Dumbledor1Shadow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.Dumbledor1Shadow_1.0_iphoneos-arm.deb
+Size: 72890
+MD5sum: d356e4d4083ec23d9bb0529a9d79062b
+SHA1: 84a622af7113491c6e33d494062483fc96bfc0f3
+SHA256: b24302d6f938a3c1be7876d215b9362df62e267164f6cfb1a2236f974349aa9f
+SHA512: 3b3ada0e1f16fd7b52e5148e2b981e6c33274e6c13fe58c016ef151eaee538b8c358aaeda13bab70e4bfb234339c210ed089f6ea860482cc929069995a4f83c4
+Description: Phông chữ cho AIM
+Name: Dumbledor 1 Shadow
+Author: legionfonts
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.ElagenLyo
 Architecture: iphoneos-arm
 Version: 1.0
@@ -374,6 +391,23 @@ SHA512: 2795f3f57c31954082ffec6a87bc21da2aabc6c524c948f33f95b70b544145e654404e82
 Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.Theo nhà phát triển thì tinh chỉnh này bỏ chặn phát hiện Jailbreak cho một số ứng dụng tại Hàn Quốc và không biết liệu nó có hỗ trợ cho những ứng dụng ở các nước khác không? Chẳng biết nữa, anh em cấu hình tại Cài đặt rồi chọn ứng dụng cần bỏ chặn xem ra gì không?Hỗ trợ Ios 11 tới Ios 14.7
 Name: FlyJB X Việt Hoá
 Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.GuardianPro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.GuardianPro_1.0_iphoneos-arm.deb
+Size: 36372
+MD5sum: 640fbabb5cd1c845cac3fa6cb74ac82b
+SHA1: 6fdd1300a63f6600aadbe04f7d70d11881fecf85
+SHA256: 6fa110b8ac760b0ffc9e9640ccb95fa2d9ed625ea71681cd67d66c13cd3c2d00
+SHA512: 10c8e72f3d8afc358458cd423594e90997cb10a9dd1a848becaa00187b902e329559d77ca5e14cb6516fd2248768012041881dce4e495e76abf2aef7701da7dd
+Description: Phông chữ cho AIM
+Name: Guardian_Pro
+Author: legionfonts
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.Key+
@@ -593,6 +627,23 @@ SHA512: 42d5c00e07996a54e8f046be91b00c627d7fb5a94b23d6b144f3ce44f90a73e30622479c
 Description: Patch V6.4 Việt Hoá của Team Flex 3 Việt Nam,khi cài Patch này nó sẽ cài luôn Tweaks Flex 3~beta bên nguồn mình,vậy Ae đang xài Flex ở nguồn khác vui lòng xoá trước khi cài đặt❤️
 Name: Patch V6.4 Flex3 VN
 Author: Flex3 Việt Nam
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.PlasmaDrip
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.PlasmaDrip_1.0_iphoneos-arm.deb
+Size: 63830
+MD5sum: ba3a47e37fe15a9b4a07023d2f1a9620
+SHA1: 65c2f4ead6a9611ca8305767e789d54f756d71bd
+SHA256: 8a8cc78cff2e787e9630badce38bc11cd3882aaa3dcaefec6b7b5d728ec6b6e0
+SHA512: d6c16a5578ea2b1687145c68c3825b0e83da5730f69932715e9329d4f91d29f235e907c31e8d536d5f489184661acd3a6b83194e8bc7efd1053aa77aa072c6b8
+Description: Phông chữ cho AIM
+Name: Plasma Drip
+Author: legionfonts
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.PlayTogetherX
@@ -908,6 +959,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
 
+Package: com.BIENVANNHAT.SlipstreamLET
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.SlipstreamLET_1.0_iphoneos-arm.deb
+Size: 66370
+MD5sum: aedec4b3455f63e7641ae960faf2f2ba
+SHA1: 8f3c8f2bb0e04357c82424397df69ffce85171e5
+SHA256: 0a7086fbee7f08c3acf309725ee5e1d5a6063f894223bc4a8b6fb51be33037d3
+SHA512: 108737d35f89ef0efb6da99f2f679e390968ad16526452204e756be8c8e787ea9276f12dc33b23cba72be5535ab411c6e5175def0052431b7eada2e8183f261f
+Description: Phông chữ cho AIM
+Name: Slipstream_LET
+Author: legionfonts
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SmartDND
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1043,6 +1111,23 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Th0r14/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Th0r14/?p=info
 
+Package: com.BIENVANNHAT.TriremeAcademyItalic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.TriremeAcademyItalic_1.0_iphoneos-arm.deb
+Size: 33996
+MD5sum: e06ce10c9658718c10643d38c4bc76d5
+SHA1: f27c3b77e8849e791a4457cf4f33761b359b89c5
+SHA256: 05100376fad6961dbb6c5197bba3757824fc38b2bc1b7720a9332256fb0d258a
+SHA512: 8901c5a8ba1a69a7891e80da42192c95d1ef2c3df921b25eca8739c298090ae92c6866c82f2cbca257fae6769aad03239236fd7dd0595a76d96fe410acd03f4c
+Description: Phông chữ cho AIM
+Name: Trireme Academy Italic
+Author: legionfonts
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.Wifi
 Architecture: iphoneos-arm
 Version: 1.0~Beta
@@ -1058,6 +1143,23 @@ SHA512: 1c76bd6e502794d8c1e4cc11e23e20305289dc3bcff34f5ea8ea4acc52a53f378bbb7c11
 Description: Luôn kết nối WIFI,hỗ trợ Ios 11 đến Ios 14.7
 Name: Luôn kết nối WiFi
 Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiLineat
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.YangJiiiLineat_1.0_iphoneos-arm.deb
+Size: 19256
+MD5sum: c1a2e15d00f986b489e472e9066689cc
+SHA1: 296f4b9ea2380fd8023d556cb56af9062eaae089
+SHA256: 2b32c354be3a7b6390083854beef4b2fa46a8b09e000ea7f556482f2a047bb1b
+SHA512: a7a8954caec00ef07d4115f8e46aa23c2e9adfba25fb0fc0a158694d67d0f6e236e6f9fb1800af4afd2ffee5aa4475ab63fccce01725729e6a43f0406bb5fa3c
+Description: Phông chữ cho AIM
+Name: YangJiii_Lineat
+Author: YangJiii
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.a-font
@@ -5275,6 +5377,23 @@ SHA512: efc76f743eae174681913a7a18092f643d0b4d26a54b5702f9f56fa07b5829431d2172df
 Description: Sắp xếp biểu tượng trên màn hình chính theo sở thích của bạn.
 Name: Gridiculous13-14 VH
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.gwyneth23
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.gwyneth23_1.0_iphoneos-arm.deb
+Size: 16774
+MD5sum: 3328082d32590dc4dd744745a2d9df4e
+SHA1: 22ffc9de5798d658b90c7675cfd70730ab2be958
+SHA256: 19d7675c13b06a189bd6c1ef57fe6a413177f38ad7fe2f62cd5469945d19d1be
+SHA512: e503a0b56f09c87143edb89782a078b162e9e772fa294f1359c545f6d8de80f3b77dfc6f3b11c963f9219b5bad020248d3346260f9749f86a5e3875cc06fbc87
+Description: Phông chữ cho AIM
+Name: Gwyneth23
+Author: YangJiii
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.halem
@@ -10514,6 +10633,27 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: alimaulana
 
+Package: com.REPOCYDIABVN.aim
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 4944
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Filename: ./debfiles/com.REPOCYDIABVN.aim_1.2.9_iphoneos-arm.deb
+Size: 3067128
+MD5sum: ac2965f2ab7c3478158052f3d0e2c347
+SHA1: b23d8d1bdb4552962a9a46017f1c11c18730d5e0
+SHA256: 936eeaabc32f3610b28c28ceb06323dc1ef4aa2aea4e1d850c2ebf2447cd212a
+SHA512: 6a9906d7768d89980767bde20e0a5e542d3c3535f55e8a4ff75891f308f5ab4284a34007c7c2594dbb0ec93ce74b5fb4ce90c1221fadfcf13bad6e8def15b384
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM
+Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: alimaulana
+
 Package: com.REPOCYDIABVN.ampere
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -13886,6 +14026,29 @@ Depiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.supportjailbreak.appsyncunified
+Architecture: iphoneos-arm
+Version: 108.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 700
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debfiles/com.supportjailbreak.appsyncunified_108.0_iphoneos-arm.deb
+Size: 87288
+MD5sum: ca89cc65ea7fcbfe22606f9c174e93d6
+SHA1: 82cfe35c5c12fa282f2f497f917304acbdf2bfe3
+SHA256: f0171441fbbac90d0be7b549c0bc2cfca77ad3340090585b836ab129e2f5ff8c
+SHA512: d81019806a1a0163f68691c4ec0276cc620762a054d89217eedc12d4532dedc4a73ff77616cf7715ad11d2d00e93bd5cfc7da281696a4376478b5dbeda75ebe4
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
+Depiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AppSync Unified (iOS5-16.3)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
