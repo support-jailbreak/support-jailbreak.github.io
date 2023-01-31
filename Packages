@@ -8607,6 +8607,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Esim/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.simplus
+Architecture: iphoneos-arm
+Version: 1.16-beta-2
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xrays, com.rpetrich.rocketbootstrap, com.opa334.ccsupport | com.BIENVANNHAT.libiarrays
+Filename: ./debfiles/com.BIENVANNHAT.simplus_1.16-beta-2_iphoneos-arm.deb
+Size: 699748
+MD5sum: 1a98e52183e63dd1b77cece1db9d680a
+SHA1: 4ad2b007dd9138afa9604a5395aed562af6c955a
+SHA256: a4a8f09dcd4aaa6ab2dfa2dfa8af3c48c4ccc423e4fc66d3e8789d40bf7057d7
+SHA512: 4fe1c2d75fc640f10a1cc25f08c474e710214287c46beecb2dbe937ac05059908037ff1c6fc1ce085b4f2ad85da7a4614d8dad8e4d1f8ae74238d9acad13c593
+Description: Cách mà lẽ ra Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH
+Author: IArrays
+Depiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Esim/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.sixls
 Architecture: iphoneos-arm
 Version: 1.1
@@ -16747,6 +16767,23 @@ SHA512: 86b19e85017c3cf0decb8ac89051ad24d80927bc8eb448a03793be1a37f537374e113e21
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Hack Cam Xa Liên Quân
 Author: 1
+
+Package: xyz.cypwn.xrays
+Architecture: iphoneos-arm
+Version: 1.0.15b8k
+Section: Development
+Maintainer: Repo Cydia BVN
+Depends: ldid, firmware(>= 7.0)
+Filename: ./debfiles/xyz.cypwn.xrays_1.0.15b8k_iphoneos-arm.deb
+Size: 431214
+MD5sum: a85912f827472ca0252ca7905b3bbf1a
+SHA1: 5221791ee1c6e983e7078ce563b2f80871f089a5
+SHA256: a803abe93447c8d41e68860d3c8c32dfb8ce825d912ddc3cefaa992b2b1032b7
+SHA512: 15641c29bcee22136296b9a9bc4e53d2064ff73f29164967ed2fa73322080cd7464fa9ae976d9d7c28295a4d0eadedec18f6c94e662c01b620e5cd85b81caefc
+Description: Kích hoạt các tinh chỉnh của iarrays!
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Author: CyPwn
+Name: xrays
 
 Package: xyz.willy.zebra
 Architecture: iphoneos-arm
