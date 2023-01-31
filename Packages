@@ -16486,6 +16486,26 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Limneosos/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: ReJail
 
+Package: ru.rj.exiwallhack
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 3901
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/ru.rj.exiwallhack_3.0.1_iphoneos-arm.deb
+Size: 2031916
+MD5sum: d9945cc2ca49472679bbd8cde0c6889f
+SHA1: 19e70dc7459580138b18e25f7ab3851dbea3198c
+SHA256: 2fdc6ef773f523e52b08c8db5eb9ca28536a774f75a7317d60ddad606bd1d554
+SHA512: dd3da536ce1af93af1f9deed81acd0165b905be709a6c6d298f3b1468ae1cb70d5ea25803c295002d2f22db9bc6f27025adcaf76ce64417284c2e17a3c9b5c4a
+Description: Tinh chỉnh giúp bạn kích hoạt Exiwall.
+Name: Crack Exiwall
+Author: retr0dev
+Depiction: http://support-jailbreak.github.io/infodeb/Exiwall/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Exiwall/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: ru.rj.libtitand3vuniversal
 Architecture: iphoneos-arm
 Version: 1.8R
