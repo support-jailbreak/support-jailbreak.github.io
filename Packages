@@ -11389,6 +11389,44 @@ Tags: compatible_min::ios13.0, compatible_max::ios16.2
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.bienvannhat.picsart1
+Architecture: iphoneos-arm
+Version: 21.4.8
+Section: Tweaks
+Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
+Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.bienvannhat.picsart1_21.4.8_iphoneos-arm.deb
+Size: 48039074
+MD5sum: 5998a905956fd7ecb5b0d26fd24be9dd
+SHA1: 5d8710ca111f7f49abb041747acd55aa0a275b03
+SHA256: 191de9f1fed9e7102d46f726d1fb1c9df09a7f460049bbf9023685639b84947b
+SHA512: 65d6f95e072f08c9b59afd536a3df9e5cdf6b5060fa80c115a5ff4be2f2fdfc74383f0ca59327c21e0fe82046c6a9b76c59e9f693b07d74b94283ada0de3ee29
+Description: Gói Phụ trợ
+Name: Picsart (Gói phụ trợ)
+Author: Biện Văn Nhật <bienvannhat97@gmail.com>
+Tags: compatible_min::ios10.0
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 21.4.7
+Section: Applications
+Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
+Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000), com.bienvannhat.picsart1
+Filename: ./debfiles/com.bienvannhat.picsart_21.4.7_iphoneos-arm.deb
+Size: 50385668
+MD5sum: 609050211e3342ab2951709cb684493e
+SHA1: e3396d85f90f3764ad14486caa8d222e4d9f0d69
+SHA256: 6dc7660db7e7ad76853dc924e114a5dfadcf70a7856c4c27f5239adac42a6eed
+SHA512: d6dfc2898309884c9234d25d3fd2c1577c1be036568b015fcb6cddfd2bedab99f890df5ab4d947c3b53440bc238dd9999c230b84436735cf417e4272711904a8
+Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
+Name: Picsart Premium
+Author: Biện Văn Nhật <bienvannhat97@gmail.com>
+Tags: compatible_min::ios10.0
+Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
