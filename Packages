@@ -12604,6 +12604,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bvnsupportjailbreak.icleanerproVietNam
 Architecture: iphoneos-arm
+Version: 7.10.0
+Section: Utilities
+Maintainer: REPO CYDIA BVN
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debfiles/com.bvnsupportjailbreak.icleanerproVietNam_7.10.0_iphoneos-arm.deb
+Size: 2156020
+MD5sum: 7c078d0430fbc203cae984b1e0ba6df8
+SHA1: 9a9d9ddce06f8ed2fd0dfc76ae79c3ccff060765
+SHA256: 8ad4689e61853d80cb3179e88409e66f43708d24838d589c2eee22d6a113bb11
+SHA512: d698f3e97c7a7c9fd14bde2e6a17f23dda60681806839ce0bbee09e747f09639f121f68446edd8e7a68307ed5c6770648d3f23c5a1744ef9161891b72fe0bd84
+Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất.
+Name: iCleaner Pro VH
+Author: Ivano Bilenchi
+Depiction: http://support-jailbreak.github.io/infodeb/iCleaner/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/iCleaner/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
+
+Package: com.bvnsupportjailbreak.icleanerproVietNam
+Architecture: iphoneos-arm
 Version: 7.9.1-beta1
 Section: Utilities
 Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com
