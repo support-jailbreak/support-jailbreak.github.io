@@ -11432,13 +11432,13 @@ Architecture: iphoneos-arm
 Version: 21.5.4
 Section: Applications
 Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
-Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000), com.bienvannhat.picsart1
+Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debfiles/com.bienvannhat.picsart_21.5.4_iphoneos-arm.deb
-Size: 86197652
-MD5sum: 0cfcd1d420da1a75f45e8f8586420d21
-SHA1: d81ecabe6af4814306dc6ac56d9e56fa9614b5bc
-SHA256: be0238112464cbc9a0e7a42b1a24f3c4801447b493cc72a09c559011213ab0cb
-SHA512: b2a2c024a5a8c1c60dab5f23ee2268d8f1b7b4bf7baceaaa715e76abdc8f377ae279059e3a81ee26c104c5f371d28d1199cb5b76a2ca11de758c2a8927ecf661
+Size: 86197580
+MD5sum: 2b148c5fbd35c151a4a965bbf832e6f2
+SHA1: 133e448f1d4110d8f14f8cbffe7a9128f1c2dd36
+SHA256: b5669f452cbc78531808328e50b48136ff1ac81671e4b2110c0e940cb13a1893
+SHA512: cb81334267770814a2944a0cba15145f72dcccd2be3c367140d8b4ec47db9b63781c770c427ac9e4b68e3b20bb138270a3e09f51fb10d6c4ae9e65446df15872
 Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
 Name: Picsart Gold
 Author: Biện Văn Nhật <bienvannhat97@gmail.com>
