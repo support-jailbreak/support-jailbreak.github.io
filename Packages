@@ -11407,6 +11407,24 @@ Author: Biện Văn Nhật <bienvannhat97@gmail.com>
 Tags: compatible_min::ios10.0
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.picsart1
+Architecture: iphoneos-arm
+Version: 21.5.4
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Depends: firmware (>=10.0)
+Filename: ./debfiles/com.bienvannhat.picsart1_21.5.4_iphoneos-arm.deb
+Size: 35691674
+MD5sum: b932320dbbdaeb08cb7e93badcdd3776
+SHA1: 15901114ba6dab1e5c463396f8ea38fbf6dd0888
+SHA256: b732e15566ee67f6eaf66d7b027b28dde8fe55db53383c66d33cc8021a945a90
+SHA512: 11e13432dfe56f5b1d619d1b533d5852b99aea71e932df7e9e10dd3d4a312ec44681fada7cee8ac1cd07d4788afdd6597c5e997097f6ad64f94e1ce917eb5cf2
+Description: Gói phụ trợ cho Picsart Gold
+Name: Picsart (Phụ trợ)
+Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios10.0
+
 Package: com.bienvannhat.picsart
 Architecture: iphoneos-arm
 Version: 21.4.7
@@ -11421,6 +11439,26 @@ SHA256: 6dc7660db7e7ad76853dc924e114a5dfadcf70a7856c4c27f5239adac42a6eed
 SHA512: d6dfc2898309884c9234d25d3fd2c1577c1be036568b015fcb6cddfd2bedab99f890df5ab4d947c3b53440bc238dd9999c230b84436735cf417e4272711904a8
 Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
 Name: Picsart Premium
+Author: Biện Văn Nhật <bienvannhat97@gmail.com>
+Tags: compatible_min::ios10.0
+Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 21.5.4
+Section: Applications
+Maintainer: Repo Cydia BVN <bienvannhat97@gmail.com>
+Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000), com.bienvannhat.picsart1
+Filename: ./debfiles/com.bienvannhat.picsart_21.5.4_iphoneos-arm.deb
+Size: 50521878
+MD5sum: 708ab438fa4d2d18e89275ff57343d57
+SHA1: f3ebc07c69cc71b27d59af947ca221fd899c24eb
+SHA256: d2a18f64dde2c6fc3382974765944e35336495b4234ab2d74d9374bb72627b76
+SHA512: 7759490209aa8f3a9db26adbd26d4b2f6682b00b34a40a8e1401271281b6319a290bc2083c9e5f33ae4e3a859123c9716d37285213494a185970c13b109f7210
+Description: PicsArt Cao cấp,hỗ trợ phiên bản Mới nhất
+Name: Picsart Gold
 Author: Biện Văn Nhật <bienvannhat97@gmail.com>
 Tags: compatible_min::ios10.0
 Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
