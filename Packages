@@ -11066,6 +11066,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/TrollStore/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/TrollStore/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOCYDIABVN.trollstorehelper
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Applications
+Maintainer: Repo Cydia BVN
+Installed-Size: 676
+Filename: ./debfiles/com.REPOCYDIABVN.trollstorehelper_1.5.0_iphoneos-arm.deb
+Size: 272786
+MD5sum: d755b9528db7bb0e6bceb940ce3954e1
+SHA1: a60fdc4432c6ccfb0abd3c70cdda09298ef8f2f1
+SHA256: b5377113db6de4fc4f7937afd643375beac3bec5448a4b85eaf9bcb4f7f2a478
+SHA512: ce2923735aee29862c7ee0ebcaabbebc2b97c7074150e00ca0c46ec8b3414c535734183137829b579e69d3b6b4199e8c665b37c54d9730543eaf95c89ea2a1e3
+Description: Ứng dụng trợ giúp để cài đặt và quản lý TrollStore!
+Name: TrollStore Helper
+Depiction: http://support-jailbreak.github.io/infodeb/TrollStore/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/TrollStore/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
