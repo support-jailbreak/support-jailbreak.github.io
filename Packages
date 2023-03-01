@@ -1155,6 +1155,25 @@ Name: Luôn kết nối WiFi
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.YangJiiiExodar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.YangJiiiExodar_1.0_iphoneos-arm.deb
+Size: 13940
+MD5sum: 5c51d4ca52695d62ca95d1f0da81d5de
+SHA1: 41d7067e033b6a1611aaae299070d2f3eebf10e6
+SHA256: 8131e1858c39360ed97007bb218ff745336472e0db16c8d829560801121ca466
+SHA512: 45a8169fd5de7dace336cc4bbcd68318cca4d052059985b539235fbe86a2f93fa8de4d477508f06a10eb92c2d13761ad8cbe59ede643e61c1ca4a470f6d9e6de
+Description: Phông chữ cho AIM
+Name: YangJiii_Exodar
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.YangJiiiLineat
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1172,6 +1191,44 @@ Name: YangJiii_Lineat
 Author: YangJiii
 Depiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Font1/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiMango
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.YangJiiiMango_1.0_iphoneos-arm.deb
+Size: 9468
+MD5sum: 6fa0dae0655d9f80699ca7da3c35c0ab
+SHA1: d56da0e61bbd432ca0ae37b0f545ab28a0cfb512
+SHA256: b2a033fc579addd6643687bc7b41d3a80611d5803b489ae7d8ee76888d1fee47
+SHA512: 21dc3711377ddc09bb288eaa537180d0202b08889a47b7e7a575d50ab6fc961b8a741f2ce98127b71f8403ab80630f3e53cb9190a4cdbdfb545aa11d5d7cbaea
+Description: Phông chữ cho AIM
+Name: YangJiii_Mango
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font9/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font9/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiReteak
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AIM Fonts
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debfiles/com.BIENVANNHAT.YangJiiiReteak_1.0_iphoneos-arm.deb
+Size: 13194
+MD5sum: a8f1ad35bce9c037f492dc3d397c8a03
+SHA1: e9315aeb659a8c3efa6c97640ce73d7cec3438ff
+SHA256: 0c959f895b9fd6272c12a71233eb7786bb642bab2b4a97ea5fab0fae1fd75462
+SHA512: 0423dd5c6d0cf1c870341d913fd1a61c8d9cdb48a13b4618efb6c60d1751bf8ec26ec1724a413a9a2066f7c58cefbfa31963f35df5877f6a4e9a627d6bc6cb36
+Description: Phông chữ cho AIM
+Name: YangJiii_Reteak
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font10/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Font10/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.a-font
