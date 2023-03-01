@@ -11739,6 +11739,27 @@ Name: Hack LOL Mobi
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: IPALibrary
 
+Package: com.bvn-supportjailbreak.hacklolmobi
+Architecture: iphoneos-arm
+Version: 4.0.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 6344
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bvn-supportjailbreak.hacklolmobi_4.0.0_iphoneos-arm.deb
+Size: 1854410
+MD5sum: 78c0294f92862691852d442532609263
+SHA1: 9d1d1387cf3b3fbfcad2d90cf22f0499edb8b144
+SHA256: 5150258f417134537df7c1cc5405edb3b3d1b18111aa24bcb6f467ef1993aea2
+SHA512: 829fd677d33e1cf2760e6d7bf184640b4247eee9e0e2bcb355f728c1a1c94609fbb4c9281ed5f992107ed18a757b7655db19bfea10dcebd732d92c3b6041fbea
+Homepage: https://support-jailbreak.github.io
+Description: Hack LMHT Tốc Chiến
+Name: Hack LMHT: Tốc Chiến
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ThanhDark1909
+Depiction: http://support-jailbreak.github.io/infodeb/LMHT/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/LMHT/?p=info
+
 Package: com.bvn-supportjailbreak.little11viethoa
 Architecture: iphoneos-arm
 Version: 3.4.5
