@@ -10724,6 +10724,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOCYDIABVN.a-bypass
+Architecture: iphoneos-arm
+Version: 1.5.8
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 960
+Depends: mobilesubstrate, com.muirey03.libmryipc, com.rpgfarm.libaptoast, preferenceloader
+Filename: ./debfiles/com.REPOCYDIABVN.a-bypass_1.5.8_iphoneos-arm.deb
+Size: 229956
+MD5sum: b2cac31f7f4b7fa9610f06de9097c730
+SHA1: b35d313f38a4538b17676677b51ac6b2f779a0de
+SHA256: 595bd413262eeafb69db521977eb3d821c4bb10d4510d1ef3521fb34c3452677
+SHA512: f97f1d93504138a0de2d2291db6542cbfc123b26f35b1a0e973b328c8481b6fbf805132a6c644cfd33b197e622c4e260a5854c02ace5d6ecf127f26c958718bb
+Description: Chặn phát hiện Jailbreak.
+Name: A-Bypass VH
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/A-Bypass/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/A-Bypass/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.aim
 Architecture: iphoneos-arm
 Version: 1.0
@@ -13831,6 +13851,24 @@ Author: MTAC
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Ampere/?p=info
+
+Package: com.rpgfarm.libaptoast
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Repo Cydia BVN
+Installed-Size: 132
+Filename: ./debfiles/com.rpgfarm.libaptoast_1.deb
+Size: 11638
+MD5sum: fba46b372973533fa29efb7e24a50a68
+SHA1: affec7e1e46e575c92b45fb9cfc8853f651ad696
+SHA256: 6093e2c00c7e8a57c19bb63e5685e734573d35adf7f874f8d632d4f5656c3f03
+SHA512: 13b8c9f67f829e258d59f6dc40765cce10914d5b7f79f73fd1c0e176e8fabe8f5afe9b5a8cb211d97efc386dc885d488e525e80432d7bfec49a30438eb4c04a7
+Description: Baw Appie's Toast Library
+Tag: role::developer
+Name: libAPToast
+Author: Baw Appie <pp121324@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm
