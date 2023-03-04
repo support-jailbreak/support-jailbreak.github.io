@@ -10724,6 +10724,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOCYDIABVN.PullOverPro15
+Architecture: iphoneos-arm
+Version: 15.16
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Depends: firmware (>= 15), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Conflicts: com.rpgfarm.libapappview, com.rpgfarm.pulloverproapappview
+Filename: ./debfiles/com.REPOCYDIABVN.PullOverPro15_15.16_iphoneos-arm.deb
+Size: 1612756
+MD5sum: 9a3c73aaa3dd4cc0dfa87cc9af5c141e
+SHA1: 5e05729cfb2f55275d0858e754e5666f428eb064
+SHA256: 5997161289ca11be4d0d1551b367ed59ad88b26ac426f61dd47bc7486fe24709
+SHA512: 1f590d3d236049e362f8776420f355618095daa7ef4ece3cf5d903e7b32a25499fec599aa7220dfa2a10e4a01a6eb9b1ac2cef159ecb265ef199ebc75765294d
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!Chỉ hỗ trợ iOS 15-16.2.
+Name: PullOver Pro iOS15
+Author: c1d3r
+Depiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.a-bypass
 Architecture: iphoneos-arm
 Version: 1.5.8
