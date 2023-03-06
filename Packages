@@ -10928,6 +10928,25 @@ Author: ETHN <ethanwhited2208@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 SomeOtherEntryToControl: True
 
+Package: com.REPOCYDIABVN.clockfonts
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Depends: mobilesubstrate
+Filename: ./debfiles/com.REPOCYDIABVN.clockfonts_1.3_iphoneos-arm.deb
+Size: 62628
+MD5sum: 4167cff83e2edde1a030a1ba348a331a
+SHA1: e9f8f3ec85b103e1ba5a2601652691a7c76969aa
+SHA256: 24a97c7e90f7b83ea6c91a57e37d1006cbd456ffccffd7ab85a8bf387655e6c6
+SHA512: 65e293db934719c4e70a4fec70a74b9b8801c06a2bc94f8b1172f44205bcc2895e86ff801bc8f99762ada1b877928381989b612e61406e6ec4a2185112ca7fd8
+Description: Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn
+Depiction: http://support-jailbreak.github.io/infodeb/ClockFonts/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/ClockFonts/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: ClockFonts VH
+Author: nqt1195
+
 Package: com.REPOCYDIABVN.dynamicpeninsula
 Architecture: iphoneos-arm
 Version: 0.1-169
