@@ -11239,6 +11239,27 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/TrollStore/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: opa334
 
+Package: com.REPOCYDIABVN.voicechangerx
+Architecture: iphoneos-arm
+Version: 2.4-10
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader, ru.rejail.limneosos
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.kenhtao.voicechangerx
+Filename: ./debfiles/com.REPOCYDIABVN.voicechangerx_2.4-10_iphoneos-arm.deb
+Size: 451410
+MD5sum: c2f140678faf62ce925754adc2d84906
+SHA1: a95b94e3f850c9d2580b48dabe865b33439ff0a7
+SHA256: 1476efc243537fe990f18a9af43004db5d8e333758615713f61a9ba8d63f6653
+SHA512: 3d1d1b90898f8048335eccb0040339f8348fd6733ad98d7ba0d4d9e4def1426bdfc8b8cb991d0ab14db29e7270ff54272e7ee7391391c8525293168efc25018c
+Description: Thay đổi giọng nói của bạn trong khi gọi!
+Name: VoiceChanger XS (iOS 11 to 16)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/VoiceChanger/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/VoiceChanger?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
