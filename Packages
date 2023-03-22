@@ -8423,6 +8423,27 @@ Tags: compatible_min::ios13.0, compatible_max::ios14.3
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.BIENVANNHAT.settingsrevamp
+Architecture: iphoneos-arm
+Version: 1.7.4
+Section: Tweaks
+Maintainer: SOPPPra
+Installed-Size: 528
+Depends: mobilesubstrate, ws.hbang.common (>= 1.17), preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14), ws.hbang.alderis (>= 1.1)
+Conflicts: com.creaturecoding.shuffle
+Filename: ./debfiles/com.BIENVANNHAT.settingsrevamp_1.7.4_iphoneos-arm.deb
+Size: 161834
+MD5sum: 4d2e57674fdb0a87b60f305dec204d70
+SHA1: ea1da265d2d55a02d6c4a440b1abaee9b9675ca0
+SHA256: d09df3df5846df996227eecdf892461adf72811605b7167f9788f72a13ccfa0e
+SHA512: 268097b1262c4da79c5124a2d4ad2b3586da7bf3c527ed0fc2b2eeb6e26a9042bd8fefbc4fbeea66b01a51f0687335de76d872d5e7ba69b28dbc555886241801
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.settingswidgets
 Architecture: iphoneos-arm
 Version: 1.2.2
