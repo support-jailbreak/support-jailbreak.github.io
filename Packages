@@ -11565,6 +11565,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.lunartime
 Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bienvannhat.lunartime_1.3.1_iphoneos-arm.deb
+Size: 11552
+MD5sum: 62a300a5d040dfc0c514cad82ea022d1
+SHA1: a8b7ffbd2681b63991dc8e5c0c403a82ef060d58
+SHA256: c7f88a880b800f07977bdf198df73bbc7c7eb9cab1aa524d38437c20fd0b1a6c
+SHA512: 238ec83844c435503710e008f04ee51b1b6e86bcf59189fbef1e8e3317fa7526d6813fd222eaee8cf4b87d656fe49d70fdf3885278c0f4b36b6759205c6ce29b
+Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
+Name: LunarTime
+Depiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
+Package: com.bienvannhat.lunartime
+Architecture: iphoneos-arm
 Version: 1.3
 Section: Tweaks
 Maintainer: Repo Cydia BVN
@@ -16274,6 +16294,26 @@ MD5sum: 10a4ac0103acad4423a507ebc3104147
 SHA1: 25cd3854464967e54da58b21df0f81d538d49fbc
 SHA256: a1a9f2db66dcf4fd886414f97c36959eab44f4bf1cc358d09c253b186dd21950
 SHA512: 025847894d8ffb6e0c1fdea43c2ef4342138101ff5286da7b63846d8e45901198f050933569d6122492b4e31859367890c5c50f3438eb2a27fa70e7bb6c766ba
+Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
+Name: LunarTime Plus
+Depiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: nqt1195
+
+Package: ios.REPOCYDIABVN.lunartime
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debfiles/ios.REPOCYDIABVN.lunartime_1.1_iphoneos-arm.deb
+Size: 11402
+MD5sum: f6907737a9fbd8b8d0198dca16d9e7cd
+SHA1: 181305fb118f76f8db4eebff6319e9c2d4f5b589
+SHA256: 461f3ad34ac5efdbc1b597c8738e98ba481fe890dbedd81dbc25d14a8af3e43b
+SHA512: f000cb20e4a93870449666fe80a679375707d37aa43a0b083b73e5a7287a15ed7e86339fe5861a13aaa1dfe828411fbe39a2515180043513f7d079ef738cd4b0
 Description: Hiển thị Lịch âm và các thông tin khác trên Thanh trạng thái của bạn!
 Name: LunarTime Plus
 Depiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
