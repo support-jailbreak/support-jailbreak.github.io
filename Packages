@@ -10805,6 +10805,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-you
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.Bvnsupport-youtubeRebon.YouTubeRebornViethoa
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.REPOBVN.killapps
+Architecture: iphoneos-arm
+Version: 1.7.2
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 756
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.spark.libsparkapplist, com.mrgcgamer.libgcuniversal
+Filename: ./debfiles/com.REPOBVN.killapps_1.7.2_iphoneos-arm.deb
+Size: 421822
+MD5sum: c13538cf52ab4931f3ccb7831eb25a32
+SHA1: fcacb761fd11d8adbc6ac5939c2b9de5916442d7
+SHA256: 4e687e89e03dee099e89a5c2eb4d5d57a6b3514a2ab8e0e8e929147c39c4bd72
+SHA512: 65b6fd21bc395c491a6d59b6ed61a4cec4e518a9a72e03be1edd67af80a7fe73ea25a5a32231789a01223bdf8464459a2293619b86d55dce99a3933c2f7d8a74
+Description: Tùy chỉnh trình chuyển đổi ứng dụng của bạn, khả năng đóng ứng dụng bằng thao tác vuốt xuống hoặc thêm các nút, trình đa nhiệm dạng lưới và những thứ khác
+Name: killapps VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/killapps/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/killapps/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.REPOCYDIABVN.PullOverPro15
 Architecture: iphoneos-arm
 Version: 15.16
