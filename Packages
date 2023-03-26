@@ -11069,6 +11069,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: bc67f1f78ba4b698f65b0517051b4f86
 
+Package:  com.REPOCYDIABVN.dynamicpeninsula
+Architecture: iphoneos-arm
+Version: 0.3-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1508
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0),  org.mr.unsubs
+Filename: ./debfiles/com.REPOCYDIABVN.dynamicpeninsula_0.3-2_iphoneos-arm.deb
+Size: 454194
+MD5sum: 9383be4a435e79501904cd4f1c9b2f43
+SHA1: 903a819278b71a1ee36d8ffed656820347fa060f
+SHA256: 8d0f3a8cc23db34dc4ec67f59feb7ba095fb0b52ae65fdc8bb9ae2d471152bd3
+SHA512: f63df5d0de85a57709e106c31dc5c455530a7e61bec7246e6204e4b3b70eb560fdc1005e3ae767db29c57de2518da8decfe6e838a887ecaba7464e88087e0b9b
+Description: Dynamic Island trên tai thỏ của bạn
+Name: DynamicPeninsula VH
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+MainLibMD5: fdda9ac703fe7db3eee090148344cb7c
+
 Package: com.REPOCYDIABVN.fakepass
 Architecture: iphoneos-arm
 Version: 0.1.0-11+debug
