@@ -2130,6 +2130,28 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/AudioRecorder/?p=i
 
 Package: com.BIENVANNHAT.audiorecorderxs
 Architecture: iphoneos-arm
+Version: 5.0-17
+Section: Tweaks
+Maintainer: REPO CYDIA BVN <bienvannhat97@gmail.com>
+Installed-Size: 6112
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), org.mr.unsubs
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debfiles/com.BIENVANNHAT.audiorecorderxs_5.0-17_iphoneos-arm.deb
+Size: 1862890
+MD5sum: 1bd8bf3197d8aff766f60c0e1fa501d1
+SHA1: 6b3962626098d44dcdeb417fedb53bd36578d320
+SHA256: 0aa0e5762b2826f83dda9463ce722fde3162551ac0dc9b5d9628c5998dc6e0ea
+SHA512: 53ccb8d20d0ff8139876006a307585a1e2715f4be51e3952e8e7b9f04c8d0433798589a59b820f7d97e19e93000b64bfe68c2ddcfa774380d4f204bdd4d8f87b
+Description: Ghi âm cuộc gọi iOS tiên tiến nhất từ ​​trước đến nay!
+Name: AudioRecorder XS (iOS 12-16)VH
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/AudioRecorder/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AudioRecorder/?p=info
+
+Package: com.BIENVANNHAT.audiorecorderxs
+Architecture: iphoneos-arm
 Version: 5.0-3
 Section: Tweaks
 Maintainer: REPO CYDIA BVN <bienvannhat97@gmail.com>
