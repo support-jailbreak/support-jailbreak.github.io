@@ -11608,6 +11608,25 @@ Name: Bakgrunnur VH
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.cconandoff
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debfiles/com.bienvannhat.cconandoff_1.1.0_iphoneos-arm64.deb
+Size: 8358
+MD5sum: 0989daa1ac09047045af888f8655ac32
+SHA1: 77a7fadadecfd58e3dca25aae6172317beba0cad
+SHA256: 85c8f0be8d76d34cee7c2091cda49fc192447ed8f5c072045c71b32ba75be90e
+SHA512: 49f8ecdaf71070d8391a6c1a2031badc6dd3a1c801c34cd119dd79efeb50fb2c22379a0403192e0c945365ffb866a5b80d560f832ef0e5c2935028564d84d04d
+Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+)
+Name: CC On & Of VH
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
