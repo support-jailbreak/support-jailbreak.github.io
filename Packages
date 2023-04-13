@@ -16347,6 +16347,30 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Copylogcrack/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Copylogcrack/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: ellekit
+Architecture: iphoneos-arm64
+Version: 0.3
+Priority: optional
+Section: Tweak Injection
+Maintainer: Repo Cydia BVN
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Depends: libiosexec1 (>= 1.2.2)
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Filename: ./debfiles/ellekit_0.3_iphoneos-arm64.deb
+Size: 736316
+MD5sum: da635cd22eaefb14edf912aa80e3d9ac
+SHA1: 9f15d6dd8b48ae46953cd044807783af09668840
+SHA256: f835449fc58f9dcb500e0604e239f4951848538fc30500a3c47c098b21e801f3
+SHA512: 6d1bf986879c6e910cadef37a944ee5829cfd84d1f062a520ee9de970fccfa59eca53f71ecde24fa83b5ddd8bd5a7e5a417ab504c3ad1c523d2593111890c524
+Description: ElleKit tweak injection libraries and loader
+ Currently NO SAFE MODE INCLUDED! Install at your own risk!
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Name: ElleKit (Beta)
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Evelyn
+
 Package: expat
 Architecture: iphoneos-arm
 Version: 2.2.5-1
@@ -17419,4 +17443,25 @@ Author: Zebra Team <team@getzbra.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+
+Package: zp.preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.18
+Section: Tweaks rootless
+Maintainer: REPO CYDIA BVN
+Installed-Size: 256
+Provides: preferenceloader (= 2.2.6)
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Filename: ./debfiles/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
+Size: 29162
+MD5sum: b66fc8330518122fc170e7d44e370688
+SHA1: 78430aa4c11f842b69339618c47c4f9f1a91ae0d
+SHA256: 72d32bc355974f06fd8b75363f3c1a5d113b83f7d650fbac0eda4bb49349d28c
+SHA512: 76ec6b15eed0d8a4e9647bad3329faa2e47935e0c942853a361a7e0b8261b713ed268efa75ff2c4bf5d794db11caba0a7eadd1f4a972c7f9d498e9d60c1e969e
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Name: PreferenceLoader - rootless
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: ArtikusHG,zp
 
