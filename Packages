@@ -14946,6 +14946,26 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.4.7
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 1076
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.choicyvn_1.4.7_iphoneos-arm.deb
+Size: 258326
+MD5sum: 1d7f59185850b8da55136e4d74f36803
+SHA1: 003dbae94ac79a39b7f559b81d49ceba2a43f53c
+SHA256: 13a7936cace3a259a2f4821670f51f88512f12e54712f55e31df5d63636282a1
+SHA512: bc4231c94b5ce06498ef7a67b0186119314ec806f55997de788084b9bb45b4bee48a252fb1d49460c6b3a4d85d5a47b131c9a72cb3edfe467b73220655babda3
+Description: Tinh chỉnh chặn phát hiện Jailbreak
+Name: Choicy VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+
 Package: com.supportjailbreak.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0.1
