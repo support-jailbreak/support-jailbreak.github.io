@@ -3572,6 +3572,25 @@ Name: Cylinder Reborn VH
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cylinderremade
+Architecture: iphoneos-arm64
+Version: 0.0.3-beta
+Section: Tweaks rootless
+Maintainer: Repo Cydia BVN
+Installed-Size: 488
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Conflicts: com.ryannair05.cylinder
+Filename: ./debfiles/com.BIENVANNHAT.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
+Size: 131374
+MD5sum: dfa3811e087c45e51a0c886aa21b3581
+SHA1: 8cf7c5ea72d5040b64f4a30dbcf1b896ee3acff2
+SHA256: ee9f3f6e21848ba07e1e0fd8fc5e2805db69326c0b591e4ff48c61cd9cea40be
+SHA512: bacf5f0e51f8ab1f53c385884fb21e09a1651334a1a990829a9c5354c478eb6395359791da516bb0610b8fd2006491c2756c36ebd4b023afa250b0c2279c1953
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 15.4.1
+Name: Cylinder Remade (Rootless)
+Icon: file:///var/jb/Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Author: Ryan Nair
+
 Package: com.BIENVANNHAT.darkpapers
 Architecture: iphoneos-arm
 Version: 1.0.1
