@@ -14621,6 +14621,29 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.supportjailbreak.appsyncunified
 Architecture: iphoneos-arm
+Version: 110.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 700
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debfiles/com.supportjailbreak.appsyncunified_110.0_iphoneos-arm.deb
+Size: 87272
+MD5sum: 057c750e7c55c27b231df944a59f8baf
+SHA1: 20421909a23eec8d5204443649ff833c318eeb2c
+SHA256: f8ebf20cc44a4e2b739312d5a562f3008eb5d050268d817c6b5a683103536335
+SHA512: 96340db5fb93a27fe45c3461df9ad7926dc11713c978f02dee8ca5a21d61e3758dfe4c37c1fa9d470d198ee11fa17eeb715c9c5ffd0453774ba0e8e7c46320ca
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Appsync/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: AppSync Unified (iOS 5-16)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: com.supportjailbreak.appsyncunified
+Architecture: iphoneos-arm
 Version: 84.1
 Section: Plugin ứng dụng
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
@@ -16821,6 +16844,27 @@ Name: liblauren
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Tags: compatible_min::ios10, compatible_max::ios15, role::developer
 Author: ren7995  <lau7995ren@gmail.com>
+
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-14
+Section: Tweaks rootless
+Maintainer: REPO CYDIA BVN
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubs
+Filename: ./debfiles/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-14_iphoneos-arm64.deb
+Size: 459076
+MD5sum: 8468d0f88b5af271da7b27bbeed5b242
+SHA1: 77b7add005929424caf7525be2126186c93446c8
+SHA256: e336600eb2941d94730cb8a5e4de1694453795a123ecf2ec203a651ea266272b
+SHA512: 66d5d13cf3f966fbd91f76ab1fed1b488da34e16f46a77f3de8f8d512a0abb5022280b32128fddf73150a1c9d612234649fd1330d3c5336aeacf965c16bf8433
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula (rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: Elias Limneos <limneoselias@gmail.com>
+MainLibMD5: 05e0085610aba1f19878e4149df380bc
 
 Package: net.jakeashacks.theosinstaller2
 Architecture: iphoneos-arm
