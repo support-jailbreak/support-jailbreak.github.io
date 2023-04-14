@@ -3575,20 +3575,20 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Package: com.BIENVANNHAT.cylinderremade
 Architecture: iphoneos-arm64
 Version: 0.0.3-beta
-Section: Tweaks rootless
+Section: Tweaks
 Maintainer: Repo Cydia BVN
 Installed-Size: 488
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
 Conflicts: com.ryannair05.cylinder
 Filename: ./debfiles/com.BIENVANNHAT.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
-Size: 131374
-MD5sum: dfa3811e087c45e51a0c886aa21b3581
-SHA1: 8cf7c5ea72d5040b64f4a30dbcf1b896ee3acff2
-SHA256: ee9f3f6e21848ba07e1e0fd8fc5e2805db69326c0b591e4ff48c61cd9cea40be
-SHA512: bacf5f0e51f8ab1f53c385884fb21e09a1651334a1a990829a9c5354c478eb6395359791da516bb0610b8fd2006491c2756c36ebd4b023afa250b0c2279c1953
+Size: 131354
+MD5sum: 4d692d6c7bd14ad7629a7708e91eb633
+SHA1: 3c9811a16c2838ce42358b01c1cd8a0176a7329e
+SHA256: ccc27e08f2c41ead91b2e1e51dc76bc3734ce779f6580d78653d7f84d582b4fd
+SHA512: a823045b2df9ec295919fe0c26f8b03d5ee78674e7a202eac4e04cb6ab0f1c7b49a748920dca34c009449498f247e9da39ce7f35e0a14da56914af3951f27912
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 15.4.1
 Name: Cylinder Remade (Rootless)
-Icon: file:///var/jb/Library/PreferenceBundles/CylinderSettings.bundle/Icon@3x.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Ryan Nair
 
 Package: com.BIENVANNHAT.darkpapers
@@ -16869,16 +16869,16 @@ Author: ren7995  <lau7995ren@gmail.com>
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
 Version: 0.6-14
-Section: Tweaks rootless
+Section: Tweaks
 Maintainer: REPO CYDIA BVN
 Installed-Size: 1668
 Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubs
 Filename: ./debfiles/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-14_iphoneos-arm64.deb
-Size: 459076
-MD5sum: 8468d0f88b5af271da7b27bbeed5b242
-SHA1: 77b7add005929424caf7525be2126186c93446c8
-SHA256: e336600eb2941d94730cb8a5e4de1694453795a123ecf2ec203a651ea266272b
-SHA512: 66d5d13cf3f966fbd91f76ab1fed1b488da34e16f46a77f3de8f8d512a0abb5022280b32128fddf73150a1c9d612234649fd1330d3c5336aeacf965c16bf8433
+Size: 459072
+MD5sum: 35cde1c1db772da1f40cfc6e191c30c3
+SHA1: efb5411f424cefdd8f61c33f4dff434f574cfd48
+SHA256: c344c8ddafcf4e174dd0db63f7babba0b273eae3df9e194e12e7c8cc16e27bc5
+SHA512: 6aabd8304666ba6f7db2e19c3530e660077747ae3664156e314701a08d181747ab023f93e59261446acf1093b5854d5d64e2594a7dd4633f3687767af499f5ea
 Description: Dynamic Island trên notch của bạn
 Name: DynamicPeninsula (rootless)
 Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
@@ -17531,7 +17531,7 @@ Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 Package: zp.preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0.18
-Section: Tweaks rootless
+Section: Tweaks
 Maintainer: REPO CYDIA BVN
 Installed-Size: 256
 Provides: preferenceloader (= 2.2.6)
@@ -17540,10 +17540,10 @@ Conflicts: preferenceloader
 Replaces: preferenceloader
 Filename: ./debfiles/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
 Size: 29162
-MD5sum: b66fc8330518122fc170e7d44e370688
-SHA1: 78430aa4c11f842b69339618c47c4f9f1a91ae0d
-SHA256: 72d32bc355974f06fd8b75363f3c1a5d113b83f7d650fbac0eda4bb49349d28c
-SHA512: 76ec6b15eed0d8a4e9647bad3329faa2e47935e0c942853a361a7e0b8261b713ed268efa75ff2c4bf5d794db11caba0a7eadd1f4a972c7f9d498e9d60c1e969e
+MD5sum: f71ca0aac43e11b3e2708066ecf15f77
+SHA1: 5b04466720b48c5681d3e2f1f33acf017ac3c7cb
+SHA256: b7aa22255a92ec008e296a61d4172281e18fdff8f6628daa6f6f2ef5e665ce55
+SHA512: e9056b5605746a582339892ed5a36e5db7ea8738d666ea6c4c42c7b5f8301cdd56218d12d006479cda2ad246ee6c58fd255b8d233c8a36c04430934c54e1caf1
 Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
 Name: PreferenceLoader - rootless
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
