@@ -6,6 +6,3 @@ Codename: ios
 Architecture: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Apple-Support
-MD5Sum:
- 807ae52a72368e69f3f810918af89789 854423 Packages
- c194e6f072d167a2b2587350950e02f0 188806 Packages.bz2
