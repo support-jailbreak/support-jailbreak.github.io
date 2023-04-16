@@ -3284,6 +3284,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Cask/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Cask/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.cccellularrate-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debfiles/com.BIENVANNHAT.cccellularrate-rootless_1.1-1_iphoneos-arm64.deb
+Size: 151436
+MD5sum: 8108f9592664d73cf1b943ce89630273
+SHA1: a99d42dcf06262a07b1939b31652c330a55ca3d3
+SHA256: c6c7780bb32517ac55baa035d9f1974ad0b5e9f3f4d5dc8f069018961f4c47aa
+SHA512: 144feb9cece5086da919227247b9e2539b3cd7de643bdd167f50278b748488d4b0010a3d635ec57427caf8e4c44dc6a05094c76904175373d59f236beceaf2dc
+Description: Chuyển nhanh loại dữ liệu di động 2/3/4/5G hiện đang sử dụng qua Trung tâm điều khiển, chỉ những loại được hỗ trợ trong cài đặt thiết bị hiện tại mới được hiển thị
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: CCCellularRate-Rootless
+Author: Netskao
+
 Package: com.BIENVANNHAT.cconandoff
 Architecture: iphoneos-arm
 Version: 1.0.0
