@@ -1,7 +1,7 @@
 Origin: BVN MOBILE SERVICES
 Label: Apple-Support
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm iphoneos-arm64
 Components: main
