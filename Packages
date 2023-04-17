@@ -14091,6 +14091,23 @@ Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.repo.appdata-rootless_1.4.0_iphoneos-arm64.deb
+Size: 995116
+MD5sum: 5a1592e6b1401f86de335c3d0e835b33
+SHA1: c412a365ac08ac976f0fa961f842ce5648304671
+SHA256: 941922a38cbbbe87e4d10435f1f9f2cba26f482448966693ff588fe8c9bad8ad
+SHA512: 277ae0ee6c2afb9518e7319daabff2327b4bbf7884feb5509457fb3507f0dab59cd916b6c3a1dda54c57135bd6fe1fce548731b0b3529597cb9cec2ca447af2c
+Description: Vuốt lên hoặc xuống biểu tượng trên màn hình nền hoặc nhấn 3D và giữ menu chọn để gọi công cụ gõ tắt dữ liệu ứng dụng biểu tượng Phiên bản này hoàn toàn là tiếng Trung và được quản trị web chỉnh sửa và tối ưu hóa. Sửa đổi và tối ưu hóa: Thêm phiên bản đơn giản của ứng dụng hạ cấp, thêm tùy chọn trượt xuống để gọi ra, thêm xem trạng thái mã hóa ứng dụng, thêm tùy chọn bảng để xóa đường phân chia bảng, sửa đổi phiên bản gốc gỡ ứng dụng thành gỡ cài đặt thực sự mà không giữ lại dữ liệu, sửa đổi phiên bản gốc sau khi xóa bộ đệm Làm mới đồng bộ sự cố hiển thị dữ liệu tổng, khắc phục sự cố lỗi nhấn và sao chép thông tin trên trang thông tin thêm ban đầu, sửa đổi dữ liệu đặt lại của phiên bản gốc để bao gồm dữ liệu thư mục trong nhóm chương trình đặt lại và sửa đổi kích thước dữ liệu của cột dữ liệu đặt lại ban đầu để bao gồm dữ liệu thư mục bên trong nhóm chương trình, sau khi sửa đổi phiên bản gốc để đặt lại dữ liệu, hiển thị dữ liệu được lưu trong bộ nhớ cache và số lượng quyền không được làm mới đồng bộ, sửa đổi phiên bản gốc không thể được sử dụng để đặt lại dữ liệu/đặt lại quyền/gỡ cài đặt ứng dụng khi ứng dụng được tải xuống từ không phải AppStore được gọi (đã sửa đổi Sau đó, chỉ vô hiệu hóa trên các ứng dụng hệ thống)
+Name: AppData-Rootless
+Author: Fouad Raheb
+
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
 Version: 1.1
