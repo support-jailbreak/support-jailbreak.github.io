@@ -11904,6 +11904,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 22.0.3
+Section: Applications
+Maintainer: Biện Văn Nhật <bienvannhat97@gmail.com>
+Depends: firmware (>=10.0)
+Filename: ./debfiles/com.bienvannhat.picsart_22.0.3_iphoneos-arm.deb
+Size: 90280270
+MD5sum: 8704bf4b865347623bee2e94c07e8b40
+SHA1: a1889050ce3d62e7afd7abe2a830cf21b3da8bc6
+SHA256: ca5d222e08396dc3854868550bd14d3236aab696a86549add3cf7fcb9677084f
+SHA512: 6dbcdf153bfa76d863447cb5e1e3f71b7fc83f37d9736e5fd2af7377545d34000228d6c06965caacd06bb46d8747fed2497220fbc89aa05b395ac0567665c556
+Description: PicsArt cao cấp,nâng cấp gói Vip
+Name: PicsArt Gold
+Author: Biện Văn Nhật
+Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Tags: compatible_min::ios10.0
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
