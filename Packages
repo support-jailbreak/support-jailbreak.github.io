@@ -14151,6 +14151,23 @@ Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.7
+Section: Tweaks
+Maintainer: Repo Bvn
+Installed-Size: 836
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.reobvn.choicy_1.4.7_iphoneos-arm64.deb
+Size: 174778
+MD5sum: fcbd8501fe2200d692a8082ced5109ce
+SHA1: 6d02f931e33cf732fed25c19ca8959f8b1b6a67b
+SHA256: cac2adfc24fe3d6f9cd0fd3ea609de7c984b59393999cc734ed0a74d251b666a
+SHA512: b8cbf28a23de8d013bd5f81fe35d46023419a56181fd251932f58f3c318e6c2370041560b4642338f8de707b37eeba695ce08f43f4d31e42721e30ee4b4b0e86
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.Hỗ trợ iOS 15.0-15.4.1
+Name: Choicy (Rootless)
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
 Version: 1.4.0
@@ -14210,12 +14227,12 @@ Maintainer: Nets
 Installed-Size: 188
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debfiles/com.repobvn.ccsim-rootless_1.1-9_iphoneos-arm64.deb
-Size: 27988
-MD5sum: 227d9a9d87b4edbfdbd0c0d1e4372659
-SHA1: 8e008d5726fa47fdd95ffb797c27c211bb913692
-SHA256: 32e016d2e67757a7b90a161e7391034274263291ddc81e4d306c024560b49edf
-SHA512: 4a922bcdfdceb99f3e0e268c711a17d1e298454b6a518d6b5429eac7d62820dff3b01c8aae7beb62b6e2b4ded5c16eb5096bd27db13951872b73e6f35ea5a3d4
-Description: Đối với Ae dùng Esum, Ae có thể nhanh chóng bật hoặc tắt một trong các thẻ SIM thông qua Trung tâm điều khiển.
+Size: 27986
+MD5sum: 58670a806481110d4cf131fb4bb220df
+SHA1: ce1bc197ccf9d097af0bd13b68c4f9dc592f890c
+SHA256: 498928e4d4b2acb918b545ade012584a4fd80ad11b599bfe2796dbded578af61
+SHA512: ea4096cde394306f9069fe0034f74d2af3be86ece4f05d5ea8db6a777934a7d5c536d140530930bcb8e7d16e13ec1d0c50a7187327dd390adc96cd9a18cc6e0d
+Description: Đối với Ae dùng Esim, Ae có thể nhanh chóng bật hoặc tắt một trong các thẻ SIM thông qua Trung tâm điều khiển.
 Name: CCSIM (Rootless)
 Author: Netskao
 
