@@ -14225,34 +14225,18 @@ Description: Vuốt lên hoặc xuống biểu tượng trên màn hình nền h
 Name: AppData-Rootless
 Author: Fouad Raheb
 
-Package: com.repobvn.Auxiliary
-Architecture: iphoneos-arm64
-Version: 1.4.7
-Section: Theme Rootless
-Maintainer: Repo Bvn
-Installed-Size: 836
-Filename: ./debfiles/com.repobvn.Auxiliary_1.4.7_iphoneos-arm64.deb
-Size: 55884964
-MD5sum: 793d5ac31cc50fb3f7e4cf48a1975efd
-SHA1: 941f7947931295f52ab39623cfec7f6468339cb3
-SHA256: ef70d5ffbbcb18a01ba9a92cfb5203dcc7eaad7ecc8124899b928cf736d80d31
-SHA512: 704aa9b159c4ba4769a3bd21070c9e10bf70f9532fc6ae265c4dd12806827a02f2c69d77d492d22ad705951e579ff553f84cec7c8879a3cb3fdd06717cd29aca
-Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.Hỗ trợ iOS 15.0-15.4.1
-Name: Auxiliary (Rootless)
-Author: Repo BVN
-
 Package: com.repobvn.DepthsThemeRootless
 Architecture: iphoneos-arm64
 Version: 2.0
 Section: Theme Rootless
 Maintainer: Repo BVN
-Depends: mobilesubstrate, com.repobvn.Auxiliary
+Depends: mobilesubstrate
 Filename: ./debfiles/com.repobvn.DepthsThemeRootless_2.0_iphoneos-arm64.deb
-Size: 54054858
-MD5sum: fec2e43dde41c634163b87b7481607e2
-SHA1: c34c5d30948004e993863cfca8d6c4c981ea20a7
-SHA256: 837236f336adf7bc43f70c06d2cfee1bc9db4969d1824f8bcbc67b4df4e1a19b
-SHA512: 98e0140476334bf8354940c632b0b72e17b46deaf4d116d58fe20391a019953e6095fa5383eac38586fd56fa3d43e0d6fc1c986c5692108d09f12be76c6c31a6
+Size: 102075890
+MD5sum: 56d024baf96b79c9cd442aa7265e02b2
+SHA1: f83e899a054bcd6242f75dc59c25b363a9800349
+SHA256: 2a7495f0843f29c383891e2d9355c7daae4474884b3f0c4005d9a9bc13205c50
+SHA512: ba81ce4d067434aa119aeea8d87cc51f6ad8d9bb09435a23b773a9f196c4b643b2f67aa16517927d4cfd0e7a40dc3d254b017eeb75e7dd8bbf1b7d63e71cea78
 Description: Chủ đề giống như 3D có thể tùy chỉnh cao.Yêu cầu cài Snowboard hoặc Itheme để sử dụng,hỗ trợ Ios 15-16.4
 Name: Depths Theme (Rootless)
 Author: Polyphian
