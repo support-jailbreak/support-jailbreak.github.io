@@ -8522,6 +8522,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Tweaks
+Maintainer: Repo bvn
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
+Filename: ./debfiles/com.BIENVANNHAT.settingsrevamp_2.0.2_iphoneos-arm.deb
+Size: 135654
+MD5sum: 2fb24113080d557e9a92cdaba07c6698
+SHA1: c0620f703050b2e3bb80e4d33544d2e72e50a4a4
+SHA256: 60679e5408a12fb5278485d5725ee1a93a2f48592c3e99932097d7998d1c0c40
+SHA512: 1a0b05cf7c6d048b862d0dcd82c9535d2c0a59723016fae4c198f648e5331137e917fe87483f163115df72624bd0d790aee216b71d63424d5b29336bb37ebaf9
+Description: Customize the ios settings page
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.settingswidgets
 Architecture: iphoneos-arm
 Version: 1.2.2
