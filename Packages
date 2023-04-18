@@ -14211,12 +14211,12 @@ Installed-Size: 188
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debfiles/com.repobvn.ccsim-rootless_1.1-9_iphoneos-arm64.deb
 Size: 27988
-MD5sum: ba0a396999ac95f62c899bf6aea1dbc3
-SHA1: 70acbe0c90453376954e91dbb34144c9d1995aea
-SHA256: cfe7da43f94cc5a79d4a617667da27d6a935b5076318b855922d548fdbb1887e
-SHA512: acb9fbf6345e647d43b4968e810d416b132e7f802519d2ce9b1afacda8b4f117a5cbeb8dfe8c05067528d2abefce6ce7972f794d2663d2c0fdbab7e9e0691cef
+MD5sum: 227d9a9d87b4edbfdbd0c0d1e4372659
+SHA1: 8e008d5726fa47fdd95ffb797c27c211bb913692
+SHA256: 32e016d2e67757a7b90a161e7391034274263291ddc81e4d306c024560b49edf
+SHA512: 4a922bcdfdceb99f3e0e268c711a17d1e298454b6a518d6b5429eac7d62820dff3b01c8aae7beb62b6e2b4ded5c16eb5096bd27db13951872b73e6f35ea5a3d4
 Description: Đối với Ae dùng Esum, Ae có thể nhanh chóng bật hoặc tắt một trong các thẻ SIM thông qua Trung tâm điều khiển.
-Name: CCSIM (Rôtless)
+Name: CCSIM (Rootless)
 Author: Netskao
 
 Package: com.repobvn.iapstorefugu-rootless
