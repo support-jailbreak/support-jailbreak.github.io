@@ -3321,6 +3321,25 @@ Name: CC On & Off
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.BIENVANNHAT.cconandoff
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debfiles/com.BIENVANNHAT.cconandoff_1.1.0_iphoneos-arm.deb
+Size: 8070
+MD5sum: f44ccc76547c37e5898a35577375c917
+SHA1: 2f0bd7f79a4681fba077883539bc14895bd335cf
+SHA256: 647213cfad4acc0da511bf7025494b5791d0e770eab89f696e527ed3f61e8528
+SHA512: 07aac17603ce0e5b5491e1659d3106cce8513e141c9ef2a9522c239d56fc870bb60e938a30ebd7aec0433b294adb15c927f407080772704653ff589a75d57b85
+Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+)
+Name: CC On & Off
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.chatbubbleslite
 Architecture: iphoneos-arm
 Version: 0.5-2
@@ -11424,6 +11443,25 @@ Depiction: http://support-jailbreak.github.io/infodeb/VoiceChanger/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/VoiceChanger?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.Repobvn.cconandoff
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debfiles/com.Repobvn.cconandoff_1.1.0_iphoneos-arm64.deb
+Size: 8362
+MD5sum: 3f26f1379fd6bd239a203bfb05a7644a
+SHA1: a527b922274d887831b4d71c96d6ee19ad2e2dcd
+SHA256: 765cbbf04f9029446e431871cfcc1ef5bbdc69d3d2b466c5daa877bb9456bc24
+SHA512: 10c5c8b90058e50d78490552befc4ffcd0bf01860ca4ea9cc0d1fb7a68cd0be2b9431b493230274d3a1cf4cb69aeb9af24fdc95da14cbefa236f580566093651
+Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+)
+Name: CC On & Of (Rootless)
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
@@ -11664,25 +11702,6 @@ Homepage: https://udevsharold.github.io/repo/
 Description: Làm cho ứng dụng của bạn chạy vô hạn trong nền.Hỗ trợ Ios 13-14.8.1
 Name: Bakgrunnur VH
 Author: udevs
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.bienvannhat.cconandoff
-Architecture: iphoneos-arm64
-Version: 1.1.0
-Section: Tweaks
-Maintainer: Repo Cydia BVN
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.jakeashacks.realcc
-Filename: ./debfiles/com.bienvannhat.cconandoff_1.1.0_iphoneos-arm64.deb
-Size: 8358
-MD5sum: 0989daa1ac09047045af888f8655ac32
-SHA1: 77a7fadadecfd58e3dca25aae6172317beba0cad
-SHA256: 85c8f0be8d76d34cee7c2091cda49fc192447ed8f5c072045c71b32ba75be90e
-SHA512: 49f8ecdaf71070d8391a6c1a2031badc6dd3a1c801c34cd119dd79efeb50fb2c22379a0403192e0c945365ffb866a5b80d560f832ef0e5c2935028564d84d04d
-Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+)
-Name: CC On & Of VH
-Author: PoomSmart
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.harpy-reloaded
