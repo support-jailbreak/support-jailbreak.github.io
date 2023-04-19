@@ -11707,6 +11707,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios12.0
 
+Package: com.bienvannhat.amber
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debfiles/com.bienvannhat.amber_1.2.0_iphoneos-arm.deb
+Size: 17874
+MD5sum: 01c2a8a9adb06c0c9f60a198f32601d7
+SHA1: 9de213317bfee34c87a724d209f5830ca61b973e
+SHA256: a99e0bfbd74e9561b6c2b652c03cabfad38e59d2fbc7ed893742a72941900cff
+SHA512: 174f843c10313bdb50f9dff6c4144eb35613074c5d72bc90a50ffd0534bb317cd70862cfabacd513216dc357c9377a143718fa95723109cfa4ec8ab676ef4660
+Description: Amber-ify your LED torch.
+Name: Amber VH
+Author: PoomSmart
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
+SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
+
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm
 Version: 2.0.1
@@ -12079,6 +12099,26 @@ Author: PoomSmart
 
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
+Version: 1.7.19
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 296
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debfiles/com.bienvannnat.youpip_1.7.19_iphoneos-arm.deb
+Size: 35658
+MD5sum: 7be061c5d5b2205449b126c832196438
+SHA1: c918e86795c850e2b8de826ef7dd679eb6f603ae
+SHA256: 554ae4b7a83ae606250f83cf4a66c38c4c30a5c9acae5035ce719e17c5b10fcb
+SHA512: 9f4101814667e4e4c4ea47ec4fba32113fdcc200bf64f804f49c9bdba2066e1f0c0fdbb276b680384f05d10b7cf0557400f90969e364a502a03f87a095b664eb
+Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.Hỗ trợ Ios 11-16.3
+Name: YouPiP VH
+Author: PoomSmart
+
+Package: com.bienvannnat.youpip
+Architecture: iphoneos-arm
 Version: 1.7.7
 Section: Tweaks
 Maintainer: Repo Cydia BVN <Bienvannhat97@mail.com>
@@ -12260,6 +12300,23 @@ Description: Cử chỉ iPhone 11 và hơn thế nữa cho iOS 13&14
 Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bvnrepo.amber-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debfiles/com.bvnrepo.amber-rootless_1.2.0_iphoneos-arm64.deb
+Size: 18084
+MD5sum: ec2d2cbcbb0b85efbf2874913056a5bf
+SHA1: 739a79ae448903695ddff120d4e77b754065ac24
+SHA256: ec8b61e0c574197dcdba9e9429a995058c21c966c6cbaea9b7a9d1650eb714f3
+SHA512: 802a498a7807bfd482f57ab2612c97c950f41d5b863ff7d141aeb64bbe8da8ec3f4515e34c2ea51c06d70668670240b9b7dd4ec3220db28cec7c176c5019c6a3
+Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
+Name: Amber (Rootless)
+Author: PoomSmart
 
 Package: com.bvnsupport-4kvcl.vcl
 Architecture: iphoneos-arm
@@ -14357,6 +14414,46 @@ SHA256: c45fd54de164c17549829a1875184559061b63c431fb15a4577f31c1fd43d359
 SHA512: 632e2c557e81e011b57dfbf7b536ba04233b70c23e3cad5a4b9af17b4d5400ef58eaa02b4522a09090cbeb03f2ff9f9e2c86fd86d33917ebc50451d7ed47b6ad
 Description: Làm cho ứng dụng Dịch của Apple hỗ trợ tất cả các ngôn ngữ cho đến nay. Ví dụ: cung cấp tất cả các ngôn ngữ của iOS 16 cho iOS 15. Nếu tinh chỉnh không hoạt động, hãy khởi động lại ứng dụng Dịch và đảm bảo bạn có kết nối Internet.
 Name: LatestTranslate (Rootless
+Author: PoomSmart
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.5.9-Beta3-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.repobvn.snowboard-rootless_1.5.9-Beta3-rootless_iphoneos-arm64.deb
+Size: 1409408
+MD5sum: 0716bae3eff4b21c639c802b74492981
+SHA1: efa3bb84abf536bb519907b21341681e702aa962
+SHA256: 0313841aa00b86e2641030ada907d57fab6e49df5124d09a221f4ad09e6e622f
+SHA512: 9f7f53fec1d3de388df9b78c0135003c2d8ec00648091ccf8cb621636de522648d6676e81430e5ae7642c7e73b3cdf327a8a9441c193ebb10b79f0d159461ff7
+Description: Snowboard theming engine
+Name: SnowBoard (Rootless)
+Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.7.19-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debfiles/com.repobvn.youpip_1.7.19-1_iphoneos-arm64.deb
+Size: 35946
+MD5sum: ce9a93267b2463337f323e33bcd2ff8d
+SHA1: bddabcca845aa30d81aa5361a5a8d406aaeaf399
+SHA256: b2979caa1f262d31fba538cfc938e70b174c87f15577a045fa10773005e196e9
+SHA512: 4b969d885775fb2d76295e4aeeb0890ae23ddc865252dbe11bc120a8b4fc58ccf03b21604822e46b52922625a1aa81ebc90841277fb0190ec167af69a4808102
+Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.
+Name: YouPiP (Roorless)
 Author: PoomSmart
 
 Package: com.repocydiabvn.aim
