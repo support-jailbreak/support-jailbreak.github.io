@@ -12076,6 +12076,28 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: google
 Tags: compatible_min::ios12.0
 
+Package: com.bienvannhat.uyou
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.bienvannhat.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debfiles/com.bienvannhat.uyou_3.0_iphoneos-arm.deb
+Size: 14728100
+MD5sum: 6c3766ecb069070368cb4f379aa2222e
+SHA1: 0a67853f594e55eb06a74e9579de59effa89bbf1
+SHA256: edc74521e2c912e10d96bee864dd02258944f8d50248d08a2463e70fb8484b2e
+SHA512: f5642b023b2f6b8d1394f40e8e7f0a26aa57568679ac62081215aba6d42a64df7a5613a09c6f105c55f38c7b903de6bcc182c7f3ccfece61a0dbc035e5527cfb
+Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou VH
+Depiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
 Version: 1.5.15
@@ -12317,6 +12339,25 @@ SHA512: 802a498a7807bfd482f57ab2612c97c950f41d5b863ff7d141aeb64bbe8da8ec3f4515e3
 Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
 Name: Amber (Rootless)
 Author: PoomSmart
+
+Package: com.bvnrepo.uyouimport
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 444
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debfiles/com.bvnrepo.uyouimport_1.0_iphoneos-arm64.deb
+Size: 134620
+MD5sum: dbf932d8cc6e2fd60b624076e9cb415f
+SHA1: 3af5dd09bf7b0194e9e31754894437c1a30c0b03
+SHA256: ea816ec5935c6acc1e0277dd634fdad27ab1bd35c02a955f4f7a99e563acfaaf
+SHA512: 5548b97764b018328994bd051b88f390c7470b0612580492e8ac16bb5c9ac21bb5dbc4679b902d8ec3aada4e4dd6637e06da349990f3bfbd5fb9313146c5e4bd
+Description: Thư viện để nhập bài hát/video vào ứng dụng Âm nhạc.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.bvnsupport-4kvcl.vcl
 Architecture: iphoneos-arm
@@ -14435,6 +14476,27 @@ SHA512: 9f7f53fec1d3de388df9b78c0135003c2d8ec00648091ccf8cb621636de522648d6676e8
 Description: Snowboard theming engine
 Name: SnowBoard (Rootless)
 Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.uyou
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debfiles/com.repobvn.uyou_3.0_iphoneos-arm64.deb
+Size: 14728424
+MD5sum: de9c31b8e6e9d01c23a8e2efcf941812
+SHA1: e0c984203a31997861f87b50cc8d8f71f821926d
+SHA256: 986779fd73a0bec0f5528e91d1416c6a824906994f31fc30feedb849e0d167a5
+SHA512: 803631366a189cbc5f10e1693ae0baef0b35e167fe210162ebcf3dd912f07bcbfa564d491d8d750d5d8a20a6baf0e6ef134ad35c6c0cc17ad4a9a28f0abef8a3
+Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou (Rootless)
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
