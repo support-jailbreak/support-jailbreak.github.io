@@ -14382,24 +14382,6 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AutoFaceUnlock (Rootless)
 Author: Netskao
 
-Package: com.repobvn.ccpower-rootless
-Architecture: iphoneos-arm64
-Version: 1.9-4
-Section: Tweaks
-Maintainer: Repo BVN
-Installed-Size: 2424
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
-Filename: ./debfiles/com.repobvn.ccpower-rootless_1.9-4_iphoneos-arm64.deb
-Size: 1766764
-MD5sum: bfa0ca665783d509acb41586f70719bd
-SHA1: bb7883b6ca8d109c7687426dde00a2c480586346
-SHA256: 15e9c98bd02c258d066029c44d2e697cd4ad68a239f10e8c70c0df19c74d0957
-SHA512: 30c134bfc4a9dc81df9bf6b02c62abf4a554c42c03485f63a2be352db3d7469ab5081c9a6ff34bab84e6584958b571c9e74d4c484e018d0977851aae0708db71
-Description: Control Center Quick Power Tool, Supports iOS11-iOS15
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-Name: CCPower (Rootless)
-Author: Netskao
-
 Package: com.repobvn.ccsim-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-9
@@ -14417,24 +14399,6 @@ Description: Đối với Ae dùng Esim, Ae có thể nhanh chóng bật hoặc 
 Name: CCSIM (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
-
-Package: com.repobvn.goodWifirootless
-Architecture: iphoneos-arm64
-Version: 0.0~beta6
-Section: Tweaks
-Maintainer: Repo BVN
-Depends: mobilesubstrate
-Filename: ./debfiles/com.repobvn.goodWifirootless_0.0~beta6_iphoneos-arm64.deb
-Size: 127892
-MD5sum: b5449c208b732f3417f70236322ee2dd
-SHA1: abfd088b1f877361303303e35a15e35757577a50
-SHA256: cb07c5c90b421c547009499bb1496b4bfcf51ff647331110b9cd25ec04ba5f3e
-SHA512: ae4949e4caedfcd4569b65ca8fbbfe50fc2685efab1ca4af1c15d6b11546f2946f8f9d330a93247f9d544a46b4e8944b67b1c421ee3f014aad430aef7cfb5d4d
-Description: Tùy chọn WiFi tốt hơn,hiển thị mật khẩu wifi đã kết nối.
-Tag: purpose::extension
-Name: GoodWiFi (Rootless)
-Author: julioverne
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.iapstorefugu-rootless
 Architecture: iphoneos-arm64
@@ -14504,24 +14468,6 @@ SHA512: fe4d2ef6f635fb5124961ec89e46dedf6ad55e1c49e628a77195839f71f369d98a65481a
 Description: Làm cho ứng dụng Dịch của Apple hỗ trợ tất cả các ngôn ngữ cho đến nay. Ví dụ: cung cấp tất cả các ngôn ngữ của iOS 16 cho iOS 15. Nếu tinh chỉnh không hoạt động, hãy khởi động lại ứng dụng Dịch và đảm bảo bạn có kết nối Internet.
 Name: LatestTranslate (Rootless
 Author: PoomSmart
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.ntspeed.rootless
-Architecture: iphoneos-arm64
-Version: 0.2~beta9
-Section: Tweaks
-Maintainer: BVN REPO
-Depends: mobilesubstrate
-Filename: ./debfiles/com.repobvn.ntspeed.rootless_0.2~beta9_iphoneos-arm64.deb
-Size: 93730
-MD5sum: 41b389d9d62e25ac8218c0c39bbb6de9
-SHA1: e4cde7a4d7f55702369fc4fc460cfc6927007fb6
-SHA256: 3ffb6d5990f644d9e7d379570caf991ba2bfcded27eec0f1a0604507e2713982
-SHA512: 0ef1c222287bb7108d07f8980565ac4b19128ec1885c6bdb535ea5b851178d5add9b6ac2201e646e172124a2f17b2983a46d30780a4ec2c4dd15a19047838e92
-Description: Xem Tốc độ mạng lưu lượng truy cập đang hoạt động
-Tag: purpose::extension
-Name: NtSpeed (Rootless)
-Author: julioverne
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-rootless
@@ -17416,6 +17362,25 @@ SHA512: 6d777e0f3c8c681f428cff5a3a41e931a71f30095829db08c42bf78a6670b9a80b7ff264
 Description: Simple Activation Actions
  Handles StatusBar actions for simple activation events
 Name: SimpleActivationActions (rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+
+Package: net.limneos.simpleactivationactions-rootless
+Architecture: iphoneos-arm64
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Repo BVN <limneoselias@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debfiles/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm64.deb
+Size: 10644
+MD5sum: 2ab8b61875233183496f0a5d41acd31b
+SHA1: 02933948d802d6c8cbd1e03479042bda35473deb
+SHA256: 80b454d8babaf6d993e13ac7b53ea9e28ad93b026c8bec3e85ba2c7d751852e5
+SHA512: fa27f42a12a407a7140179b00fee3a6b066225338755561791bed022ffab5efb363298f917032cd4850d14b0281071b300afada9be19b0ee6f92f41c9d281092
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Name: SimpleActivationActions (rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 
 Package: net.repobvn.bioprotectxs-rootless
