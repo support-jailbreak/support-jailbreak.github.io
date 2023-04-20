@@ -3290,13 +3290,13 @@ Version: 1.1-1
 Section: Tweaks
 Maintainer: REPO CYDIA BVN
 Installed-Size: 616
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debfiles/com.BIENVANNHAT.cccellularrate-rootless_1.1-1_iphoneos-arm64.deb
-Size: 151442
-MD5sum: 7641be8da56d84d92a37d7ea8044187e
-SHA1: f35ec9ee9eb274c1bf29124a5149e0a728766406
-SHA256: 56b5b4f533029980cb1c471ca7c18f98d9de3d593b3b4f5324d25467da47aeec
-SHA512: f94edf0aecffb1df5dc7e557ec1f46038f1f4720d741ee64087fd525c1e8473a847c8e9b7323bb25709a968e2f00cab640fcb5cb8300eade6874f27e9d7152db
+Size: 151434
+MD5sum: 28b7b2c6cee3f1c482a77314dbfd4d2b
+SHA1: 592a36bba7052dd8eb76e9ed1491cc2e0006505a
+SHA256: c2960f704ff276c968cb0bde8e7f8cab422625a124a36e1683488276a1a1c32f
+SHA512: 2ca0dc2994379391699b16973cdc7b3820788a003af30725a6fa649dc5a78f0443f3f2047d0e541aedf521478a84f74c1d36fe08e3c26d036f755b5d2186dc95
 Description: Chuyển nhanh loại dữ liệu di động 2/3/4/5G hiện đang sử dụng qua Trung tâm điều khiển, chỉ những loại được hỗ trợ trong cài đặt thiết bị hiện tại mới được hiển thị
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: CCCellularRate-Rootless
@@ -3615,14 +3615,14 @@ Version: 0.0.3-beta
 Section: Tweaks
 Maintainer: Repo Cydia BVN
 Installed-Size: 488
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
 Conflicts: com.ryannair05.cylinder
 Filename: ./debfiles/com.BIENVANNHAT.cylinderremade_0.0.3-beta_iphoneos-arm64.deb
-Size: 131368
-MD5sum: 868caa119197cfa6179f2c41218c6387
-SHA1: 06ea306e03f7802df3ac9fde4d675d3933951881
-SHA256: 7ab440672bb27171c944db680d0346956fc414adf26a6218d4b285446fe54efa
-SHA512: 3e13c70a37db8b7c772c52b7c9e43fcf4a5517f571047d469757b0ae178cee96a65bafe486b25a987d45d02f17af1611f4ad987235dffdfb96e06c79cf55df9b
+Size: 131354
+MD5sum: 59bf14b0de2cdbc2bd1a87f76962bfd1
+SHA1: dd66ca182295c9b423f77e81c473497d5866e2dd
+SHA256: 7109e61361dfa562b4b2360f1db887b5bb2ce6c5320aa6d2c82decbcde493f7a
+SHA512: 2660b7db0c83c37e477fca8c1a4d2b20ff85bcd076a6be44695c641ae2140890f615b283860d7803d980a75f71514a3e6a8fce8efdbf232948fba1291b913019
 Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 15.0 tới ios 15.4.1
 Name: Cylinder Remade (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -11490,15 +11490,15 @@ Version: 5.0-5
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 5960
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0), org.mr.unsubsrl, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0), org.mr.unsubsrl
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
 Filename: ./debfiles/com.Repobvn.audiorecorderxs-rootless_5.0-5_iphoneos-arm64.deb
-Size: 1861134
-MD5sum: d76f4ef5bb09149238bd66c2d48e1070
-SHA1: 586c1dfc55236315399f22c3b9dada9b59235d31
-SHA256: 37b588f8c866529b87ea9f6d96fa730c6926e19ba65e671f6771bb05514baba5
-SHA512: e39d217e8ec247e9d6b645c971604dd1220933cb83f2a60c658dee7d0c70d34b9292f4218f2b245bdd28341e4d8224bc489d665433229a927557fbc8eb0d4326
+Size: 1861118
+MD5sum: 47db1f07915581cc44380ad110101118
+SHA1: 178e89da223e853e3ddcb9eac3319c5159dada7c
+SHA256: 663ba7ed0eea8fb0afc2a05d667a0403ec85c3740fa419770041224b6a1a12aa
+SHA512: 7731c658dfa9fab25b444826fffa120888d56c4b18e87a53922c7c9947ccd257a7995cb4bce51e0c772b2e1766c43483224c899a8ee2e0b6056fa14b1a6823cb
 Description: Trình ghi âm cuộc gọi iOS tốt nhất hiện nay.
 Name: AudioRecorder XS (rootless) (iOS 12 to 16)
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -11511,14 +11511,14 @@ Version: 1.1.0
 Section: Tweaks
 Maintainer: Repo Cydia BVN
 Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
 Filename: ./debfiles/com.Repobvn.cconandoff_1.1.0_iphoneos-arm64.deb
-Size: 8384
-MD5sum: f661a585c9336fba33091b539230f2ea
-SHA1: dfd36a917c719774e5ad6cb60ed40a952f932f1b
-SHA256: ff8bdb295ff2bd8fbdcbf43e6d7e44816b7a2eca74853149201b90ce02543fa5
-SHA512: b92b99e45ec7d96ba7b6b8765cc69c05ae15f0f22146382f2f0c3a4f9b20be3b42fd21757fde01d61a754c782dc304792a46cf1e58a3c271001a042bc6dfa63b
+Size: 8358
+MD5sum: 881909ac90473fa7e87de34cde934f71
+SHA1: b58f779fa7156c6da5ae01c32244226557c0c289
+SHA256: 836132ad67230338182c1b6ed3888a46d9bc28d4ea84ee9569fb9f21e0fa082b
+SHA512: c71ac7b35a631107536d1b9d722f6c7611be4b2b80ca5e27982f5518bc02a2b4f277a04d26333961178c823b04a2ad392c237cfa561fdf78deed6729cab0e74b
 Description: Bật/tắt Wi-Fi và Bluetooth từ Trung tâm điều khiển (iOS 11+)
 Name: CC On & Of (Rootless)
 Author: PoomSmart
@@ -12350,13 +12350,13 @@ Version: 1.2.0
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 368
-Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0), com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debfiles/com.bvnrepo.amber-rootless_1.2.0_iphoneos-arm64.deb
-Size: 18144
-MD5sum: 88b226a40ebf5a2353868d75591d4a16
-SHA1: 7ef11bbca2e2dceb0c77819433315b0e38e88949
-SHA256: 85b5cffdc0e5d29e87e459a06aea3b2bd7eb5354ffc02b02d9b8164bbb8ce812
-SHA512: 969342c8e7b43c11fa2f975c5ebc394f7ae58572e3e5c22f6cbf5cb5174e268fae155a9d953876450c1215a985ea53c51e9eb57da24f2bdbfefa340289508870
+Size: 18124
+MD5sum: 66dc3502f5216623aad755ff6f9c1b64
+SHA1: 6479657d973acde1bf245914006edca8e956e1cf
+SHA256: b6950f2543570a485a4775be3068fd2e69e17003ceef1538181b3977f7c3d221
+SHA512: 8e6b79b2525fea04ff72c461d3a7246a18376c0375ecc153b19d704ff24a73be7a934cb169e80a505ffcdb209899428d9fd9c298334a7096a2048eadc90620f9
 Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
 Name: Amber (Rootless)
 Author: PoomSmart
@@ -12368,13 +12368,13 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 444
-Depends: firmware (>=13.0), mobilesubstrate, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>=13.0), mobilesubstrate
 Filename: ./debfiles/com.bvnrepo.uyouimport_1.0_iphoneos-arm64.deb
-Size: 134684
-MD5sum: 0f70c3b22262ec27a7e7009cf1f02741
-SHA1: 8ad15e51a3b262285c5bef00c80e5ba4cad07a7b
-SHA256: 17bdba7896749311c2487efee48a2d0c953e10b4e645b84130d3d8a70fbb9c85
-SHA512: e188bb4ec6e7e02ab3ff2563ba1a331d4ac0b69e8573a4a424be4ac993cce7587db00bc794418dc8266c197556635480f4356429aa5b0ea3cb33582b8c9ed980
+Size: 134660
+MD5sum: 18f109fb0a868d4b11550be9de198899
+SHA1: 25ef96e5e3c5c008c552d386c117e14bd8f395fa
+SHA256: fa1721b8a0f759b7bdc922eab99deddfb53e5031cc92529041a07934f2f064ce
+SHA512: 5abf9241a0ebd5e30c7229e4fc8ee6f3f67f3f4d735bcf5b3569775ec6ec4ecf410d67f1468107f35024c3bfe7133d8385929b443cdbc1a1f0ac98296428a16a
 Description: Thư viện để nhập bài hát/video vào ứng dụng Âm nhạc.
 Tag: purpose::extension, compatible_min::ios13
 Name: uYouImport
@@ -14318,13 +14318,13 @@ Version: 1.4.7
 Section: Tweaks
 Maintainer: Repo Bvn
 Installed-Size: 836
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
 Filename: ./debfiles/com.reobvn.choicy_1.4.7_iphoneos-arm64.deb
-Size: 174844
-MD5sum: 7e7bd6ae6b8f488882d176c3e825bd05
-SHA1: d952d077b197bcaa651366c8faa50c8d338cb2f7
-SHA256: a5af24597ca81067cfbc565f111466b5d7ef98ec04452170d230ff7d7af120b0
-SHA512: 47319e3a7b9fdf0e2574f8b8da408b4b7a256a591df8d58bf3e9b00334e8a444ae274fd743b30001d8bc6ba3678c285f1cde49f73b5728aa015788dedf4d52fd
+Size: 174818
+MD5sum: 6eb7d801857af10fe74413ec127636a7
+SHA1: 043787207afb756d81b84f4255e26820aae3f931
+SHA256: 350aeafb8ca1a37946e071ada8b061ea1e20873ddb19999f22b630e6a70a37a5
+SHA512: 3e8b68c88e252a55145451adbc8442fbec624f6b17d7b96c19e7dea6cee11b4705009018394692eb1333f8928c7c04c4e21f567d8b08630e6f433608791d435f
 Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.Hỗ trợ iOS 15.0-15.4.1
 Name: Choicy (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -14370,13 +14370,13 @@ Version: 1.1-7
 Section: Tweaks
 Maintainer: Nets
 Installed-Size: 452
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.repobvn.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
-Size: 101148
-MD5sum: b5c52493ea6ecf3d19505c2e81059df1
-SHA1: 61418953c6d0dd889a48d25f46d142a7c0bd1da0
-SHA256: 7a7477905fae9f26855800be27b98de345be5da6413195eddaa8cdeee9f864e4
-SHA512: 2af150b450e63c34988e9e1a5aa25e46f874f3a58006b947129ad038357505f066509f5bd4bd81bca244bf7c24f469bb2d6d28c1832c2f4075192636404b3e3c
+Size: 101122
+MD5sum: 4a32e7684d1e900be1d6071f6d94763a
+SHA1: fe10339ff0c03e9992b37a5aaec100dcc9ab41c7
+SHA256: 3fb072b5e9e3d0b145bd8878a172e89844751a559f6ce6a9032c8a20383d2c90
+SHA512: 2160058d31f95b186ef4cdfdb65f823e057e252c842e055f5c8377251bf2708c49e3ab45d012a68a52b294bc556ebfcfc3a7fc04cb5887a41076ea225facd573
 Description: Nhận dạng khuôn mặt được mở khóa tự động mà không cần trượt lên để vào màn hình chính.
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AutoFaceUnlock (Rootless)
@@ -14388,13 +14388,13 @@ Version: 1.9-4
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 2424
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3), com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
 Filename: ./debfiles/com.repobvn.ccpower-rootless_1.9-4_iphoneos-arm64.deb
-Size: 1766784
-MD5sum: ebb89b08f5def91f38430966b8906133
-SHA1: 94ef95ccd6022b1b4eeed79555358f6064739832
-SHA256: 508a5cc712dc7630c741814e4012f1c65aad887d7c533523146dfefcb18c4142
-SHA512: b2b0ab5c63543a737d60c41059005df18c4cd8468ce50f7e7f11efc1adaec9fc29ebef6a1e728c45d16a71897a1b7239ef617d845b39b140171d1b14ffb545f5
+Size: 1766764
+MD5sum: bfa0ca665783d509acb41586f70719bd
+SHA1: bb7883b6ca8d109c7687426dde00a2c480586346
+SHA256: 15e9c98bd02c258d066029c44d2e697cd4ad68a239f10e8c70c0df19c74d0957
+SHA512: 30c134bfc4a9dc81df9bf6b02c62abf4a554c42c03485f63a2be352db3d7469ab5081c9a6ff34bab84e6584958b571c9e74d4c484e018d0977851aae0708db71
 Description: Control Center Quick Power Tool, Supports iOS11-iOS15
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: CCPower (Rootless)
@@ -14406,13 +14406,13 @@ Version: 1.1-9
 Section: Tweaks
 Maintainer: Nets
 Installed-Size: 188
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debfiles/com.repobvn.ccsim-rootless_1.1-9_iphoneos-arm64.deb
-Size: 28046
-MD5sum: abeec9fa8da7add8cd5fee49707d767f
-SHA1: af435126580410ca4c7de9703e9f724f757e2196
-SHA256: d040ea1139b0c47444707e3307ae26ab54149bb8aafe8c14f28613925105e8a0
-SHA512: 4d96bf07b7d8b63d26bb5737a685c6d7d9d24e3aee69c371b0ac1ea67a05ca67f19995a22531712c48d298c95da893f8e009ac7ef0e073bd03b68366e0dfeb33
+Size: 28026
+MD5sum: f4548030f6c69497efbf445c410c0f2f
+SHA1: 0150165aaabbe7873c5e5f6385967ba058e42dfa
+SHA256: 18ac959f95958865f754aa6f184002d3f37eb2feb890d4a2b393fbfd02ac6a7a
+SHA512: a4cd42ac346979797c0d093b4c229f1070299c9741b346fe5c4b737e70924b8db17f2af5ac1a3d987df6ef68507549e17b99c1b13cd6b603fa08637f6a0a801d
 Description: Đối với Ae dùng Esim, Ae có thể nhanh chóng bật hoặc tắt một trong các thẻ SIM thông qua Trung tâm điều khiển.
 Name: CCSIM (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -14422,14 +14422,14 @@ Package: com.repobvn.goodWifirootless
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
 Section: Tweaks
-Maintainer: TTJB Team <admin@thuthuatjb.com>
-Depends: mobilesubstrate, com.BIENVANNHAT.iconreporootless
+Maintainer: Repo BVN
+Depends: mobilesubstrate
 Filename: ./debfiles/com.repobvn.goodWifirootless_0.0~beta6_iphoneos-arm64.deb
-Size: 127932
-MD5sum: a2c248d4675c5442ff68d5129f1bc3eb
-SHA1: cbf60dcd1f147a73eea3516eaf558dec301dcb8e
-SHA256: ed61ccba583062e17908cb43d8710575d2a0bbd1b868331d3031ae862ec9542a
-SHA512: 038d274050fcc26441bdf06c4c4e54385687393711ef4db031b851cae572cbb6a6d1e11e1ed1581e3ca374573d956702fa4bbc097c35525abe4ecf066d42f366
+Size: 127892
+MD5sum: b5449c208b732f3417f70236322ee2dd
+SHA1: abfd088b1f877361303303e35a15e35757577a50
+SHA256: cb07c5c90b421c547009499bb1496b4bfcf51ff647331110b9cd25ec04ba5f3e
+SHA512: ae4949e4caedfcd4569b65ca8fbbfe50fc2685efab1ca4af1c15d6b11546f2946f8f9d330a93247f9d544a46b4e8944b67b1c421ee3f014aad430aef7cfb5d4d
 Description: Tùy chọn WiFi tốt hơn,hiển thị mật khẩu wifi đã kết nối.
 Tag: purpose::extension
 Name: GoodWiFi (Rootless)
@@ -14458,13 +14458,13 @@ Version: 1.3-5
 Section: Tweaks
 Maintainer: Repo bvn
 Installed-Size: 556
-Depends: firmware (>= 15.0), mobilesubstrate, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debfiles/com.repobvn.instagramnoads-rootless_1.3-5_iphoneos-arm64.deb
-Size: 182310
-MD5sum: 0b74949e80ee098910e2ea499467c7fe
-SHA1: c16f0f8c14951d205e23c911592cc1a453bb9521
-SHA256: 545b0b11a76458ad130ad07a2a7828c27f1e51e73d3a548ebe632510b625a05e
-SHA512: 8fd8e5ae6f6bb2ba8f0dcdca4a6372eec3096436b9289c61af71602f1ac1e002aa93f138212721ccb7952d7b000ce64c051201cbe6d5ef3e8d7a47a6602b9ff7
+Size: 182292
+MD5sum: 0d143bdae72486a065874ba647121a08
+SHA1: 9c0d9569fd23ded0bb8ab9a5616a900bafd8045d
+SHA256: 6e1a3e8c9314a5819b84d397f22879344d4198e3652f00eee67022c94fcabd04
+SHA512: 77b3c8f59a50c102a2c6e96950b2167f7e0b2875b8277c96d1c26237e34702db7701e0ec93d5e499dc0acec7900e2ca3001763690836fd68c334226e032dc628
 Description: Chặn quảng cáo Instagram,thêm tính năng nhấn đúp để lưu ảnh và Video.Hỗ trợ phiên bản 277.0 trở lên.
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: Instagram NoAds (Rootless)
@@ -14476,13 +14476,13 @@ Version: 1.2-2
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 2160
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.repobvn.killapps-rootless_1.2-2_iphoneos-arm64.deb
-Size: 1683496
-MD5sum: 0a8655e899b42130177c96c86ce069bf
-SHA1: f7955fd4a95184597fa2d15eb377a07368778dc2
-SHA256: ab1eb1d0a28bad4cc0b28c5cd08aaa89cc4138d33e346055e0526f31ae278d9f
-SHA512: 14e0888eb01f0600f07f017ee71647be796a21fb2f68631f136490250931009a0890c90dddb92b04103b6e180d33d414d8170a52ea235de9696227eb5dac77a7
+Size: 1683470
+MD5sum: 2ae0b60d4c57e135b3f84371427ab3ef
+SHA1: abe90d9a389e17d85f212a2493662385471bd316
+SHA256: 13285cf765843cddd28104b12921a8c17330d3990e761463b1ebbd00171c0dfb
+SHA512: b447bed317cddc232c6fb407423558f8d54b913cf9bcbcadc6743b65db99e3322a908c4360bce54ec699ade678d4c8b1cc811a80c177283856e200769f05ed10
 Description: Thêm chức năng xóa nhanh tất cả ứng dụng trong đa nhiệm.
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: KillApps (Rootless)
@@ -14494,13 +14494,13 @@ Version: 4.0.0
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 16.0), com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 16.0)
 Filename: ./debfiles/com.repobvn.latesttranslate_4.0.0_iphoneos-arm64.deb
-Size: 7850
-MD5sum: d1d69e0d6c1c5787733107f7b31b69ad
-SHA1: be49341811fe1e794c2a329b7378aba51bcebe8b
-SHA256: 6d887e1d05176dcba9e71b875fca5de943189629d06b6a6cacdace4727489897
-SHA512: 02ab19ab35a5c0210a94dc8dbc342811c4ecde5eaba45eed734e3e7f1d57afe5612eb5ce46a0c6add3d81b5df706110cd134112dd3ac170dece280bf902a6475
+Size: 7828
+MD5sum: 438da7210e6a890f5380a9c5cf44f5f3
+SHA1: 28be12dc4db316f665a4146d2a3d9111ec7889bb
+SHA256: f8e93539f048bdb004397a66e1854ec584d66abd014e625c4e251aa090c04300
+SHA512: fe4d2ef6f635fb5124961ec89e46dedf6ad55e1c49e628a77195839f71f369d98a65481a9957aaaa4fdfdfa1341fa938aa6c4fcf29efb8e181e8094afc1fee65
 Description: Làm cho ứng dụng Dịch của Apple hỗ trợ tất cả các ngôn ngữ cho đến nay. Ví dụ: cung cấp tất cả các ngôn ngữ của iOS 16 cho iOS 15. Nếu tinh chỉnh không hoạt động, hãy khởi động lại ứng dụng Dịch và đảm bảo bạn có kết nối Internet.
 Name: LatestTranslate (Rootless
 Author: PoomSmart
@@ -14511,13 +14511,13 @@ Architecture: iphoneos-arm64
 Version: 0.2~beta9
 Section: Tweaks
 Maintainer: BVN REPO
-Depends: com.BIENVANNHAT.iconreporootless, mobilesubstrate
+Depends: mobilesubstrate
 Filename: ./debfiles/com.repobvn.ntspeed.rootless_0.2~beta9_iphoneos-arm64.deb
-Size: 93748
-MD5sum: f5a2b1ff539c744575c88463e4efd91d
-SHA1: ee6a3b6a12441a3646ff8b74a48a08a2d24ab45a
-SHA256: bb0f87b7d1f7538994760ef35038956f0a94f55ab9ec6ccf9e2dde821206c47f
-SHA512: 87761dafeff3b534c1f6f2da58055c5a1aa7530c8276ba75a3ab1f1b1d369692549f645c96af5bbfa1f4a50f926971c36677105408bfef0a9ea3b25c049c6d58
+Size: 93730
+MD5sum: 41b389d9d62e25ac8218c0c39bbb6de9
+SHA1: e4cde7a4d7f55702369fc4fc460cfc6927007fb6
+SHA256: 3ffb6d5990f644d9e7d379570caf991ba2bfcded27eec0f1a0604507e2713982
+SHA512: 0ef1c222287bb7108d07f8980565ac4b19128ec1885c6bdb535ea5b851178d5add9b6ac2201e646e172124a2f17b2983a46d30780a4ec2c4dd15a19047838e92
 Description: Xem Tốc độ mạng lưu lượng truy cập đang hoạt động
 Tag: purpose::extension
 Name: NtSpeed (Rootless)
@@ -14531,15 +14531,15 @@ Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 3188
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depends: mobilesubstrate, preferenceloader, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debfiles/com.repobvn.snowboard-rootless_1.5.9-Beta3-rootless_iphoneos-arm64.deb
-Size: 1409468
-MD5sum: 18dc0d79475167fa79358f9dfe129e9f
-SHA1: 74533632ebf92e8012b076b8fc0fefc3be51edcb
-SHA256: 2389cec2ba089151ef61c68a8f16325e0bfca79f998f7fd0c01c664743dd441b
-SHA512: 17a33bbab1d72330baf6c51788110335f8501e1fdd9acd692d7945193da60691274fa1a2483ad6c2050ba56cc853fb9f7ccfa2ebdd8e336b7b5aa15d31f722cd
+Size: 1409448
+MD5sum: b6bcc08babc02a547e851d4d933ba1b8
+SHA1: 75f86843d84e02367819ebf7bcd1738e7644fac4
+SHA256: 3ba13195b5752f6f35c048b8113fd94c507e86766c656c7bf8fd0ec491ef5aff
+SHA512: 18219b439b716041081293de7abc5fbc1856c74b5e5185671875f224d2b7b9c74e71d90f4f408c880d9e969321851384005170765adf8fc06d44f5557f5506cf
 Description: Snowboard theming engine
 Name: SnowBoard (Rootless)
 Author: Spark & Dennis D. Bednarz
@@ -14551,14 +14551,14 @@ Version: 3.0
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 31200
-Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>=13.0), mobilesubstrate, com.bvnrepo.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
 Filename: ./debfiles/com.repobvn.uyou_3.0_iphoneos-arm64.deb
-Size: 14728446
-MD5sum: 3576d7b5253d4aeed255a4efdad210cc
-SHA1: e43737728912906a89720a65341063a0bb7f9aae
-SHA256: 0bc24d56f1c651f4ca97fe449d0211bfc6e097a22f2168a0b4db7d0aeb4aaabb
-SHA512: bbe82efb0a3da15e96dcd86bf38416c1770924588e064cce2d4b645ac566360ef16d95f84362273c65d5e8a0fa3fe320658d6eded14d315a189b763c615abaee
+Size: 14728416
+MD5sum: 8cfa7afd4133f0c0805f972a3ab57c8d
+SHA1: 20beeaa52441e3c02b6a0b9836dff4a2a725bfef
+SHA256: 9db3b3f96ab310f31d8828f0e12e6362cf2d40a10167054388777b1c143e7e07
+SHA512: cb6ddfe89d4fffe8bfded6911c9e3bbbe4fb5ebdf3f08cc22f137489985f7d69f6b3c151c2480c61f1c1d90afbfa4b67c1cfbac23be74a4047d1eab06534bef7
 Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
 Tag: purpose::extension, compatible_min::ios13
 Name: uYou (Rootless)
@@ -14573,15 +14573,15 @@ Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 300
 Provides: com.spicat.youpip
-Depends: mobilesubstrate, com.BIENVANNHAT.iconreporootless, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Filename: ./debfiles/com.repobvn.youpip_1.7.19-1_iphoneos-arm64.deb
-Size: 36012
-MD5sum: d1147825c54ce96a6dbe8ad7938bd4dd
-SHA1: 0af17ee52cd554985f0099f4968073fa8bcda0a8
-SHA256: 4bc21d90922c1e542421a90f2d5a11e2e8834627b1849a634307476624e40115
-SHA512: 9d341a296b7931f314ab38aa15927aa2376184bdb44f158cd5631bc62ec4199b62f6935aa6dc6296e104e4402800ac67cbe21660e4294d3a3b103bb14343fbe1
+Size: 35992
+MD5sum: b24636156ce17a8d8d23890cb65618d2
+SHA1: 234262d0562396b7340a70c4204f1a824f93ae9e
+SHA256: b1f02893b78c89c701c3f6f04370442518dca04cf5bca7cd6505c988f4f7da88
+SHA512: e357a865563d3cdb9515fa35273a777522a4da54b227a4ec8c74d30ac754f7f94541455f140e22e0e8149e57c9a74110a82cca44aea0992772a8b0a9f2047d01
 Description: Tinh chỉnh cho phép bật tính năng Hình Trong Hình (Picture In Picture) trong ứng dụng YouTube.
 Name: YouPiP (Roorless)
 Author: PoomSmart
@@ -17366,13 +17366,13 @@ Version: 0.6-14
 Section: Tweaks
 Maintainer: REPO CYDIA BVN
 Installed-Size: 1668
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
 Filename: ./debfiles/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-14_iphoneos-arm64.deb
-Size: 459098
-MD5sum: d7de37ca5078efde492dc61def629da1
-SHA1: e001424fc20fa795d295ad73bf8299420dc13f1d
-SHA256: d0953b26edc04a7ed666f15a036369d82ef33ad1361790e07a70761803dfc2c4
-SHA512: bd5693fd3a9b381cc95fa903a186e275ac66f6b87212c4f07128e8a3fc4913ded4014c6bdb96cae16c71e9ccd1a443a45672d65680491bab1a8f600940a6d77a
+Size: 459078
+MD5sum: 4d1c980981e6288d36650ec4e6085ffe
+SHA1: 26527cb2154053688304f3c75239c2d8dd9b1e4c
+SHA256: 7f4cdd35db72edccc5bfb35ca60985c1bc39c63577e7608f56b71378cc024206
+SHA512: aa22bfc5a66156cb8755bc4141fb041bfcca3ef84b06e7c4469416d52eba6f4f28c7996117a4f250c7a57b7f425fc0229099094e88f84fd5625985e682930d5b
 Description: Dynamic Island trên notch của bạn
 Name: DynamicPeninsula VH (Rootless)
 Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula/?p=info
@@ -17424,14 +17424,14 @@ Version: 4.6-30
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 2168
-Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debfiles/net.repobvn.bioprotectxs-rootless_4.6-30_iphoneos-arm64.deb
-Size: 802096
-MD5sum: 3ed16b3bdb7b7f6fb5985435607a7c80
-SHA1: a2df021a5021faafa4b271319a2123766585191b
-SHA256: 0720c66af19138077da5ef2b1352aed37e0e7d9205945bac467a74264f8a081b
-SHA512: 024f1beb7cdadfc88d248706b2cca6725df4c3b537fb41421f73408af774b6346aca46571b38c1aad91503a61b25d6157f8f423c2b48abf481cc0b264db84524
+Size: 802076
+MD5sum: fae52205be140392c22ca52f612499b9
+SHA1: 51282510aee58c9adec076941f69418afd9a80ba
+SHA256: 42fe25a7036ca421d4cee47c347df42f34579a3071d1d5219ea0637df3162a1c
+SHA512: 2ca6c68b3c45c911e869252c0783b9f7ae78024005ab43b2a527305780bb7058b867224d63aeaa19cfcaacaf3d6ab8c491a11adef547052cb85d7399711e3929
 Description: Bảo vệ ứng dụng của bạn bằng Touch/Face ID!
 Name: BioProtect (Rootless) (iOS 12 to 16)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -17445,14 +17445,14 @@ Version: 0.5-2
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 780
-Depends: mobilesubstrate,preferenceloader, org.mr.unsubsrl, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate,preferenceloader, org.mr.unsubsrl
 Conflicts: net.limneos.smarttap
 Filename: ./debfiles/net.repobvn.smarttapx-rootless_0.5-2_iphoneos-arm64.deb
-Size: 209012
-MD5sum: e7a53646c402beed9e907b31cda79c39
-SHA1: fb74178aba2e65a8b818abf0c8295d977d30880b
-SHA256: e58b66e4da683ac4b8d012cb963639621413b6cf001d66d1c54112dfc9776412
-SHA512: a8d01fc5001d0423c781123a8e3fd93cdf998e953247ac087c7a958d43d96d7beb4bf51978856cae25f1fa03956676b3bb3a9e821ed7507b17a1ef845aed776b
+Size: 208992
+MD5sum: 6bc04d5673d0ffaaa5e30dea178ed985
+SHA1: 339046003c225dd457bd6c761957535221b1994e
+SHA256: 4ad46865f72916765f0e35cd508ee7711315e5f8cdeab29b721e7f2bc519118e
+SHA512: 5f05563159090ace09dc6ef74c5c6b9ada4ab72d95d3be102244b8b559040549098e2f861361f9a7d69320344ea88a58fd91bffcc65d5860a3796f2a6187b822
 Description: Bật màn hình bằng cách chạm vào nó!
 Name: SmartTap XS (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
@@ -17466,14 +17466,14 @@ Version: 2.4-3
 Section: Tweaks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1420
-Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl, com.BIENVANNHAT.iconreporootless
+Depends: mobilesubstrate, preferenceloader, org.mr.unsubsrl
 Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debfiles/net.repobvn.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
-Size: 449634
-MD5sum: 5b5d7dd9e995fae47b1bdae098d9d77d
-SHA1: 358e523695ad58065bd17365bbc39cebd86c2261
-SHA256: 288b125b95bde8dab2f29835b5afffa098630c16e28593e814a4b5923473d985
-SHA512: a4472455dca655a217fa330922946d17f5784bcd14f39a87977ba42797c069b5de804355d746c6ac17cd26420d8c1aa22b3d72682fa2168af18885013959bc22
+Size: 449608
+MD5sum: 9f4ce1d8ed8e756cf1c006b8236ff030
+SHA1: 247f6d5a63ad9159470f5799d63593ba827c3267
+SHA256: c5db9320276e2796a71056bd1e402db6d9f30cd14e16c5d5ae5315c733860ef6
+SHA512: 83542015faeb2e7a6d021e2d82b78d36fa189ea1148f0319338d3f76f53a4e2372668436fdb4349f58d41e81d4135e9298521951fbe92e5e9a48df65e1d596f2
 Description: Thay đổi giọng nói của bạn trong khi gọi!
 Name: VoiceChanger XS (Rootless) (iOS 11 to 16)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
