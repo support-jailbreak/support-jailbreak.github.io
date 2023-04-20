@@ -5937,6 +5937,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/IconCert/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/IconCert/?p=info
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.iconreporootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: required
+Essential: yes
+Section: System
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Filename: ./debfiles/com.BIENVANNHAT.iconreporootless_1.0_iphoneos-arm64.deb
+Size: 8926732
+MD5sum: d06f8a3a4f2e8d0dd49aa5746624f70c
+SHA1: 4dcac0782f08702ab2216acc245d153fae9e08d8
+SHA256: 537412e8edabc934f577a479cfb5f4c598f373a4dd7500bf2a8659a637dba3bd
+SHA512: 2e6a45eefb174acf997c9021f8dafdbb452c6af592ed6dd8ce177f5355cf1f2099449061fd0c3d0c0b2169cbfade22b101aa71c458a9591f2f7bf75812689c9b
+Description: Gói iCon cho Repo BVN
+Tag: purpose::extension
+Name: BVN-iCon Repo (Rootless)
+Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Sponsor: BVN REPO <Bienvannhat97@gmail.com>
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.BIENVANNHAT.iconstate
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -11786,26 +11806,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Harpy/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Harpy/?p=info
 Author: MidnightChips <midnightchips@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
-
-Package: com.bienvannhat.iconreporootless
-Architecture: iphoneos-arm64
-Version: 1.0
-Priority: required
-Essential: yes
-Section: System
-Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Filename: ./debfiles/com.bienvannhat.iconreporootless_1.0_iphoneos-arm64.deb
-Size: 8926726
-MD5sum: 7fc08426e08caeada8328812698038bf
-SHA1: ce1c8aa3d2327c4a14616d2475742383c3891a61
-SHA256: 4fd17d96f9a8b5d64eca7efde5470ec65e5413a4ce09816aa0ed6c379c68bf14
-SHA512: f6301517f976f1556e7aa672b8b165c412d8cd2af936a5fb7a7f88a096b1a698a47faa9beb30b846ddd98bb6faae045807438663a46aa036b90893afe7b9cc87
-Description: Gói iCon cho Repo BVN
-Tag: purpose::extension
-Name: BVN-iCon Repo (Rootless)
-Author: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
-Sponsor: BVN REPO <Bienvannhat97@gmail.com>
-Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: com.bienvannhat.kinehack
 Architecture: iphoneos-arm
