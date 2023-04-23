@@ -12362,6 +12362,24 @@ Name: Amber (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.bvnrepo.copylogrootless
+Architecture: iphoneos-arm64
+Version: 1.5.6
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bvnrepo.copylogrootless_1.5.6_iphoneos-arm64.deb
+Size: 2274
+MD5sum: f1a9000dfad0a07bb091375c065ece1e
+SHA1: ebd4336c8192b2545c25e530241aabe8e3ae3e33
+SHA256: 473df9798f199fde35921818c87a285932797145b9de06eb08a8601dc81639cc
+SHA512: 0183d927efe06540ff780449ad9609abc81f242e59c01bfb0772312cffc86943b5deeb50a0cf4351c34e93f08e0cfd1644f5390108efa239abf198527e69f5e2
+Description: Gói Tiếng Việt cho Tinh chỉnh Copy Log
+Name: Copylog Gói TV (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Biện Văn Nhật
+
 Package: com.bvnrepo.uyouimport
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -14314,6 +14332,24 @@ Author: PoomSmart
 
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
+Version: 1.4.7-3
+Section: Tweaks
+Maintainer: Repo BVN <opa334@protonmail.com>
+Installed-Size: 836
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.reobvn.choicy_1.4.7-3_iphoneos-arm64.deb
+Size: 174808
+MD5sum: ae4654565faa09c4850138ae0ee0ddcb
+SHA1: ba6f059fb27a3e422bab8b0852e8fd8e9af41b7e
+SHA256: 7c20862ce65ed9fd1d3c028c2012f1990d12479eb1ac88e4316736d05322f80e
+SHA512: da22aa8c92de44b05e8fcdfea4e4d88c548764fd467d1002cd46ebce485e1d3ec964a17dae2c412caa17532bbf9fbb13e3d751fd24856bca59e476e2e56841ff
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn!
+Name: Choicy (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
 Version: 1.4.7
 Section: Tweaks
 Maintainer: Repo Bvn
@@ -15468,6 +15504,24 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.4.7-3
+Section: Tweaks
+Maintainer: Repo BVN <opa334@protonmail.com>
+Installed-Size: 1076
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.supportjailbreak.choicyvn_1.4.7-3_iphoneos-arm.deb
+Size: 259788
+MD5sum: 290b73a0d9da53ad017363b8150c612a
+SHA1: ca7d7edc3884ca445949eeb8eb1e0032ab2cfee6
+SHA256: 2afa3038a132377f3e1aa007903053016df31ed33a06fc0878412c45819f00f5
+SHA512: eb275e770dee7b71c2151a991461ffdfa1632e5c5b2fad6703318d1a77b2596f4b13dcd7b18ff525667c47f200ec71573abd482fba7bc5960608281c47e2bf92
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.
+Name: Choicy VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
 
 Package: com.supportjailbreak.choicyvn
 Architecture: iphoneos-arm
