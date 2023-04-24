@@ -17585,6 +17585,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/BigSurCenter/?p=info
 
+Package: org.mr.dleasy
+Architecture: iphoneos-arm
+Version: 2.13.5k
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 3280
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/org.mr.dleasy_2.13.5k_iphoneos-arm.deb
+Size: 1795712
+MD5sum: b7a92cadcfe344494d49e506864fa00b
+SHA1: a42e8efbffbcbf870f38af5e4d89247e9fad1a55
+SHA256: c07a1812e35457f22a18aa40484ea5728fec89785b41f49b61c4d53dd8917f15
+SHA512: 613fa2529f64e56ae0576e0e093b0b63820d887676dd792e842b74bf41f53900fa85c6d789c03a8b458a3e35ced85febe5da7ebb1188dc93c91e856e75237dad
+Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
+Name: DLEasy Crk
+Author: AhmedBafkir <prooxy0@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
 Version: 0.0.6
