@@ -10307,14 +10307,14 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Biện  Văn Nhật
 Installed-Size: 460
-Depends: firmware (>=13.0), mobilesubstrate, com.BIENVANNHAT.uyou
+Depends: firmware (>=13.0), mobilesubstrate
 Conflicts: com.miro.uyouimport, net.kenhtao.uyouimport
 Filename: ./debfiles/com.BIENVANNHAT.uyouimport_1.0_iphoneos-arm.deb
-Size: 144254
-MD5sum: 7f0294eeee7732355dba5bcb06fbad31
-SHA1: a3c06591d43f3c939c1b9ce58b75d66bfd63b2c3
-SHA256: c04edc03cf90a8d45ce4c3a99231893315f8000d2422b92050b578eff0975711
-SHA512: 22cb26ea68aa83cacacd555cdd27b349c7fd7ace77794c2ea7490a4be8a6434238d96defd82b555dcc85597dca08f2d3a6275f7eb42c1207e83c8558dd2560a8
+Size: 144258
+MD5sum: f96a592c5baeae5d94bb1f3bc06f79a4
+SHA1: 114ab0eceaefcac955fc48067486bce15ece116d
+SHA256: 1bb34b8b28fc1ff5f82c41e10f7151a638c1a726f99d85a118434bed0d71f3d1
+SHA512: aed0a8025dde3e585b628eb96c8e6b6659e2f7a947b40ec5ceca9bb1fd7de7f1c61c1a2cdb5952278c88600b1477bf4e35c7992fa7a81bb8990fb1b8b287fb0f
 Description: Thư viện để nhập âm thanh & video bài hát vào ứng dụng Nhạc.Hỗ trợ Ios 13.0->14.8
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: uYouImport VH
@@ -12103,14 +12103,14 @@ Version: 3.0
 Section: Tweaks
 Maintainer: Repo BVN <bienvannhat97@gmail.com>
 Installed-Size: 31200
-Depends: firmware (>=13.0), mobilesubstrate, com.bienvannhat.uyouimport
+Depends: firmware (>=13.0), mobilesubstrate, com.BIENVANNHAT.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
 Filename: ./debfiles/com.bienvannhat.uyou_3.0_iphoneos-arm.deb
-Size: 14728100
-MD5sum: 6c3766ecb069070368cb4f379aa2222e
-SHA1: 0a67853f594e55eb06a74e9579de59effa89bbf1
-SHA256: edc74521e2c912e10d96bee864dd02258944f8d50248d08a2463e70fb8484b2e
-SHA512: f5642b023b2f6b8d1394f40e8e7f0a26aa57568679ac62081215aba6d42a64df7a5613a09c6f105c55f38c7b903de6bcc182c7f3ccfece61a0dbc035e5527cfb
+Size: 14728118
+MD5sum: c0ff5e4233def4e2744c6315e54f713c
+SHA1: cd99a37673454a8fdc06f59cf65fb0f7ceae0db0
+SHA256: bd33ff12a54641b8aa4b8a71af0f06f77aa5dbb296ed21d820af3ccbb0b3b87e
+SHA512: e3a023e4c8b73131e7b1058284ee04f37e797a9eaad7517c5e06266c5c941d2220029e93f04775ed5c58e92d6b4514c52c40bedd8a3836b6c7a242e6ac848095
 Description: Tinh chỉnh tốt nhất cho ứng dụng YouTube
 Tag: purpose::extension, compatible_min::ios13
 Name: uYou VH
@@ -17593,17 +17593,17 @@ Maintainer: Repo BVN
 Installed-Size: 3280
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
 Filename: ./debfiles/org.mr.dleasy_2.13.5k_iphoneos-arm.deb
-Size: 1795930
-MD5sum: 2ecfce15841fb9ed167be6d05a856634
-SHA1: 3c44005cf0b9a131b6d4e71896a06213c41d285b
-SHA256: b0516fa69c74a5c5eba921d815f583401c7bd7e46fbd7dfdf5df1fe781f70114
-SHA512: efd10a6da0ae2fd824395749bc9621d68476cb520bc272a89b5dfb3ae181aa330c51042efb7d6141aaf6f26f464da29c6a069364d9fe13b09b1c869e08ac336f
+Size: 1795724
+MD5sum: 6e6b024a7730b585316e1564bc616dcb
+SHA1: 5c6fdda813e2d3aca27ffb735126036685a5d533
+SHA256: 0fee50b40b5a14759ee606f494834235336f54dcea0e78d016b5c880831fd485
+SHA512: b54e4a2b25664ed78c54aad1c2b008d139e0428a9ffc89189ff642e9dd3d7de073aeaf00186854d96eae730802293bc56aa5f7e6d65e061ec569fa9f1c7f3c95
 Description: Tải xuống/Chia sẻ hình ảnh và video từ các ứng dụng xã hội một cách dễ dàng!
-Name: DLEasy Crk
+Name: DLEasy CRK
 Author: AhmedBafkir <prooxy0@gmail.com>
 Depiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=1920&q=75
 
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
