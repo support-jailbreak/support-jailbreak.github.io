@@ -14548,6 +14548,25 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.velvet2-rootless
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debfiles/com.repobvn.velvet2-rootless_2.0.3_iphoneos-arm64.deb
+Size: 153936
+MD5sum: d8cce73d276422ff4ccabbab82e0fd00
+SHA1: ecc8e1ce51f0be08038cd945ea4678ecaf86a60d
+SHA256: db5221ad8ece09b7047d4c0e98e3fafd9de13491c9f052e513b708e5f26e04e0
+SHA512: 647a288651d2e9be1b342d26163a620162c2384bb3aa4ab79ad50400752f7a2c3b6ff18acd04c0926e512676db14f5349c7182204d99e9d52f1dbef7e0fda5da
+Description: Tuỳ chỉnh thông báo của bạn.Hỗ trợ iOS 15-16.3
+Name: Velvet 2 VH (Rootless)
+Author: NoisyFlake <support@noisyflake.com>
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.7.19-1
