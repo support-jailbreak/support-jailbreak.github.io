@@ -14418,6 +14418,24 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AutoFaceUnlock (Rootless)
 Author: Netskao
 
+Package: com.repobvn.cask3-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.repobvn.cask3-rootless_1.0.1_iphoneos-arm64.deb
+Size: 318788
+MD5sum: e05600c242f820fe56466b5d5b717f0f
+SHA1: 3c6ec0e23c544db459b54fb981c47c41ec02a549
+SHA256: 7b1c075ce8601849a1caa9fb99b3560c5eb5c67150b2d6d14e6f343b30e7242e
+SHA512: c62886d7bdd0ffab32204767025daa7e4c79dc18706853e1aa53a370c7e4189063eae1b05094493d5966331ffc6eae44ed9532a094706a4b3c68a9764c01d189
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Name: Cask3 VH (Rootless)
+Author: Ryan Nair
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.ccsim-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-9
