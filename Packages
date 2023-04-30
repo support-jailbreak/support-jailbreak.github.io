@@ -11607,13 +11607,13 @@ Conflicts: me.jjolano.shadow
 Replaces: me.jjolano.shadow
 Filename: ./debfiles/com.Supportjailbreak.shadowviethoa_2.0.23_iphoneos-arm.deb
 Size: 215832
-MD5sum: 90da6f0241a0f86bde02f80c54dd8331
-SHA1: fb21aca582bcfa3bb86b239486bfc3ecd09a1d5c
-SHA256: 35347ffc7c2aea32dc5b0617884d8f3171ac92da6d783bc42518d2c0caf52b8f
-SHA512: 4fb8f4a0958a825025cc0054b10d400aa9e994a1fd070ff849208eabd4c6b93389486d8f61c0d2787c6b1a6da943681efcfbaee0263962e7ff1b9069bb93f8c3
+MD5sum: ec003af62db1c1f1aca373e91fd36907
+SHA1: b3b055278e84f9c25bcf96ab0c88b4b847465a35
+SHA256: 5b1fce64cda4c63171b5b2bdd95a38012f995d93c03a9b3283af3071e9a70118
+SHA512: 7a161f6f18d2268b5be1bd985ae3316e829ed49a9036373e6ff1627265664e672631c840151629475c0763831154c0bdce3c611d140e5c0b6d9af5e259e193b1
 Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
 Name: Shadow VH (Legacy)
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: jjolano
 
 Package: com.ali7assan.hyperixa
