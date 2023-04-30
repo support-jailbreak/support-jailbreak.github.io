@@ -17662,6 +17662,25 @@ Depiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Dleasy/?p=info
 Icon: https://media.havoc.app/62040a16cc1cde4bfe9aba43?w=1920&q=75
 
+Package: org.mr.icleanerprorl
+Architecture: iphoneos-arm64
+Version: 7.10.1
+Section: Utilities
+Maintainer: Repo BVN
+Depends: firmware (>= 15.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debfiles/org.mr.icleanerprorl_7.10.deb
+Size: 1418198
+MD5sum: a49f8e5ab0cbc5ea37d7d6d0382208dc
+SHA1: c851c89b577295f9c069b322f5bf50e3be106160
+SHA256: 6fdb2b7b863eda85916c9d4f0caeaf456814f4b63290225ee98692e082979ee3
+SHA512: f4eec325636fc5970f1c73e09b447abd8000ce0ec214dfe716b1e533f97963f2fb0cfae50115d507f20d08c09fa26c79cc959c811699692e48b982b58ef0f5a3
+Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất hiện nay...
+Name: iCleaner Pro (Rootless)
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
 Version: 0.0.6
