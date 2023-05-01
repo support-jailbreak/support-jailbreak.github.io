@@ -10933,12 +10933,19 @@ Installed-Size: 3040
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debfiles/com.REPOBVN.crane-rootless_1.3.9_iphoneos-arm64.deb
-Size: 860402
-MD5sum: 1c5e7701a9fa649514fe27afe19e534e
-SHA1: 3ee58575a74a97e2e534fe78ac1d1e3e5e62fb08
-SHA256: 3faf66762869bb036be0c26718cd0e4e8ebeb74aab980435ab659befb38795cf
-SHA512: 900e5fe927562ba9de66637b99637796825ec9b6b68b00a03a1b6d4f480b1729bb70f2585cb87cbad593e1402cdeba10a6fc6a5fae62f72533bdacad8c2f79ed
-Description: Crane cho phép bạn tạo nhiều vùng chứa cho mỗi ứng dụng!
+Size: 860960
+MD5sum: 7dbb95f66da2cbaf1daea3e3a83dd698
+SHA1: a56da2fba0bb97fda75c9f1b38472c962aba6faa
+SHA256: c9047bc6abe9fc46bfe6ccabf963e35a3ba87bbc4032e77e638621149bd8b2db
+SHA512: 640752b0929e77985ca88ef686e4339875934e1a145919fc4395d9f74814d005bbd1442013441b519f2db5d388176aee9158d490cd508557606996321a568d60
+Description: * Tạo nhiều tài khoản cho các ứng dung của bạn! 
+ - Crane là một giải pháp quản lý vùng chứa cho phép bạn tạo nhiều vùng chứa cho mỗi ứng dụng. 
+  * Chuyển đổi tài khoản 
+ - Nhiều ứng dụng không hỗ trợ nhiều tài khoản. Crane cung cấp biện pháp khắc phục bằng cách thêm khả năng chuyển đổi giữa nhiều vùng chứa (các trường hợp của dữ liệu ứng dụng). Hầu hết, nếu không phải tất cả, các ứng dụng đều được hỗ trợ. Nếu bạn tình cờ tìm thấy một ứng dụng không hoạt động với Crane, vui lòng liên hệ. Crane Lite có thể được sử dụng để đảm bảo các ứng dụng của bạn được hỗ trợ trước khi mua phiên bản đầy đủ. 
+ * Dữ liệu của bạn được duy trì tại chỗ 
+ - Không giống như các tinh chỉnh và ứng dụng tương tự,Crane chuyển hướng dữ liệu được ứng dụng truy cập đến một đường dẫn khác. Không có dữ liệu nào được di chuyển khi chuyển đổi giữa các vùng chứa.
+ * Vùng chứa mặc định 
+ - Crane cho phép bạn đặt bất kỳ vùng chứa nào làm vùng chứa mặc định, sẽ được sử dụng khi thiết bị chưa được bẻ khoá
 Tag: Cydia
 Name: Crane (Rootless)
 Author: opa334
