@@ -12419,14 +12419,16 @@ Maintainer: Repo BVN
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debfiles/com.bvnrepo.amber-rootless_1.2.0_iphoneos-arm64.deb
-Size: 18124
-MD5sum: 66dc3502f5216623aad755ff6f9c1b64
-SHA1: 6479657d973acde1bf245914006edca8e956e1cf
-SHA256: b6950f2543570a485a4775be3068fd2e69e17003ceef1538181b3977f7c3d221
-SHA512: 8e6b79b2525fea04ff72c461d3a7246a18376c0375ecc153b19d704ff24a73be7a934cb169e80a505ffcdb209899428d9fd9c298334a7096a2048eadc90620f9
+Size: 18180
+MD5sum: 9ab234f9c475fffac1202f0d6db357dc
+SHA1: bef2197396ccad8b682b41de51e3b3ea327e83fe
+SHA256: 626084c41c96ebf11f222f6c10f292997b3b7a2af014bb96f1a09cb21a2dbf50
+SHA512: 1dcf1bea4650c3776ce021f91f53acc0d4ffc016bc3c27fbe2ff88d8d911a8ed9505e562ee1cc3e0d568a06185ee417c0666f25c153c3747140da14d6ec7d8fe
 Description: Công tắc chuyển đổi CC / Flipswitch để cho phép cài đặt đèn LED thành màu vàng ánh hoặc cả đèn LED màu trắng và màu vàng ánh
 Name: Amber (Rootless)
 Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/amber.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/amber.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bvnrepo.copylogrootless
