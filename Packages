@@ -10755,6 +10755,24 @@ Name: CallAssistBar VH
 Author: nqt1195
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BVNREPO.OnyxRootless
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BVNREPO.OnyxRootless_1.6_iphoneos-arm64.deb
+Size: 28045172
+MD5sum: c6f4769a7af3fb8a1971bc3de62bbb0d
+SHA1: a50d542c390b384149f237bfc0844075459a976d
+SHA256: 0dfdeb31af2e5043251588515818c54111f53474c7c05a4175ae9f6fd86cf05e
+SHA512: 3259f987b26e6539f81ac71a4dee1d67ca54e1d877c533beca78036c46fa7e8f3f3e162a9072a2411f8a1aa15e7184552d9e095fd3d7c9fa66ed120f7f0e89c4
+Description: Chủ để Onyx
+Name: Onyx (Rootless)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Onyx/?p=info
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.BVNsupport-ytbhd.ytuhd
 Architecture: iphoneos-arm
 Version: 0.0.3.6
