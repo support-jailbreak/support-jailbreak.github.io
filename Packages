@@ -14686,16 +14686,17 @@ Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | co
 Conflicts: com.spicat.youpip
 Replaces: com.spicat.youpip
 Filename: ./debfiles/com.repobvn.youpip_1.7.19-2_iphoneos-arm64.deb
-Size: 36004
-MD5sum: 72a11b2496c6ee0e5ee145c64c8faae6
-SHA1: 8838c0a9ffcab681273ff723e36fe4f326075dee
-SHA256: 3357a64354b398a7817f080c0f7fb282f2b99f09e603caa3eec51cb0484fa568
-SHA512: 69fa57d305b30ef2cff391ca9a7a507d2563997241bf4ef228ad5e405cabae53575a529e30ad9b6054f9a193e3f50e641a5ac21570de4fee6037c9b43c5de634
+Size: 36044
+MD5sum: b5bb7004d496077449f6a409c9151c7b
+SHA1: a5dfbb8526d6502cff2b5454eed9caec90833e63
+SHA256: 9a8cb1f4c3d25817f9c413663b0b81f4d0ba34643e5e9395dc99e96f808f3088
+SHA512: 112d14d9bd3a1e92d8e9624bced7019f8a63070b3789807c3255bb8bb38666d0f8937abf123e1d04bea492351c63b0cdde3ce496cd8f2bccc40b7795d7e990db
 Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
 Name: YouPiP (Rootless)
 Author: PoomSmart
 Depiction: https://support-jailbreak.github.io/depictions/youpip.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/youpip.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
