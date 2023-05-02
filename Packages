@@ -14399,6 +14399,25 @@ Name: LetMeBlock
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: PoomSmart
 
+Package: com.ps.ytabgoodies
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BVN REPO
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.youremembercaption, com.ps.ytnochecklocalnetwork, com.ps.ytsystemappearance, com.ps.youarethere
+Filename: ./debfiles/com.ps.ytabgoodies_1.0.4_iphoneos-arm64.deb
+Size: 3312
+MD5sum: bca831ea71cd7c7cba0f0ed1a97f69c1
+SHA1: 5be9ce9bd32daa8e4536ba55124692e2d12ef2e3
+SHA256: 4f66b8b32c971b152f900b6b90a33c5e04f0aa70a49133b61a80915a4d001c19
+SHA512: 3eb9acfabe9642657e0d0d611b7a9525618f09b0fda042ecaa96ca32d062c26d0ba1bd13f70ff4d8c8e93c2ce6b7cdff30d8e99972d1d401e67d00b6fe95ed96
+Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Name: YTABGoodies (Rootless)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reobvn.choicy
 Architecture: iphoneos-arm64
 Version: 1.4.7-3
