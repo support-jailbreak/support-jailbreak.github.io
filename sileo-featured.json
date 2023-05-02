@@ -1,0 +1,17 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "YouPiP",
+            "package": "com.repobvn.youpip",
+            "url": "https://support-jailbreak.github.io/features/youpip.png"
+        },
+        {
+            "title": "Amber",
+            "package": "com.bvnrepo.amber-rootless",
+            "url": "https://support-jailbreak.github.io/features/amber.png"
+        },
+        {
+          
