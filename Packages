@@ -14698,6 +14698,26 @@ Depiction: https://support-jailbreak.github.io/depictions/youpip.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/youpip.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debfiles/com.repobvn.ytx_1.2.4_iphoneos-arm64.deb
+Size: 4142
+MD5sum: 5e0561621f0014a35beeb0e1a3e93a6f
+SHA1: cb1c66ff30e1082a39014349cef47b2312a2c589
+SHA256: afffe53fb2f0cd91c10204b0ac0866940ec94856e50d8f1b83e44ecc1c15a551
+SHA512: 1eb92feb44b81e6c474216e76a8d2f5013c73eedf8b3fea7d07d1c918fbbca74f080b4283c59744c0889b38f4ae79928221c382130e81eeb389e352ae8922917
+Description: A lightweight YouTube improvement tweak.
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
 Version: 1.1
