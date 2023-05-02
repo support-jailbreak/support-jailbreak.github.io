@@ -14675,6 +14675,28 @@ Name: YouPiP (Roorless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.youpip
+Architecture: iphoneos-arm64
+Version: 1.7.19-2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 300
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./debfiles/com.repobvn.youpip_1.7.19-2_iphoneos-arm64.deb
+Size: 36004
+MD5sum: 72a11b2496c6ee0e5ee145c64c8faae6
+SHA1: 8838c0a9ffcab681273ff723e36fe4f326075dee
+SHA256: 3357a64354b398a7817f080c0f7fb282f2b99f09e603caa3eec51cb0484fa568
+SHA512: 69fa57d305b30ef2cff391ca9a7a507d2563997241bf4ef228ad5e405cabae53575a529e30ad9b6054f9a193e3f50e641a5ac21570de4fee6037c9b43c5de634
+Description: Tinh chỉnh cho phép bật tính năng hình trong trong hình (Picture In Picture) trong ứng dụng Youtube
+Name: YouPiP (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/youpip.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/youpip.json
+
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
 Version: 1.1
