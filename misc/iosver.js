@@ -1,5 +1,5 @@
-const VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
-const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
+const VERSION_CHECK_SUPPORTED = "Phiên bản iOS của bạn được hỗ trợ! &#x1f60a;";
+const VERSION_CHECK_UNCONFIRMED = "Phiên bản iOS của bạn không được hỗ trợ! %s &#x1f601;";
 
 (function (document) {
 	"use strict";
