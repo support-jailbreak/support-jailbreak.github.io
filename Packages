@@ -12072,6 +12072,27 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Tags: compatible_min::ios10.0
 
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 516
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
+Filename: ./debfiles/com.bienvannhat.settingsrevamp_2.0.6_iphoneos-arm.deb
+Size: 118986
+MD5sum: dc8aa38e170a7c6cba7888742340a46b
+SHA1: 3abe9e79338f38ec087ccdc608452a3906473d5f
+SHA256: 80bd7d3d64eb26e5068521c7bd275efc3432a00b4d9ea8887d0a9dc447699452
+SHA512: 0728171d147dc90afc4026dcf303a35612af6f6ec78fdc9f8e7e655e545d7c4b5b5b5ceec9bb55403e5ed63a60a053f45258bbfa467236b0cd31cdb9b0a00f32
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
@@ -14649,6 +14670,27 @@ SHA512: fe4d2ef6f635fb5124961ec89e46dedf6ad55e1c49e628a77195839f71f369d98a65481a
 Description: Làm cho ứng dụng Dịch của Apple hỗ trợ tất cả các ngôn ngữ cho đến nay. Ví dụ: cung cấp tất cả các ngôn ngữ của iOS 16 cho iOS 15. Nếu tinh chỉnh không hoạt động, hãy khởi động lại ứng dụng Dịch và đảm bảo bạn có kết nối Internet.
 Name: LatestTranslate (Rootless
 Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
+Filename: ./debfiles/com.repobvn.settingsrevamp_2.0.6_iphoneos-arm64.deb
+Size: 119246
+MD5sum: e724f85a27e809b8d677dfa869a8bf71
+SHA1: 348658cb436d9d81c6c24214684b5c7a37f2650d
+SHA256: db50c798695331fa796f505b35c64f35cd882b6a9162926fdbd6b0aacf075e10
+SHA512: 09a0e0c918a86f695c61a920018e854877c1a07104e529d8759dd36441a752d7bcb5a51a46e5fcc7972d8ed23946a1c6466c916ca2d3b06c25683971a61403c5
+Description: Tuỳ chỉnh cài đặt của bạn
+Name: SettingsRevamp VH (Rootless)
+Author: SOPPPRA
+Depiction: https://support-jailbreak.github.io/depictions/SettingsRevamp.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-rootless
