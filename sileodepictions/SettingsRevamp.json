@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Phân chia các mục trong Cài đặt của bạn. !\n\n### Tính năng chia\n\n* Mục Tinh chỉnh Sileo\n\n* Mục Ứng dụng App Store\n\n* Mục Ứng dụng hệ thống\n\n* Và 1 số tính năng khác\n\n\n",
+"markdown":"# Phân chia các mục trong Cài đặt của bạn. \n\n### Tweak này khá giống Tweak Shuffle nhưng nhiều tính năng hơn\n\n### Tính năng chia\n\n+ Mục Tinh chỉnh Sileo\n\n+ Mục Ứng dụng App Store\n\n+ Mục Ứng dụng hệ thống\n\n+ Và 1 số tính năng khác \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
