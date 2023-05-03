@@ -1,1 +1,97 @@
-{"minVersion": "0.4", "class": "DepictionTabView", "tabs": [{"class": "DepictionStackView", "tabname": "Details", "views": [{"class": "DepictionSubheaderView", "useMargins": true, "title": "Tương thích với iOS 11.0 +"}, {"class": "DepictionMarkdownView", "markdown": "<p>Chặn quảng cáo và phát lại nền cho ứng dụng YouTube trên iOS.</p>", "useSpacing": true, "useRawFormat": true}], "xPadding": 10}, {"class": "DepictionStackView", "tabname": "Nhật Ký thay đổi", "views": [{"class": "DepictionSubheaderView", "title": "Phiên bản 1.2.4"}, {"class": "DepictionMarkdownView", "markdown": "- Ẩn statement_banner.view (Quảng cáo YouTube Music Premium)"}]}], "tintColor": "red", "headerImage": "https://support-jailbreak.github.io/features/ytx.png"}
+{
+"minVersion":"0.4",
+"headerImage":"https://support-jailbreak.github.io/features/ytx.png"",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://support-jailbreak.github.io/infodeb/ytx/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Chặn quảng cáo,phát lại trên trên ứng dụng Youtube!\n\nHỗ trợ Youtube phiên bản mới nhất.\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Repo BVN"
+},
+{
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999?mibextid=LQQJ4d) -Liên hệ tôi qua Facebook\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"PoomSmart"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"2/5/2023"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"11.0 đến 16.4"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.2.5\n\nẨn quảng cáo statement_banner.eml"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2023 by BVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
