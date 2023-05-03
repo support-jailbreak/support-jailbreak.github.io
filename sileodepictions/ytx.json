@@ -1,6 +1,6 @@
 {
 "minVersion":"0.4",
-"headerImage":"https://support-jailbreak.github.io/features/ytx.png"",
+"headerImage":"https://support-jailbreak.github.io/features/ytx.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Chặn quảng cáo,phát lại trên trên ứng dụng Youtube!\n\nHỗ trợ Youtube phiên bản mới nhất.\n\n\n",
+"markdown":"# Chặn quảng cáo,phát lại nền trên ứng dụng Youtube!\n\nHoạt động trên Youtube phiên bản mới nhất.\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -27,10 +27,10 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Repo BVN"
+"title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999?mibextid=LQQJ4d) -Liên hệ tôi qua Facebook\n\n\n",
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -43,7 +43,7 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
+"title":"Tác giả",
 "text":"PoomSmart"
 },
 {
@@ -59,15 +59,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"11.0 đến 16.4"
+"text":"iOS 11.0 đến 16.4"
 },
 {
-"class":"DepictionSpacerView"
-},
-{
-
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN
+"text":"Copyright © 2023 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
