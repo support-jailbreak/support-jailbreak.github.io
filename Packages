@@ -14714,6 +14714,29 @@ Name: SnowBoard (Rootless)
 Author: Spark & Dennis D. Bednarz
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.0-Beta3
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 4244
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.repobvn.snowboard-rootless_1.6.0-Beta3_iphoneos-arm64.deb
+Size: 1842634
+MD5sum: 40af055b547622bba578129ce7d48592
+SHA1: 8839718f4271d6ffcade5c8d70c5b51aa1bb2811
+SHA256: d72646cec3c1e66968a3edd59e5218af48dd4bb6e349ef7d9265d8562e26f1aa
+SHA512: 0a6718bda64da93e1a7b69506e45912b71d6583c0696921676ef92a7303864009470b8b4f45ee67f8e3dc0fc931e19a02dcbd7e0f458d48e0b9350e6a7422b50
+Description: Snowboard theming engine
+Name: SnowBoard (Rootless)
+Author: Spark & Dennis D. Bednarz
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.uyou
 Architecture: iphoneos-arm64
 Version: 3.0
