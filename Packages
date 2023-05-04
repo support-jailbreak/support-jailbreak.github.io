@@ -14569,6 +14569,26 @@ Description: Chủ đề giống như 3D có thể tùy chỉnh cao.Yêu cầu c
 Name: Depths Theme (Rootless)
 Author: Polyphian
 
+Package: com.repobvn.LetMeKnow-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.repobvn.LetMeKnow-rootless_1.4.2_iphoneos-arm64.deb
+Size: 30618
+MD5sum: af2be82797476b9c8a0f9d9a9fcfb187
+SHA1: 0cc7f533ff6d0581442c3b98a87c8a0590824635
+SHA256: 61afdc9696b3ee25d7d69d2adba69be0945ab74520c1f03ce3540261250df75d
+SHA512: 89a2bb237fa3ad95c53a92dfd076f45237c0a3d8cff25d44272fb22a7eca18df96bc70c77d4e598ac5a11535d0cbe7ec10bb8943de61faa98ba5317012fa7610
+Description: Rung khi kết nối hoặc ngắt cuộc gọi.
+Name: LetMeKnow VH (Rootless)
+Author: P2KDev
+Depiction: https://support-jailbreak.github.io/depictions/LetMeKnow.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/LetMeKnow.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.autofaceunlock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-7
