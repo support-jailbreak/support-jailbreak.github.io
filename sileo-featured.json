@@ -14,10 +14,20 @@
             "url": "https://support-jailbreak.github.io/features/amber.png"
         },
         {
-                    "title": "Youtube X",
+            "title": "Youtube X",
             "package": "com.repobvn.ytx",
             "url": "https://support-jailbreak.github.io/features/ytx.png"
-         
+        },
+        {
+            "title": "Carbridge",
+            "package": "com.Repobvn.carbridge13-rootless",
+            "url": "https://support-jailbreak.github.io/features/CarBridge.png"
+         },
+         {
+            "title": "Dodo",
+            "package": "com.repobvn.dodo",
+            "url": "https://support-jailbreak.github.io/features/Dodo.png"
+
         }
     ]
 }
