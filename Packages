@@ -14830,6 +14830,26 @@ Depiction: https://support-jailbreak.github.io/depictions/SettingsRevamp.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.sixls
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2236
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.repobvn.sixls_1.1-1_iphoneos-arm64.deb
+Size: 1597032
+MD5sum: e9c0c0e31bb882651fb01ab91e62fd00
+SHA1: 41b22483a479d578051286b8f8223f084b90ada7
+SHA256: 7e62b1e8ba84e7690c81bc71c1ba5d9f04272e2880fda1bc25dea00796b75cb2
+SHA512: c67b3f639d7b6056f01884a8261462a62f7f34685e38925e3957de06119655708ffc4d06e133dc7a8cab41d47e47da075fe5f7a20cb9d79c03e04bd830925180
+Description: Màn hình khóa phong cách iOS 6!
+Name: Six (LS)VH (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/Six.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Six.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Skitty
+
 Package: com.repobvn.snowboard-rootless
 Architecture: iphoneos-arm64
 Version: 1.5.9-Beta3-rootless
