@@ -14605,6 +14605,26 @@ Description: Chủ đề giống như 3D có thể tùy chỉnh cao.Yêu cầu c
 Name: Depths Theme (Rootless)
 Author: Polyphian
 
+Package: com.repobvn.GoodWifi-rootless
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.repobvn.GoodWifi-rootless_0.1_iphoneos-arm64.deb
+Size: 65422
+MD5sum: 25b0f57f83704da1c548dd60adc2c73c
+SHA1: 23a821bb7865dabdda67bbac2193601ba1b92dcb
+SHA256: 9e9da9135b1abaa0828e6fb52f2486666963c605b5e492d62dbfae7707dd20bf
+SHA512: ee0768a3ffb8452c4e9a1b62ed35029b7abf6e7ecc93bb8175577a06b3db641864ab25f1e833eed20c275c34713c01f4720f42431703644ca8adf23bbca61f99
+Description: Hiển thị mật khảu Wifi đã kết nối
+Name: GoodWifi (Rootless)
+Author: Julioverne
+Depiction: https://support-jailbreak.github.io/depictions/GoodWifi.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/GoodWifi.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.LetMeKnow-rootless
 Architecture: iphoneos-arm64
 Version: 1.4.2
