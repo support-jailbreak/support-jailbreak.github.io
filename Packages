@@ -13700,6 +13700,24 @@ Description: Be the god of your games!
 Name: iGameGod
 Author: iGameGod
 
+Package: com.ginsu.gscore
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 0
+Depends: dev.theos.orion14, firmware (>= 14.0)
+Filename: ./debfiles/com.ginsu.gscore_1.0.1_iphoneos-arm64.deb
+Size: 868434
+MD5sum: 54a2e08f2079509af023c883d3ce8b97
+SHA1: 3a0737b464ffcbe8bc1cc936478247bcf11bc7f1
+SHA256: 0221cdd89637bb56a3ff990e255427d85edb1cd3ccb87e8ce4a9c448564ff3d7
+SHA512: a728fe09d9320708f92b020570b97d7d7154d454df482a46c94467ffe849bb7f61f1d02f80a3b33cf27266cccc826291c785a9a0004f7deeaa7038d25da9fbd9
+Description: Environment and communication between my tweaks
+Name: GSCore (Rootless)
+Author: Ginsu
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.ginsu.libgscommon
 Architecture: iphoneos-arm
 Version: 1.0.0-1
@@ -14660,6 +14678,26 @@ Description: Đối với Ae dùng Esim, Ae có thể nhanh chóng bật hoặc 
 Name: CCSIM (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
+
+Package: com.repobvn.dodo
+Architecture: iphoneos-arm64
+Version: 4.0.8.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 8488
+Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.comet, com.ginsu.gscore
+Filename: ./debfiles/com.repobvn.dodo_4.0.8.1_iphoneos-arm64.deb
+Size: 1819858
+MD5sum: 47fd07443f85fdf33dbb69068b156690
+SHA1: 1b8876e10a66ae0aa73c6402befb7a90ec66c8ea
+SHA256: a6e0d52a666e4e5f77a37bb0b867e2f6110728e6807d07d9f63165a8c18fbef9
+SHA512: 7fcd94166beedc536d2cea9a4c89f74d4b43558e7eb52cc84a70596ce67b6ebc56aa0003b2aa736942df380551e6ec2124285924f373ab12a97d7571dd73658f
+Description: Thiết kế lại Màn hình khóa hoàn hảo.
+Name: Dodo (Rootless)
+Author: Ginsu
+Depiction: https://support-jailbreak.github.io/depictions/Dodo.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dodo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.iapstorefugu-rootless
 Architecture: iphoneos-arm64
