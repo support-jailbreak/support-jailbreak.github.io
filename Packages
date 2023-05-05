@@ -14535,6 +14535,24 @@ Name: Choicy (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.8
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.reobvn.choicy_1.4.8_iphoneos-arm64.deb
+Size: 168806
+MD5sum: c2f41e3e2f9115802ec02949896d0e1c
+SHA1: bec215b17a8356190f7e7c129c28088dd9e7ebf7
+SHA256: bc09651845a2a567f33901e1c2d2eab9f74b1bae8817e697fba7943b9abb6476
+SHA512: 4b2b7415bd77805a7fcc3349e8aa6051e3bb63bffe9b3648077bbc10b42d8355dda39759f07a40f2edf559ac55d309aeae0fba57ea0f235899c8796c0f9b4fb7
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn.
+Name: Choicy (Rootless)
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
 Version: 1.4.0
