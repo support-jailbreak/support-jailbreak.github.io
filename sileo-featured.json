@@ -27,7 +27,11 @@
             "title": "Dodo",
             "package": "com.repobvn.dodo",
             "url": "https://support-jailbreak.github.io/features/Dodo.png"
-
+         },
+         {
+            "title": "Velvet 2",
+            "package": "com.repobvn.velvet2-rootless",
+            "url": "https://support-jailbreak.github.io/features/Velvet.png"
         }
     ]
 }

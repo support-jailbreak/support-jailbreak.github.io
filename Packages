@@ -14934,6 +14934,27 @@ Name: Velvet 2 VH (Rootless)
 Author: NoisyFlake <support@noisyflake.com>
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 
+Package: com.repobvn.velvet2-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debfiles/com.repobvn.velvet2-rootless_2.1.2_iphoneos-arm64.deb
+Size: 158312
+MD5sum: e201ca7b87d2fb39d3697ed1bd76097d
+SHA1: 67d4b5e805da22ebd5f690bd1716b3cc2799ed62
+SHA256: 7340d9e72ef8f15aa861da40a97c6266484bebc93cc18aa700005b4e5659386c
+SHA512: 3c2d09ceaec01de5a592eb31fe18229b7dd84eafa55ad9a158412800c95f17a7e6683abe13025c80d8c6390d86f0baf86d2f25535ab300b7aa5d690c360eacdb
+Description: Tuỳ chỉnh thông báo của bạn.Hỗ trợ iOS 15-16.3
+Name: Velvet 2 VH (Rootless)
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://support-jailbreak.github.io/depictions/Velvet.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.7.19-1
