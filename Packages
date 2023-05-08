@@ -13546,6 +13546,24 @@ Name: libCSPreferences
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64
+Version: 1.5.8
+Section: System
+Maintainer: Repo BVN
+Installed-Size: 596
+Pre-Depends: firmware (>=15.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debfiles/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64-2.deb
+Size: 333360
+MD5sum: 5689d12102e093d151ceba8f10717171
+SHA1: 5a198ce270ac0b7faa5c45069a97984a3c3f111a
+SHA256: b4a019cc5ea73621101df5c5010f47a004ee793280bd18fe00e2d2655a566330
+SHA512: e9059f0002e55ee7781d90ef7cd3caad30ca6480c5681f3d2492656fe53fe6e9529112c6e1c8775d5a3456e2d459685d9ccf5ff7b6bc00dc7d054027d76d23f9
+Description: A preferences library that doesn't suck
+Name: libCSPreferences
+Author: CreatureSurvive
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+
 Package: com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
 Version: 1.0.3
