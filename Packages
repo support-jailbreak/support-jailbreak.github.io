@@ -14651,6 +14651,26 @@ Depiction: https://support-jailbreak.github.io/depictions/Satella.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.reoobvn.shuffle-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.reoobvn.shuffle-rootless_1.6.2_iphoneos-arm64.deb
+Size: 348880
+MD5sum: 0bdf45c1734b29e3a3b1de918478f5b4
+SHA1: c124463687c9e90474b591ab767761a9478ab92e
+SHA256: f878384cc5934cc6011a7e0c35007c92d04a7dbac3b00d76bda33b39702dd819
+SHA512: c930461c5c947432838e966205b1f469e1939512fbaeb7dfd191b78b3bdcf0077e76fd5a673a4a0a227394ad0e110695aea908ffdba7e82bcbd6a92472ba4fdf
+Description: Shuffle
+Name: Shuffle VH (Rootless)
+Author: CreatureSurvive
+Depiction: https://support-jailbreak.github.io/depictions/Shuffle1.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Shuffle1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
 Version: 1.4.0
