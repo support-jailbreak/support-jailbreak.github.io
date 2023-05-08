@@ -14571,6 +14571,26 @@ Name: Choicy (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.reoobvn.pullover-rootless
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: firmware (>= 15), mobilesubstrate
+Filename: ./debfiles/com.reoobvn.pullover-rootless_2.1.2_iphoneos-arm64.deb
+Size: 1169830
+MD5sum: 3ddc287d7048f7bdf57dd682c2216693
+SHA1: 9bd48fc8f45a875c6721c408fb1ad60e2256b440
+SHA256: 9e44af1ab44a6588d36cefbad9e5c6e40cef139bf7b550a4e5ecbee8e419f628
+SHA512: fa3331550fc5c522e02305db19a8bb2fcd86f1be5c791fc7b66ee4e0ced38dc0f5847006f657f8ee68921816b9133a8bdbd14941132ba66dd0369ca2a4952d6a
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Chỉ hỗ trợ iOS 15-16.2.
+Name: PullOver Pro VH (Rootless)
+Author: c1d3r
+Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repo.appdata-rootless
 Architecture: iphoneos-arm64
 Version: 1.4.0
