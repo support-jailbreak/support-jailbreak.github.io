@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"#  PullOver là một tinh chỉnh bẻ khóa miễn phí mới cho phép bạn ghim một ứng dụng vào màn hình để dễ dàng truy cập từ mọi nơi trong iOS Với giao diện người dùng tối thiểu và hình ảnh động trông hấp dẫn và cấu hình linh hoạt để truy cập bất kỳ ứng dụng nào bạn cần \n\nCác tính năng: \n\nPullOver là một tinh chỉnh bẻ khóa miễn phí mới cho phép bạn ghim một ứng dụng vào màn hình để dễ dàng truy cập từ mọi nơi trong iOS Với giao diện người dùng tối thiểu và hình ảnh động trông hấp dẫn và cấu hình linh hoạt để truy cập bất kỳ ứng dụng nào bạn cần \n\n\n",
+"markdown":"#  PullOver là một tinh chỉnh bẻ khóa miễn phí mới cho phép bạn ghim một ứng dụng vào màn hình để dễ dàng truy cập từ mọi nơi trong iOS \n\nCác tính năng: \n\nVới giao diện người dùng tối thiểu và hình ảnh động trông hấp dẫn và cấu hình linh hoạt để truy cập bất kỳ ứng dụng nào bạn cần, PullOver là một phím tắt đa nhiệm mới thanh lịch mà bất kỳ jailbreak nào cũng có thể được hưởng lợi \n\nPullOver có thể được mở hoặc đóng bằng một hành động Activator đơn giản mà bạn có thể định cấu hình. Khi bạn gọi nó, bạn sẽ thấy một thanh trượt nhỏ ở cạnh màn hình của bạn; gọi hành động một lần nữa ẩn thanh trượt khỏi chế độ xem \n\nTrong khi thanh trượt ở trên màn hình của bạn, bạn có thể kéo vào nó để hiển thị giao diện cửa sổ của ứng dụng bạn đã chọn. Ở chế độ cửa sổ, bạn vẫn có thể tương tác với ứng dụng như bình thường, làm những việc như chạm vào nút và cuộn xung quanh \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.2\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 2.1.3\n\nHỗ trợ Rootless Jailbreakn\nSửa lỗi không hiển thị bàn phímn\nSửa lỗi chuyển đổi kích hoạt"
 },
 {
 "class":"DepictionLabelView",
