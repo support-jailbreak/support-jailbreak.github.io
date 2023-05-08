@@ -14571,6 +14571,26 @@ Name: Choicy (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.reoobvn.iconrotation-rootless
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debfiles/com.reoobvn.iconrotation-rootless_1.1_iphoneos-arm64.deb
+Size: 8942
+MD5sum: 7a1eb9673de6ae89ecb44ba3052fa792
+SHA1: 118ab50cec5a91cfe06cde1168037180c870f560
+SHA256: 8a8dfd02de3dd5d7a730c934822110ade79bb48c9e61e68d6079a5d392fe7c9a
+SHA512: 16c94e12b58dd0e26f1b4328ed89e5a681c57ab5ccc1c1a9e38376f90ea74bea6983a12801614c9fbdb0f28624cad92fc749f19cec17736622201243a9b95ded
+Description: Xoay ngang màn hình chính của bạn
+Name: IconRotation (Rootless)
+Author: Paisseon
+Depiction: https://support-jailbreak.github.io/depictions/IconRotation.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/IconRotation.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.reoobvn.pullover-rootless
 Architecture: iphoneos-arm64
 Version: 2.1.2
@@ -14609,6 +14629,26 @@ Name: PullOver Pro15 VH (Rootless)
 Author: c1d3r
 Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.satella-rootless
+Architecture: iphoneos-arm64
+Version: 1.8.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debfiles/com.reoobvn.satella-rootless_1.8.0_iphoneos-arm64.deb
+Size: 128016
+MD5sum: 73074eaeecfa3261a992bbe7a8412b47
+SHA1: 6c0e55e64a55a81c9d360cbfc47b22f18511201c
+SHA256: 16b9dcef73b09a2b3176794c8958ecde2b58ad354c9cb24e6fa46cac182e951d
+SHA512: 1ee6fa09161c9ea6a3b2e3d002695e5fb40ff0990ffd3209356ed13fb88f519d85e6c3267264144997ddd3471374f5016457b4e775b73a37ba7f5a2e4cac1076
+Description: Crack apps
+Name: Satella (Rootless)
+Author: Paisseon
+Depiction: https://support-jailbreak.github.io/depictions/Satella.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repo.appdata-rootless
