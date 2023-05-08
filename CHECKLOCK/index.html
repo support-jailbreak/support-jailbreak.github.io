@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Check Sim Lock Free</title>
+	<meta charset="utf-8">
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="bvn.png">
+<meta property="og:type" content="website">
+  <meta property="og:title" content="Check Sim Lock/Nhà Mạng">
+  <meta property="og:description" content="Trang web check sim lock và kiểm tra nhà mạng miễn phí không giới hạn">
+  <meta property="og:image" content="bvn.png">
+  <meta property="og:image:alt" content="bvn.net">
+	<style>
+		body {
+			background-color: #f2f2f2;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 0;
+		}
+		h1 {
+			text-align: center;
+		}
+		form {
+			margin: 0 auto;
+			max-width: 500px;
+		}
+		label {
+			display: block;
+			margin-bottom: 10px;
+			font-weight: bold;
+		}
+		input[type="text"] {
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			font-size: 16px;
+			width: 100%;
+			box-sizing: border-box;
+		}
+		input[type="submit"] {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+		pre {
+			margin: 20px;
+			padding: 20px;
+			background-color: #fff;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			white-space: pre-wrap;
+		}
+		.loading {
+			display: none;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			z-index: 9999;
+		}
+		.loader {
+			border: 16px solid #e7ff12;
+			border-top: 16px solid #4CAF50;
+			border-radius: 50%;
+			width: 120px;
+			height: 120px;
+			animation: spin 2s linear infinite;
+		}
+		@keyframes spin {
+			0% { transform: rotate(0deg); }
+			100% { transform: rotate(360deg); }
+		}
+		.result {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 20px auto;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	white-space: pre-wrap;
+	max-width: 80%;
+}
+.gradient-text {
+  background: linear-gradient(to right, #f00, #ff8c00, #ff0, #0f0, #00f, #4b0082, #8f00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-text {
+  background: linear-gradient(to right, #f00, #ff8c00, #ff0, #0f0, #00f, #4b0082, #8f00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.large-text {
+  font-size: 48px;
+}
+footer {
+  background-color: #00b3b3;
+  color: #fff;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.copy {
+  font-size: 18px;
+  margin: 0;
+}
+
+.copy::before,
+.copy::after {
+  content: "";
+  display: inline-block;
+  height: 1px;
+  width: 20%;
+  background-color: #fff;
+  margin: 0 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+ul li:last-child {
+  margin-right: 0;
+}
+.loading {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+    text-align: center; /* căn giữa */
+  font-weight: bold; /* in đậm */
+    color: red;
+}
+
+.loader {
+  border: 16px solid #e7ff12;
+  border-top: 16px solid #4CAF50;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+	</style>
+</head>
+<body>
+      <div style="background-color: #4CAF50; color: #fff; text-align: center; padding: 10px;">
+    <marquee behavior="scroll" direction="left">
+      BVN Mobile dịch vụ phần mềm Mobile | Hỗ trợ all Smartphone | Liên Hệ: 094.333.7789
+    </marquee>
+  </div>
+<h1 class="gradient-text large-text">Check Sim Lock/Nhà Mạng Free</h1>
+<center><h2>Check Phone có 1 IMEI</h2></center>
+<form method="post" action="">
+  <label for="imei">IMEI:</label>
+  <input type="text" name="imei" id="imei" required>
+  <br><br>
+  <label for="serial">Serial:</label>
+  <input type="text" name="serial" id="serial" required>
+  <br><br>
+  <input type="submit" value="Bắt đầu Check" onclick="showLoading()">
+</form>
+
+	<center><h2>Check Phone có 2 IMEI</h2></center>
+	<form method="post" action="">
+		<label for="imei1">IMEI 1:</label>
+		<input type="text" name="imei1" id="imei1" required>
+		<br><br>
+		<label for="imei2">IMEI 2:</label>
+		<input type="text" name="imei2" id="imei2" required>
+		<br><br>
+		<label for="serial2">Serial:</label>
+		<input type="text" name="serial2" id="serial2" required>
+		<br><br>
+		<input type="submit" value="Bắt đầu check" onclick="showLoading2()">
+	</form>
+
+<div class="loading">
+    <span>Vui lòng đợi...</span>
+    <div class="loader"></div>
+</div>
+
+	
+<script>
+  // Get the forms and loading element
+  var form1 = document.forms[0];
+  var form2 = document.forms[1];
+  var loading = document.getElementById("loading");
+
+  // Add event listeners to the forms
+  form1.addEventListener("submit", showLoading);
+  form2.addEventListener("submit", showLoading2);
+
+  // Function to show the loading element
+  function showLoading() {
+    loading.style.display = "block";
+  }
+
+  // Function to hide the loading element
+  function hideLoading() {
+    loading.style.display = "none";
+  }
+
+  // Function to show the loading element for form 2
+  function showLoading2() {
+    loading.style.display = "block";
+  }
+
+  // Function to hide the loading element for form 2
+  function hideLoading2() {
+    loading.style.display = "none";
+  }
+</script>
+	<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
+<script>
+    var form = document.querySelector('form');
+    var loading = document.querySelector('.loading');
+    var span = document.querySelector('.loading span');
+
+    form.addEventListener('submit', function() {
+        loading.style.display = 'block';
+        span.innerHTML = 'Vui lòng đợi...';
+    });
+</script>
+
+<script>
+  function checkText() {
+    var pageText = document.body.innerText;
+    if(pageText.includes("[*]")) {
+      clearInterval(intervalId);
+      window.scrollTo(0,document.body.scrollHeight);
+    }
+  }
+
+  var intervalId = setInterval(checkText, 1000);
+</script>
+</body>
+<br>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <p class="copy">&copy; 2023 BVN MOBILE</p>
+      </div>
+      <div class="col-md-6">
+        <ul class="footer-nav">
+          <li><a href="https://support-jailbreak.github.io/">Trang chủ</a></li>
+          <li><a href="#">Về chúng tôi</a></li>
+          <li><a href="#">Liên hệ</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+</html>
