@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.3\n\nHỗ trợ Rootless Jailbreak n\nSửa lỗi không hiển thị bàn phím n\nSửa lỗi chuyển đổi kích hoạt"
+"markdown":"#### Phiên bản 2.1.3\n\nĐã thêm hỗ trợ cho bản bẻ khóa Dopamine\n\nĐã thêm hỗ trợ cho Palera1n không root trên iOS15 & 16\n\nKhắc phục sự cố cho iOS15\n\nSửa lỗi bàn phím không hiển thị"
 },
 {
 "class":"DepictionLabelView",

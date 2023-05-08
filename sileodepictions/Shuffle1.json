@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"#  Phân chia các mục trong Cài đặt của bạn. \n\nTính năng chia: \n\nMục Tinh chỉnh  \n\Mục Ứng dụng App Store \n\nMục Ứng dụng hệ thống \n\n Sử dụng 3D Touch trong ứng dụng Cài đặt và hơn nữa. \n\n\n",
+"markdown":"# Phân chia các mục trong Cài đặt của bạn. \n\n### Shuffle Rootles Việt Hoá\n\n### Các tính chia:\n\n+ Mục Tinh chỉnh\n\n+ Mục Ứng dụng App Store\n\n+ Mục Ứng dụng hệ thống\n\n+ Sử dụng 3D Touch trong ứng dụng Cài đặt và hơn nữa.\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -30,7 +30,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -44,7 +44,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"CreatureSurvive"
+"text":"Creature "
 },
 {
 "class":"DepictionTableTextView",
@@ -59,7 +59,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4"
+"text":"iOS 15 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.6.2\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 1.6.2\n\nĐã thêm hỗ trợ cho bản bẻ khóa Dopamine\n\nĐã thêm hỗ trợ cho Palera1n không root trên iOS15 & 16"
 },
 {
 "class":"DepictionLabelView",
