@@ -5532,6 +5532,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Goji/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Goji/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.gravitation-rootless
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1264
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.gravitation-rootless_0.1.1_iphoneos-arm64.deb
+Size: 149692
+MD5sum: a983cae121e772d583af7d7fee173365
+SHA1: 070aaf3125b4869d66968e2d37ac717bcc7ae8bd
+SHA256: 78e043b42f5315cc6f622a804ff1ce998101619b812d03d25d89b6f47075a693
+SHA512: fcc5b4da94bdbce72b7375a3549fbaa82e6ab04d1846c6b1ab5af18852fb2a47c98dd01842eb1cf7ae98dc2693a1dad748c7de71297caa48ab1639bef4529f46
+Description: Lắc điện thoại của bạn để icon rơi lả tả rất hay
+Name: Gravitation VH(Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/Gravitation.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Gravitation.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Kritanta
+
 Package: com.BIENVANNHAT.gravitation
 Architecture: iphoneos-arm
 Version: 0.1.1
