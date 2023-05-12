@@ -14857,6 +14857,28 @@ Name: CCSIM (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Netskao
 
+Package: com.repobvn.centeredlabels-rootless
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: Repo BVN <bienvannhat97@gmail.com>
+Filename: ./debfiles/com.repobvn.centeredlabels-rootless_1.3_iphoneos-arm64.deb
+Size: 17098
+MD5sum: 316e8ef7d362fafe55651fdce0d60ffc
+SHA1: 6f7d15a8f75ee72f19615bc3b812684998a52edd
+SHA256: 787fdfbccd613796e4d340e84e410187c8ab08da8fe6d93b5999f27cb67d8b84
+SHA512: c61a97f1b5b7dc5000b8ae630e393fd0b5351928e24b68e89f8c6c3728173e24a7a703f6c3da1ca6c6de418c3c55c4afbcf91ea66366988f53ecdc2bf76a2a98
+Homepage: https://support-jailbreak.github.io
+Description: Căn giữa tất cả các mục trong trang Cài đặt của bạn.
+Tag: role::enduser
+Name: CenteredLabels (Rootless)
+Depiction: https://support-jailbreak.github.io/depictions/CenteredLabels.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CenteredLabels.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
 Package: com.repobvn.dodo
 Architecture: iphoneos-arm64
 Version: 4.0.8.1
