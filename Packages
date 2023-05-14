@@ -11640,17 +11640,17 @@ Installed-Size: 7344
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debfiles/com.Repobvn.carbridge13-rootless_2.0.12-2_iphoneos-arm64.deb
-Size: 1891486
-MD5sum: df2ee3ef4f9abb98cfdaf1f71d31062e
-SHA1: 3c58a01cd816057844917c9fa10157e20b174a05
-SHA256: 6855e88a511cb53c2d494a5cbd86a1a5bdbe61c03176f484edce821e055f553f
-SHA512: 57843b1e39dad4ac4781e7d3eea44c683cb6a5cf9d91dc873ff2a6249a347d7c72a268435f91ef39d032d9245ba0fb5bd756571fc6dc076b1d106bf707d7e36d
+Size: 1891500
+MD5sum: 00e61e7527f27497388bc85c039ddb5d
+SHA1: 20c9911c46117a595bb1c04a0f11f28b7449dd7d
+SHA256: b0ab73aef8ecdc8f980daa1654c2414a6ac81109114b036431c9043c0f623c77
+SHA512: d3ba27a2076a9e3888a864038a45e46c9ea4e9015062564c00f0476cba27985cf9bdd489402f85d72d5464d1adde2b15204bbb477ad87fca34e989bb9ed59b1d
 Description: Mở bất kỳ ứng dụng nào trong CarPlay!
 Name: CarBridge VH (Rootless)
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
-Icon: file:///var/jb/Library/IconRepo/
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.Repobvn.cconandoff
 Architecture: iphoneos-arm64
