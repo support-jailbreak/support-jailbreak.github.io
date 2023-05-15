@@ -11671,6 +11671,31 @@ Name: CC On & Of (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.Repobvn.powerselector11-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.9
+Section: Utilities
+Maintainer: Repo BVN
+Installed-Size: 2212
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debfiles/com.Repobvn.powerselector11-rootless_1.3.9_iphoneos-arm64.deb
+Size: 358736
+MD5sum: 591fd22c38cd19db6bbe5e9407a35e1e
+SHA1: 79d21807aa4f8ce873224d2b7fc3272b10f298e1
+SHA256: 8d448d86e3fc5c40ab805b50c87118d4d0e2f148d5ad10c701830930b1f5d889
+SHA512: 8cc71359a731b46df6fb36f7b84bcb022a7376d08fbe86b45193bb891e6780f670a9bc97e8d7cd49e2cd010bd034deeecc5d79437e535d97732a1d9232bf4869
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/PowerSelector1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PowerSelector1.json
+dev: ichitaso
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.Supportjailbreak.applibrarycontrollervietho
 Architecture: iphoneos-arm
 Version: 1.2
