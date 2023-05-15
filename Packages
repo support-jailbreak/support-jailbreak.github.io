@@ -12559,6 +12559,25 @@ Name: Little11 Việt Hoá
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnrepo.Starfall
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Filename: ./debfiles/com.bvnrepo.Starfall_0.1_iphoneos-arm64.deb
+Size: 26391926
+MD5sum: 1a6bc7d19f72becc01c21a1d69bea6ef
+SHA1: e0ffc02de53ed49b226d2a47d95950750350bd24
+SHA256: 1e124e3194a1fe64d37182ead8c3539f3f791a2914771aba719ea7677c3708a3
+SHA512: 9018fb0c2b898c5fa4670ed038e3ff73a97c91b2dcd8dab8eb79a719e45fc692a4285e1ec1dcd3ad82f3dca2dae09f2acead5ee432adbed7ad046de65ea21476
+Description: Chủ đề bàn phím cho Laetus
+Name: Starfall (Rootless)
+Author: Starfall
+Depiction: http://support-jailbreak.github.io/infodeb/Starfall/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Starfall.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvnrepo.amber-rootless
 Architecture: iphoneos-arm64
 Version: 1.2.0
