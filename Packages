@@ -8371,6 +8371,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/RocketInstagram/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/RocketInstagram/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.rootless-barmoji
+Architecture: iphoneos-arm64
+Version: 2023.3.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: ./debfiles/com.BIENVANNHAT.rootless-barmoji.deb
+Size: 45028
+MD5sum: 72994e2f4e4499cb5a3172dd1a46e5a5
+SHA1: 351c6678207ed02442e3e49cf0a39af3ed2b6857
+SHA256: 7a7537b9911dfc71c510af34813b59dcd8997ae46f8c8a20cbde127a8b1e144f
+SHA512: 34c41072d32e0b15896d89d150bca9e2fb4488d7dc7bb98944109035189a6c44589189db95c6a6b1dba9b335159fcd40e169d91ca914ef0c0715d56b46acff0a
+Description: Dựa trên Barmoji 82 phiên bản 20323.3, bản sửa lỗi Netskao hỗ trợ Fugu15.
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: Barmoji VH(Rootless)
+Author: CP Digital Darkroom
+Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Barmoji/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Barmoji.json
+
 Package: com.BIENVANNHAT.routeconfigurator
 Architecture: iphoneos-arm
 Version: 1.0.1-1
