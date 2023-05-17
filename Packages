@@ -14980,6 +14980,24 @@ Name: Cask3 VH (Rootless)
 Author: Ryan Nair
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.cask3-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, dev.theos.orion14
+Filename: ./debfiles/com.repobvn.cask3-rootless_1.0.2_iphoneos-arm64.deb
+Size: 373964
+MD5sum: e72c6b558c8719029d5ce1d7b7dc7995
+SHA1: efcb79a08420158cb0c7301c138df099270f9187
+SHA256: 0dc8bc4e791d6ba9e46c9b9786fdb0a9334aee89392bc1f84b0af2bdb17f4248
+SHA512: f4e8f7d5fc02091a0558a82a75cc6afa2f5e9b8af9f4869e0b3d26aa116e24457f805a4d7498222b5d548a1472dbba4c23e896dfa27ffe6d3b69de71704c1334
+Description: Cask 3 mang tính năng cuộn bảng động đến tất cả các bảng trong iOS 14 trở lên. Đối với  iOS thấp hơn, hãy thử Cask gốc của Ryan Petrich hoặc Cask 2.
+Name: Cask3 VH (Rootless)
+Author: Ryan Nair
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.ccsim-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-9
@@ -15153,29 +15171,6 @@ Author: Skitty
 
 Package: com.repobvn.snowboard-rootless
 Architecture: iphoneos-arm64
-Version: 1.5.16-Beta3-rootless
-Section: Tweaks
-Maintainer: Spark
-Installed-Size: 3188
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.repobvn.snowboard-rootless_1.5.16-Beta3-rootless_iphoneos-arm64.deb
-Size: 1411788
-MD5sum: 341c3ae2af8276ad0d091a9900bbeb3b
-SHA1: 6f3c7718d4bbd5cafe6022c65f460bf151912a5d
-SHA256: 8f5ac093ed60531d3ae09f29d3571e0b3ca159ef4dc2345b757a8eea1432d5cd
-SHA512: 034aaa70e700d177793788d9464885aa76ed21e30fea1ac5fda351b5f6f421e674f59f3d6fac771aa2c3aa4d597e8c4ff0aee43d06af90935541235d6d654652
-Description: Snowboard theming engine
-Name: SnowBoard VH(Rootless)
-Author: Spark & Dennis D. Bednarz
-Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
-
-Package: com.repobvn.snowboard-rootless
-Architecture: iphoneos-arm64
 Version: 1.5.9-Beta3-rootless
 Section: Tweaks
 Maintainer: Repo BVN
@@ -15240,6 +15235,29 @@ Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Spark & Dennis D. Bednarz
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.6.2-Beta3-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.repobvn.snowboard-rootless_1.6.2-Beta3-rootless_iphoneos-arm64.deb
+Size: 1411780
+MD5sum: 72fc0f65085459d16070b44b36f63ac5
+SHA1: 326a3225d41052bbf7b966436d8f7e16fbc38410
+SHA256: aead5da3acaed6da332c256050ecaca86a7d0177c4a03c49b92bd5ffb18d0f64
+SHA512: dc102c29a3b6900a7727a4ac8b840a02878aa58c181d7924f758bc0644f07af10a244318d18f65d139ecf43cebc5f2e3d035af0c8add3ac151a1c08c0ed804be
+Description: Snowboard theming engine
+Name: SnowBoard VH(Rootless)
+Author: Spark & Dennis D. Bednarz
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.uyou
 Architecture: iphoneos-arm64
@@ -15465,6 +15483,24 @@ Tag: role::developer
 Name: libAPToast
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.spark.libsparkapplist
+Architecture: iphoneos-arm64
+Version: 1.1.0~rootless
+Section: System
+Maintainer: Spark
+Installed-Size: 408
+Filename: ./debfiles/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
+Size: 44036
+MD5sum: 1df5c18d9d244045219334aa28eaeefe
+SHA1: f45114b241bd26218ce5aab789787f6a51335553
+SHA256: b1f2e6c8062b90e8415c5aca9398a066b82dad9c52d6cb38a4f890c6ff804676
+SHA512: 6baaea697e21a8ee0e9a9f9e065102b24b3b444a87f709cc7806977c56a8f6bdb5baa4de2d91e14ba80f23943108e0c9c8c4397260e614e44cd8fc3af6ca70fa
+Description: AppList alternative
+Tag: role::developer
+Name: libSparkAppList
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/hẹtongg1.png
 
 Package: com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm64
