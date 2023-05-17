@@ -14848,6 +14848,24 @@ Name: AppData (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repobvn.Bauhaus-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 992
+Filename: ./debfiles/com.repobvn.Bauhaus-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 20152712
+MD5sum: bef0402b543c74fe7344de8e3a72672a
+SHA1: 568a701d0a53c1804bd261ca31f3e14b7aad0fed
+SHA256: 8bc5557a201f044f187bcbce79968aabadb93a9981430978448437c5ef8066c7
+SHA512: 5a6f89134ae0423095fc50d4526316e301d2c24a9f27be3837f40d70903268d1d931d9c68b7e0146b53987eb2297399b4ed9d9e7432a63d1bcb801dbed4fc0da
+Description: Phông chữ sử dụng qua tiện ích Snowboard
+Name: Phông chữ Bauhaus(Rootless)
+Author: unknow
+Depiction: http://support-jailbreak.github.io/infodeb/Bauhaus/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Bauhaus.json
+
 Package: com.repobvn.DepthsL-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
