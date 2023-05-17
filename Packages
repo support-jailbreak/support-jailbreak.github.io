@@ -14848,6 +14848,27 @@ Name: AppData (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repobvn.DepthsL-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Depends: firmware (>=15.0)
+Filename: ./debfiles/com.repobvn.DepthsL-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 19558740
+MD5sum: a226f0f96e1ed8581a6ac725b18e7bdc
+SHA1: 3eda1d456eae79b2d2ce49f3af254101e60b1f02
+SHA256: e31203d2a14c9b8efd6468dedca9285c20cb0f0cb68313a0ccbae7aca4647654
+SHA512: 12062d6da31e8c2b884ee83cdfda1361c4006f2d77992a8f46397a77359da32d4ea6015fb24f8d0707d5e95d1b923146d9c4f4a02d5bcd4e691d2eba7132941f
+Description: Chủ đề bàn phím cho Laetus
+Name: DepthsL (Rootless)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/DepthsL/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DepthsL.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.repobvn.DepthsThemeRootless
 Architecture: iphoneos-arm64
 Version: 2.0
@@ -14863,6 +14884,27 @@ SHA512: ba81ce4d067434aa119aeea8d87cc51f6ad8d9bb09435a23b773a9f196c4b643b2f67aa1
 Description: Chủ đề giống như 3D có thể tùy chỉnh cao.Yêu cầu cài Snowboard hoặc Itheme để sử dụng,hỗ trợ Ios 15-16.4
 Name: Depths Theme (Rootless)
 Author: Polyphian
+
+Package: com.repobvn.DustryBlue-Rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Laetus Theme
+Maintainer: Repo BVN
+Installed-Size: 7344
+Depends: firmware (>=15.0)
+Filename: ./debfiles/com.repobvn.DustryBlue-Rootless_1.0.0_iphoneos-arm64.deb
+Size: 4918080
+MD5sum: beffdc518cdf0031c7209cf5c9774cf6
+SHA1: c236fb447eef6899c3cfcd64520da39ccc9d27de
+SHA256: c4668f3208efa811575947695e62cc8dd8d8c325a6372e024c675599d3242062
+SHA512: 708823ead81ecaf2d6df0135a18cc5c5fe4656f4f82227a099ed56fc808d5c2fbea9932a260eb31c8372efbb12dd4f6e823fa3f0bab10342f71b67382862298c
+Description: Chủ đề bàn phím cho Laetus
+Name: Dustry Blue (Rootless)
+Author: Polyphian
+Depiction: http://support-jailbreak.github.io/infodeb/Dustry/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Dustry.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Tags: compatible_min::ios15.0, compatible_max::ios16.4.1
 
 Package: com.repobvn.GoodWifi-rootless
 Architecture: iphoneos-arm64
