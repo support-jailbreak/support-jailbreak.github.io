@@ -15290,10 +15290,10 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: ./debfiles/com.repobvn.snowboard-rootless_1.6.2-Beta3-rootless_iphoneos-arm64.deb
 Size: 1411780
-MD5sum: 72fc0f65085459d16070b44b36f63ac5
-SHA1: 326a3225d41052bbf7b966436d8f7e16fbc38410
-SHA256: aead5da3acaed6da332c256050ecaca86a7d0177c4a03c49b92bd5ffb18d0f64
-SHA512: dc102c29a3b6900a7727a4ac8b840a02878aa58c181d7924f758bc0644f07af10a244318d18f65d139ecf43cebc5f2e3d035af0c8add3ac151a1c08c0ed804be
+MD5sum: 5338e042625e91ac648475173aac15ce
+SHA1: 4a2e8eda6a757f1e56a5d28656be8b32332fee8a
+SHA256: bfde3853b683c302977a7885176bc9d198589a8dcf7b3b1d253cba6f1e74e785
+SHA512: c985bdb5408d9d2655705ad238f26e2df1498298d48e0abd4f51fef24d0376340e74099cd93eff61c683d05e63caf851a74468f5f22ff42370e3168a9c41b13c
 Description: Snowboard theming engine
 Name: SnowBoard VH(Rootless)
 Author: Spark & Dennis D. Bednarz
@@ -15707,6 +15707,24 @@ SHA256: d557ba738c0b1f522b9f78650e395dedb89291d7add81f2ffad3434aa5d7f810
 SHA512: 935b4cefc482e65601ca15b3dcc15ae741e8854abca5c03a8f8bba02c9fcc58dae726c92430a8d9e3693d1c9f28d361e61efdcb48d2971b6fd92934156a66e09
 Description: UI Extension for SnowBoard
 Name: SnowBoard UI Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboardapplication
+Architecture: iphoneos-arm64
+Version: 1.1.0~Beta4-rootless
+Section: Utilities
+Maintainer: Spark
+Installed-Size: 992
+Depends: com.repobvn.snowboard-rootless
+Filename: ./debfiles/com.spark.snowboardapplication_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 694376
+MD5sum: 33072e89375221dce2cccd5e912536f8
+SHA1: 6e4e3853fd058d57830cb929f73bc69658bfa86f
+SHA256: d4d490bcc8ae86aaf99a40719a3d46a03cf00d2ea6f0ade43aa5bff599048073
+SHA512: b8a949a9edd8da5dfb1ea966ef62f5cac4eb011f2464f14fcbc56d6ac1a7d394ba549ee94ffcb7bf8420a69fe0ff6e6f6f003dfc857ec33ce679a86b4a6f0835
+Description: An awesome application!
+Name: SnowBoard Application
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
