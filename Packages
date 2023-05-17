@@ -1062,6 +1062,22 @@ Name: Springtomize 5 VH
 Author: sharedRoutine
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.Starfall
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Laetus Themes
+Maintainer: Repo BVN
+Filename: ./debfiles/com.BIENVANNHAT.Starfall_0.1_iphoneos-arm.deb
+Size: 26391506
+MD5sum: ee4908bf538d9e4317c497841fcb052b
+SHA1: 18ff1512502feb273199f42c2b0a1b4c16c585f6
+SHA256: cc3dd30e2f2c2edb0d24ae7749ad0172359b85aea028dd3f66fee862df3029fe
+SHA512: 0f8a1dde3d3ec19207d001bad25d8e3666e3d44aeb04b84d25f5f20d28b47ed055d1d9492e58b9dcb086c4539ddbff8dc71f7485cf7e4cef40847b9eb1f1baf3
+Description: Chủ đề bàn phím cho Tweak Laetus.
+Name: Starfall
+Author: Starfall
+Icon: file:///Applications/Cydia.app/Sections/chudee1.png
+
 Package: com.BIENVANNHAT.TRM
 Architecture: iphoneos-arm
 Version: 116
@@ -14926,6 +14942,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: AutoFaceUnlock (Rootless)
 Author: Netskao
 
+Package: com.repobvn.autounlockx
+Architecture: iphoneos-arm64
+Version: 1.1.0-rootless
+Section: Tweaks
+Maintainer: REPO BVN
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.repobvn.autounlockx_1.1.0-rootless_iphoneos-arm64.deb
+Size: 82280
+MD5sum: 779d7691df710517628876c4620a4b15
+SHA1: 97992597cfd62a6e3af59c532f9e57c5aad4ef75
+SHA256: ee7c6ea779e9d7dd1a599b1b52ace0fbdd0814c8774ae62f54f5377490521f68
+SHA512: 7c0390a827bb1f0cd0c9bd2b9dc8a14cddaaa4900232f7cc2effc25a092364d1a536092adaa790fe8f2f5a87ef46b6dab1c5609181a488b602ec8f4520d1cebb
+Description:  Thiết bị sẽ tự động mở khóa khi phát hiện Face ID hợp lệ
+Name: AutoUnlockX VH(Rootless)
+Author: Spark
+Depiction: http://support-jailbreak.github.io/infodeb/AutoUnlockX1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AutoUnlockX1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.cask3-rootless
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -15114,6 +15150,29 @@ Depiction: https://support-jailbreak.github.io/depictions/Six.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Six.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Skitty
+
+Package: com.repobvn.snowboard-rootless
+Architecture: iphoneos-arm64
+Version: 1.5.16-Beta3-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3188
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.repobvn.snowboard-rootless_1.5.16-Beta3-rootless_iphoneos-arm64.deb
+Size: 1411788
+MD5sum: 341c3ae2af8276ad0d091a9900bbeb3b
+SHA1: 6f3c7718d4bbd5cafe6022c65f460bf151912a5d
+SHA256: 8f5ac093ed60531d3ae09f29d3571e0b3ca159ef4dc2345b757a8eea1432d5cd
+SHA512: 034aaa70e700d177793788d9464885aa76ed21e30fea1ac5fda351b5f6f421e674f59f3d6fac771aa2c3aa4d597e8c4ff0aee43d06af90935541235d6d654652
+Description: Snowboard theming engine
+Name: SnowBoard VH(Rootless)
+Author: Spark & Dennis D. Bednarz
+Depiction: https://support-jailbreak.github.io/depictions/SnowBoard.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SnowBoard.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.repobvn.snowboard-rootless
 Architecture: iphoneos-arm64
@@ -15444,6 +15503,24 @@ Name: SnowBoard Dock Extension
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.spark.snowboard.dock
+Architecture: iphoneos-arm64
+Version: 1.1.3~Beta4-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 440
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
+Filename: ./debfiles/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64.deb
+Size: 57418
+MD5sum: 41bb3bd0b9c5133577ebd6569e0d81ef
+SHA1: 4397a13f04e709178ccf9a5829953b3e6888d61e
+SHA256: 47f255fe1ed95d01f745c3f146766923b776d81a6c3bd9b0185df82d2779bc79
+SHA512: de9f271cc1a65dedeb6553194d4bf6d7673ad4e75d242749f90089709debf59e1b52a25b2bed858a422647c9446e6995cefc86cda4dc02fb60a58379cd6bce8f
+Description: Dock for SnowBoard
+Name: SnowBoard Dock Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.spark.snowboard.effects
 Architecture: iphoneos-arm64
 Version: 1.2.2-Beta2-rootless
@@ -15459,6 +15536,27 @@ SHA256: a67b8421db79609aae711fcdc01c52640dcbbfb74f4479a78703099e5aff9061
 SHA512: 85dac69549f1a42560b3939bfb8639609b4d56e43902f1538260bf62e799f1c1bfa7ee5462dae2d4fa1971abd92e93109ea1146c96b9b4428e0970d03f94eeca
 Description: Icon Effects for SnowBoard
 Name: SnowBoard Icon Effects Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.spark.snowboard.fonts
+Architecture: iphoneos-arm64
+Version: 1.1.0~Beta4-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 392
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debfiles/com.spark.snowboard.fonts_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 35522
+MD5sum: 0084e91aa32b037e597ec58fef89c63e
+SHA1: de45d07e5227ec645cdcaf3d1a34794000fb3138
+SHA256: c0e20d6095301621a237878a26c5f8d69ff4b0ba2bd7246c76feaf88eb73ef4e
+SHA512: e559c4434983982a89c2acd7ccfc5d92794e50d4e7b00325515b09fdfca31821720fc5802552861c6f519f8225e48f6eb2f2ab5208e17663e314a527d073950d
+Description: Fonts for SnowBoard
+Name: SnowBoard Fonts Extension
 Author: Spark
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
@@ -15515,6 +15613,24 @@ Description: Settings Icons for SnowBoard
 Name: SnowBoard Settings Icons Extension
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 Author: Spark
+
+Package: com.spark.snowboard.ui
+Architecture: iphoneos-arm64
+Version: 1.3.0~Beta2-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 476
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>> 1.2.22)
+Filename: ./debfiles/com.spark.snowboard.ui_1.3.0~Beta2-rootless_iphoneos-arm64.deb
+Size: 110716
+MD5sum: d6683216ddbf5295db36a212c0646ee2
+SHA1: b7e88f297ed95cf4cb5d42292ae2e3f79825c23b
+SHA256: d557ba738c0b1f522b9f78650e395dedb89291d7add81f2ffad3434aa5d7f810
+SHA512: 935b4cefc482e65601ca15b3dcc15ae741e8854abca5c03a8f8bba02c9fcc58dae726c92430a8d9e3693d1c9f28d361e61efdcb48d2971b6fd92934156a66e09
+Description: UI Extension for SnowBoard
+Name: SnowBoard UI Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.support-jailbreak.libnebbs
 Architecture: iphoneos-arm
