@@ -18161,6 +18161,24 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Lunartimeplus/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: nqt1195
 
+Package: jp.akusio.milkyway4
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: @akusio_RR
+Installed-Size: 3480
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debfiles/jp.akusio.milkyway4_0.1.0_iphoneos-arm64.deb
+Size: 1709222
+MD5sum: cfe1e4153ca15f167241e392b0883413
+SHA1: 3763a5b2596ce21f3afa0e83bc5c02f09862c855
+SHA256: 7bb0b402a0fff3b72cb5c4a2b6e5e192ddb2aba667f1a79f583ad6958878ddb4
+SHA512: 1f2a846eb337e540994d16d712e2d1904ab9c497384b9f38347d3f08e9db6fc77bb00acc79bbfcd234705fc77877d94b2161dbd694638f3cfae932fed8f877b5
+Description: multitasking for iOS15 rootless.
+Name: MilkyWay4-rootless
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Author: @akusio_RR
+
 Package: jp.dcsyhi.zetsu
 Architecture: iphoneos-arm
 Version: 1.0
