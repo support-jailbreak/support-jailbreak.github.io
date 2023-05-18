@@ -11707,6 +11707,25 @@ Name: CC On & Of (Rootless)
 Author: PoomSmart
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.Repobvn.cracktool5
+Architecture: iphoneos-arm64
+Version: 5.0~beta0
+Section: Utilities
+Maintainer: Repo BVN
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debfiles/com.Repobvn.cracktool5_5.0~beta0_iphoneos-arm64.deb
+Size: 1287938
+MD5sum: fdf59289c929aa8db65fbb06dceb4aba
+SHA1: a32ad5826eeb15447a73892c4124770d09bf68ae
+SHA256: c817411f08186831e8a28c092b7acf3ec223f47f6205b09418e251c49b57484b
+SHA512: 415ca62ac0363174f75950d32e4247cc4cc668654caaa985fc59396f778a4b4a510bc27fa7d36a79805bfaa9aa54f52000f98fded0921287e6eae9100d7327e0
+Description: Crack Tweaks trên một cú nhấp chuột
+Name: CrackTool5 (iOS 15/16 Rootless)
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+Author: julioverne
+Depiction: http://support-jailbreak.github.io/infodeb/CrackTool5/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CrackTool5.json
+
 Package: com.Repobvn.powerselector11-rootless
 Architecture: iphoneos-arm64
 Version: 1.3.9
