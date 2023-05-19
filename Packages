@@ -11114,17 +11114,17 @@ Installed-Size: 1488
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
 Filename: ./debfiles/com.REPOCYDIABVN.PullOverPro15_15.17_iphoneos-arm.deb
-Size: 491496
-MD5sum: 498ba50ef511340fdc300a747d31c40d
-SHA1: 1b52539bfce09552677005407ebd6d4dc1b1ff68
-SHA256: 9498c9a84cea375d6e1692c7727beb06dda5aee6a52a45fb421509550074bea8
-SHA512: 1ba3d712fff422ef2c49251c3f99f4cbad131fff35a690aacd5357b446486aa3ca0186501ccf9c201828073006b57f1472872534ca3892b7a6a1dd25ba158266
-Description: A better way to multitask! Fix support for iOS14-iOS15
+Size: 491560
+MD5sum: 846487f08a7a5134a0d6c431abc19090
+SHA1: a4866f372828bdd673d07faafa51b8c8aaec2869
+SHA256: 0590ef3ad5900202a65731ef5475bf03a53c49155454e7e14924fcf0c7161dbb
+SHA512: 19adcdce2800ad443ed63c327a7d51b6174d5fc2292a71f00c3a56b00c71b165af0397fd9794c9d9df6ffcd514e3766ff9abaf2f7401b976b6c5b9a9e7dbf7be
+Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS15
 Name: PullOver Pro iOS15
 Author: c1d3r
-Depiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/PullOver/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/PullOver1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.a-bypass
 Architecture: iphoneos-arm
