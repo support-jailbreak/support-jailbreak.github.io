@@ -1,6 +1,6 @@
 {
 "minVersion":"0.4",
-"headerImage":"https://support-jailbreak.github.io/features/PullOver.png",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -54,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"8/5/2023"
+"text":"20/5/2023"
 },
 {
 "class":"DepictionTableTextView",
