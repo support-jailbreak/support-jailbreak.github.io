@@ -15525,6 +15525,26 @@ Depiction: https://support-jailbreak.github.io/depictions/ytx.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.zetsurootless15
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 2448
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader
+Filename: ./debfiles/com.repobvn.zetsurootless15_1.2_iphoneos-arm64.deb
+Size: 1916154
+MD5sum: 704d57227b9029a1d3d914983b5ba67b
+SHA1: e78c94f6aca0c3a7f22f27df475049a1fd0a5e14
+SHA256: 13cf13baea0a5b6d51f350335632d7db46b350e6f1a8b72f7ca31cf5db1312da
+SHA512: dee4dbd1fe0206a6ade8b80c7811501289959487634cf4119169213159813ffc1d3618332424ee3697e321e90f4dc6e437f21a62413f53ea6625416be2777b86
+Description: Đa nhiệm trên iOS15.
+Name: Zetsu VH(Rootless)
+Author: Dcsyhi
+Depiction: http://support-jailbreak.github.io/infodeb/Zetsu/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Zetsu.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repocydiabvn.aim
 Architecture: iphoneos-arm
 Version: 1.1
@@ -15753,6 +15773,24 @@ Name: SnowBoard Icon Masks Extension
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 Author: Spark
 
+Package: com.spark.snowboard.presetextension
+Architecture: iphoneos-arm64
+Version: 1.1.0~Beta4-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 488
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>> 1.2.22)
+Filename: ./debfiles/com.spark.snowboard.presetextension_1.1.0~Beta4-rootless_iphoneos-arm64.deb
+Size: 80610
+MD5sum: 8873dccbe36193b54c652c4f8718164e
+SHA1: c4f1dc78189f606716acd79a1f6ff093f340530e
+SHA256: 6cacc46eba01bf420e7c458f30bf31231dc14d2bdaa87195e0efa2d4841da673
+SHA512: 1f01599e57db56d8a6f3c645f161d0bcb7c81163cf931b54c55f55b425a934754161d5eedc9504e41ea753e817bf2a1cd9083b875937be20ea98729a2d8ba494
+Description: SnowBoard Presets Extension
+Name: SnowBoard Preset Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.spark.snowboard.settingsicons
 Architecture: iphoneos-arm64
 Version: 1.0.26~Beta3-rootless
@@ -15770,6 +15808,24 @@ Description: Settings Icons for SnowBoard
 Name: SnowBoard Settings Icons Extension
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 Author: Spark
+
+Package: com.spark.snowboard.statusbar
+Architecture: iphoneos-arm64
+Version: 1.1.0-Beta4-rootless
+Section: SnowBoard Extensions
+Maintainer: Spark
+Installed-Size: 364
+Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
+Filename: ./debfiles/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64.deb
+Size: 46902
+MD5sum: c0565c7557316f3939e2890b5bb9bd6d
+SHA1: 9fc3d1ee36efd2fff9828e4056717e2d1670da0f
+SHA256: e1e7e75d246ebd813b6bba103cc96479c3dcc94f55ba6780d9fc1c2663cd66f7
+SHA512: 14ea577fec8b19e9ef3322043347d7b58daffa243c0d409d2624fa2003626f9bf546ac9652c0e50ed66fb0a35cdba3204d2e07a75a1d6fedcc61544ed62983cf
+Description: StatusBar for SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.spark.snowboard.ui
 Architecture: iphoneos-arm64
