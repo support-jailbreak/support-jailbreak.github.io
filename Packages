@@ -15817,15 +15817,15 @@ Maintainer: Spark
 Installed-Size: 364
 Depends: mobilesubstrate, com.repobvn.snowboard-rootless (>= 1.2.100)
 Filename: ./debfiles/com.spark.snowboard.statusbar_1.1.0-Beta4-rootless_iphoneos-arm64.deb
-Size: 46902
-MD5sum: c0565c7557316f3939e2890b5bb9bd6d
-SHA1: 9fc3d1ee36efd2fff9828e4056717e2d1670da0f
-SHA256: e1e7e75d246ebd813b6bba103cc96479c3dcc94f55ba6780d9fc1c2663cd66f7
-SHA512: 14ea577fec8b19e9ef3322043347d7b58daffa243c0d409d2624fa2003626f9bf546ac9652c0e50ed66fb0a35cdba3204d2e07a75a1d6fedcc61544ed62983cf
+Size: 46906
+MD5sum: e52522ca4efb1621c8561938ab543e66
+SHA1: 716a2ed5326f1a77fbf149f96935aafaa78fc499
+SHA256: 7c658e02fcca37d89fcdbf59a261cb8f381e0d049ab6e5b383032da08f2874db
+SHA512: e984a9ee8191372dbf146ff1f3559744c093377f6c0a33fbf8add3054d31db0b76f990bf77836581ecd0223e003aac43f00520d1671e564b00dc221a284f69f3
 Description: StatusBar for SnowBoard
 Name: SnowBoard StatusBar Extension
 Author: Spark
-Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
 Package: com.spark.snowboard.ui
 Architecture: iphoneos-arm64
