@@ -10,7 +10,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/Shadow/Screenshots/1.mp4",
+"url":"https://support-jailbreak.github.io/infodeb/Shadow/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -18,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Zetsu VH(Rootless).\n\Mở nhiều cửa sổ ứng dụng trên iOS 13/14/15 Tinh chỉnh Zetsu miễn phí được tạo bởi @Csyhi có tính năng mở nhiều ứng dụng cùng một lúc trên iPhone và iPad\n\nĐể kích hoạt bất kỳ ứng dụng nào trong Màn hình chính,  bạn chỉ cần nhấn Giữ ứng dụng và chọn Zetsu để thu nhỏ nó thành của sổ\n\Xem HD video phía trên \n\n\n",
+"markdown":"# Zetsu VH(Rootless).\n\Mở nhiều cửa sổ ứng dụng trên iOS 13/14/15 Tinh chỉnh Zetsu miễn phí được tạo bởi @Csyhi có tính năng mở nhiều ứng dụng cùng một lúc trên iPhone và iPad\n\nĐể kích hoạt bất kỳ ứng dụng nào trong Màn hình chính,  bạn chỉ cần nhấn Giữ ứng dụng và chọn Zetsu để thu nhỏ nó thành của sổ\n\Các bạn có thể xem ảnh phía trên \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
