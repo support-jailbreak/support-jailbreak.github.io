@@ -10,7 +10,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/Shadow/Screenshots/1.png",
+"url":"https://support-jailbreak.github.io/infodeb/Zetsu/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -54,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"25/5/2023"
+"text":"23/5/2023"
 },
 {
 "class":"DepictionTableTextView",
