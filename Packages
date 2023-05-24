@@ -11045,6 +11045,27 @@ Name: Crane (Rootless)
 Author: opa334
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.REPOBVN.enekoalt
+Architecture: iphoneos-arm64
+Version: 1.2-rootless
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 464
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.5.3), preferenceloader, com.mrgcgamer.libgcuniversal (>= 1.6.3), com.bienvannhat.iconreporootless
+Conflicts: love.litten.eneko, dev.traurige.eneko, net.limneos.voicechangerx-rootless
+Filename: ./debfiles/com.REPOBVN.enekoalt_1.2-rootless_iphoneos-arm64.deb
+Size: 64016
+MD5sum: 4ea5c9d7d73969633fc9a43ea598b51a
+SHA1: 6902fd7da6e9a525253d7b58e19eb6323ecddd36
+SHA256: 64d540f9b3c1bd48c7f1e6dd8a3f7a44d452724bfd596b2fce1ea0a02f0d9efe
+SHA512: b5a9814c5beabcca129d9ce3d83af6cab3cfe2a3a80ab0f6cc12abc89e4196c6af4f327797a855065c46fce2903971499ebc8e806c33a9baabbcce1de3688cf2
+Description: Hình nền video cho iOS. Tinh chỉnh ban đầu đã được sửa đổi để hỗ trợ rootless.
+Name: Eneko VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/Eneko/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Eneko.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+Author: Traurige <hello@traurige.dev>
+
 Package: com.REPOBVN.killapps
 Architecture: iphoneos-arm
 Version: 1.7.2
