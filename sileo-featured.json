@@ -4,7 +4,12 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "title": "YouPiP",
+            "title": "REPO BVN",
+            "package": "com.repobvn.youpip",
+            "url": "https://support-jailbreak.github.io/features/sileo.png"
+         },
+        {
+           "title": "YouPiP",
             "package": "com.repobvn.youpip",
             "url": "https://support-jailbreak.github.io/features/youpip.png"
         },

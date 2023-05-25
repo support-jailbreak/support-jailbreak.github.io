@@ -12297,6 +12297,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debfiles/com.bienvannhat.settingsrevamp_2.0.7_iphoneos-arm.deb
+Size: 121042
+MD5sum: c8fccfdb38b4be807b9eef379231777d
+SHA1: b4518bea29395bc2d33a69107f8afee0bb024918
+SHA256: 28f48fb9780cc55768bc1b4640ac49307ee916a300e9869ef8d2e305271f3088
+SHA512: c2e98117a576bdfaf7d645464bc65df127ff4b583d05d87a8c4a3b5e196c3f4a2d9e58559662bbe5e27b40cadb593a16e7f101644fbc58df6213619d09f0c114
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
@@ -15309,6 +15330,27 @@ Description: Tuỳ chỉnh cài đặt của bạn
 Name: SettingsRevamp VH (Rootless)
 Author: SOPPPRA
 Depiction: https://support-jailbreak.github.io/depictions/SettingsRevamp.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debfiles/com.repobvn.settingsrevamp_2.0.7_iphoneos-arm64.deb
+Size: 121230
+MD5sum: d63155eb71117607e14832459a5379ee
+SHA1: 6dcce741cd24b20f6428e4c64bfb81c54d6a52e2
+SHA256: 9fc89fd0fc0a6ec102ed684bcd6e5f9358a68e20ea6421ffe6e0dad0d9dd4f60
+SHA512: 2313a662ea5873a3d776af17ad4766a6da356d7258417daccf131cb1b8295af2a1b691883289b41f4c8e020c3e9abee9f1f0db5e2b01299f8ab04c9a34ce60e0
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH (Rootless)
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
