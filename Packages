@@ -5177,6 +5177,23 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Fakeios/?p=info
 
 Package: com.BIENVANNHAT.fakeios14
 Architecture: iphoneos-arm
+Version: 16.4.1
+Section: System
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, firmware (>=17.0)
+Filename: ./debfiles/com.BIENVANNHAT.fakeios14_16.4.1_iphoneos-arm.deb
+Size: 1772
+MD5sum: 3e28849c64e3e3168c788b38a0a2ac05
+SHA1: e1ea1c38c19e3c4a17b8e136bcdde357f5c46019
+SHA256: 597f6a99e9882f2ebfbed5f4658aca55c7c5ead2db9629bc1aa695b09ea629a8
+SHA512: 303ee5f736b80576889e6bb3c13efcd793e33e9b6e7e1d75c72363d2552d3394ba64434b64eea41a3461955229626b92268123b1ffe9143e479eb643f73c73e3
+Description: Tweak Fake iOS để kích hoạt iCCID cho máy Lock.Không nên sử dụng khi chưa tìm hiểu kỹ.Tôi không chịu trách nhiệm nếu bạn sử dụng nó với mục đích khác
+Name: Fake Ios 16.4
+Author: Biện Văn Nhật
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.fakeios14
+Architecture: iphoneos-arm
 Version: 16.4
 Section: System
 Maintainer: Biện Văn Nhật
