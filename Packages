@@ -15108,6 +15108,28 @@ Depiction: https://support-jailbreak.github.io/depictions/A-Font.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/A-Font.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.atriarootless
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 733
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debfiles/com.repobvn.atriarootless.deb
+Size: 270038
+MD5sum: 5529e4c3a1716f9b66961affc0a627bc
+SHA1: 44e89a2578a7b4624f7ec2667284abd5b1d97679
+SHA256: 6934688296968cde5129ea8454c3389d4e087b66f8a27d910a675c3cba40e1f4
+SHA512: 219539747edb0b2480aa937cb6c04f55529a59ae0f5e94fc3f06bd38cf1bd71ac767e87c658ec2a0330f2e9637d26eaffd00436530d096aee4d1510530ff6ad2
+Description: Trình chỉnh sửa bố cục màn hình chính phù hợp cho iOS 15.0-16.4.1
+Tag: compatible_min::ios15.0
+Author: ren7995 <lau7995ren@gmail.com>
+Name: Atria VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/atria2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/atria.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.autofaceunlock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-7
