@@ -14446,6 +14446,49 @@ Name: NiceBarX(iOS11-12 Free)
 Author: niceios
 Sponsor: niceios
 
+Package: com.opa334.altlist
+Architecture: iphoneos-arm
+Version: 1.0.10
+Section: Development
+Maintainer: BVN Repo
+Installed-Size: 306
+Depends: firmware (>= 7.0)
+Filename: ./debfiles/com.opa334.altlist_1.0.10_iphoneos-arm.deb
+Size: 73856
+MD5sum: 0a0fef2f5395dd3e34f2012d9298d230
+SHA1: 1c3e2756f694c683a364bc5dcbede14246068ce8
+SHA256: 89675fc63f2067133ae5a807738d27e78c16e592407d11bb0c99a64fe724ce5b
+SHA512: 2c6599ce6a49fc2f459bed88693648af3655da5978cd9250628fa0a2d321a86a335897a5f8b1f008de2c30e0e4da7b7ad395abb3342a86386fce6aa501462475
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Description: A modern AppList alternative
+Tag: purpose::library
+Author: opa334 <opa334@protonmail.com>
+Name: AltList
+Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0.10
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debfiles/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 45746
+MD5sum: cff10694700944d73d819e5f0a3695d9
+SHA1: 4181fc93eb0df52b3b0c4c41a1e557aa0bbf241b
+SHA256: 29c1a86a80a3c618f088f6eb554ce99a7af72530d78b5183b7496051a5e58760
+SHA512: e1aadf4fc5a255896a295688b3a8fe73d8ab1cf9a935dc40985618b7929db74d7a5125a97f09d33871fcbf85267ee901f3b3d2d12457dc7dbbe837f0c2f39f12
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: opa334
+
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
 Version: 1.3R
