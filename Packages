@@ -15419,6 +15419,29 @@ Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.simplus.rootless
+Architecture: iphoneos-arm64
+Version: 1.15-CRK
+Section: Utilities
+Maintainer: IArrays <support@iarrays.com>
+Installed-Size: 678
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, org.mr.libiarrays-rootless (>= 1.0.16), com.opa334.ccsupport
+Filename: ./debfiles/com.repobvn.simplus.rootless_1.15-CRK_iphoneos-arm64.deb
+Size: 882624
+MD5sum: 276163df63edf2b072942f0f3abc0315
+SHA1: 734ab1d3508362bf88ed8cf1d0562b8bf0d69493
+SHA256: 0fe23a2d085b1a8c8ca26e077d8c6156141ec48dda8e02fda8cf81bec5dda6f8
+SHA512: 98c174ecf30cba78a78ac18ff267a76f9b619fe2939af0848c5d70785557ccdc600de8e10d5ce4cfe89fce0a9e040ef8a37e826c8378b493e8e8d56318cf3593
+Homepage: http://support-jailbreak.github.io/
+Description: Cách mà Apple nên làm, nhưng đừng lo lắng. Chúng tôi đã làm điều đó cho bạn. Chọn cách gọi hoặc nhắn tin khi sử dụng eSim/iPhone hai sim.
+Name: eSim+ VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/eSim+/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/eSim+.json
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.sixls
 Architecture: iphoneos-arm64
 Version: 1.1-1
@@ -19422,6 +19445,26 @@ Description: Trình dọn dẹp và tối ưu hóa hệ thống iOS tốt nhất
 Name: iCleaner Pro (Rootless)
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: org.mr.libiarrays-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.16-beta-2k
+Section: Development
+Maintainer: MainRepo
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
+Filename: ./debfiles/org.mr.libiarrays-rootless_1.0.deb
+Size: 548404
+MD5sum: f180636c485bc366b15c87fd2c3e0d63
+SHA1: dcaad3a3f5adbf83833c149b6a68e2b65aaeb742
+SHA256: 377adf289604e8be42fe7aaccc31a2c8cf28e1e55ae14084479402b988fe4812
+SHA512: 172846486aa031514af4eaa3bbe503f439b9d0193d50100db7139bbe4593f28d734adcb0b2204af6373123fddbb4b5d04ee05d98479d6e09b8827d8c139e2c43
+Description: Chỉ nên được sử dụng bởi các sản phẩm IArrays. Đây là thư viện đã đóng và không có hỗ trợ nào được cung cấp cho gói này.
+Name: libiarrays (Rootless)
+Author: IArrays <support@iarrays.com>
+Depiction: https://mrepo.org/depiction/5461
+SileoDepiction: https://mrepo.org/sileo/5461
+Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
