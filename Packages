@@ -19470,18 +19470,18 @@ Section: Development
 Maintainer: MainRepo
 Pre-Depends: firmware (>=9.0)
 Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
-Filename: ./debfiles/org.mr.libiarrays-rootless_1.0.deb
-Size: 548404
-MD5sum: f180636c485bc366b15c87fd2c3e0d63
-SHA1: dcaad3a3f5adbf83833c149b6a68e2b65aaeb742
-SHA256: 377adf289604e8be42fe7aaccc31a2c8cf28e1e55ae14084479402b988fe4812
-SHA512: 172846486aa031514af4eaa3bbe503f439b9d0193d50100db7139bbe4593f28d734adcb0b2204af6373123fddbb4b5d04ee05d98479d6e09b8827d8c139e2c43
-Description: Chỉ nên được sử dụng bởi các sản phẩm IArrays. Đây là thư viện đã đóng và không có hỗ trợ nào được cung cấp cho gói này.
-Name: libiarrays (Rootless)
+Filename: ./debfiles/org.mr.libiarrays-rootless_1.0.16-beta-2k_iphoneos-arm.deb
+Size: 548282
+MD5sum: 8d715dadae71be47e2b089ef432773e9
+SHA1: 82cc15c9368bc73289e9a5fd7e66ee2faea00090
+SHA256: a39b3acd3614833c12d9b4805ee33a443ef7e67f3dba9afa350c17ef3b20e90e
+SHA512: fc35e62036e2b7377f4e9d0757d1d3f5c4964aa10861d2d32d9d7ff8ad54bb603797a48ea4e547a77f84249110f1f72a68414117e8655117db4c142aa87a1357
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays (rootless)
 Author: IArrays <support@iarrays.com>
 Depiction: https://mrepo.org/depiction/5461
 SileoDepiction: https://mrepo.org/sileo/5461
-Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
+Icon: https://mrepo.org/CydiaIcon.png
 
 Package: org.mr.unsubs
 Architecture: iphoneos-arm
