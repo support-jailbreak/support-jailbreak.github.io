@@ -861,6 +861,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Name: Auto Play Together XSM
 Author: Gr TTJB
 
+Package: com.BIENVANNHAT.SearchDots
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.SearchDots_1.0.0_iphoneos-arm64.deb
+Size: 120006
+MD5sum: 27239b54f361f677eddad7926ee14bda
+SHA1: 6b4117edf21f3c74eda8ef3bdcbc14545c60a7ee
+SHA256: 3b83e10cd003404da3f2ebe28a957fa6f2c7280f25118743f83e41597e2d8625
+SHA512: f41d9ddca9ac95d1c80f68c6bd6255d366ea4f4c267cbae4b09e9d6e3a809fd3d3f046dff5dc00785a84766d2e1d0809ac8b128b249526e9c9b73cd80d9dc04e
+Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
+Name: SearchDots VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: NightwinDev
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3
