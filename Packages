@@ -869,11 +869,11 @@ Maintainer: Repo Cydia BVN
 Installed-Size: 488
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.BIENVANNHAT.SearchDots_1.0.0_iphoneos-arm64.deb
-Size: 120006
-MD5sum: 27239b54f361f677eddad7926ee14bda
-SHA1: 6b4117edf21f3c74eda8ef3bdcbc14545c60a7ee
-SHA256: 3b83e10cd003404da3f2ebe28a957fa6f2c7280f25118743f83e41597e2d8625
-SHA512: f41d9ddca9ac95d1c80f68c6bd6255d366ea4f4c267cbae4b09e9d6e3a809fd3d3f046dff5dc00785a84766d2e1d0809ac8b128b249526e9c9b73cd80d9dc04e
+Size: 120000
+MD5sum: 3689fe656cda9fc90a0b9e1719187364
+SHA1: f3d7bb439ab30c5f0576b14ee0cc51487f56e029
+SHA256: 483701a13fb5f4146f9507d56ce601c362c4c9f84e1d7947059def32e832cf70
+SHA512: 7d4989647a4f1491b268ad2f8a0ac91992bf96efc1135767ce8cad0ebecfb73c57ad879f23aed24c75ee2e2d5f8d73fb1ea44dad32ae754de898fa0cff6de0fb
 Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
 Name: SearchDots VH(Rootless)
 Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
