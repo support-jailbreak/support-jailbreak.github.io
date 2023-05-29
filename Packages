@@ -13978,6 +13978,24 @@ Description: Be the god of your games!
 Name: iGameGod
 Author: iGameGod
 
+Package: com.gamegod.igg
+Architecture: iphoneos-arm64
+Version: 0.4.0
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 195200
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debfiles/com.gamegod.igg_0.4.0_iphoneos-arm64.deb
+Size: 77942770
+MD5sum: 6a914e9cbd6c4be264662e7d4494b5e4
+SHA1: 88563143e6a3f70646d77480591a18cd815a4a3c
+SHA256: bb1d062886429d2b94beec0c43abd1960f9c52d67c9a27c56bb76f9966ebf33a
+SHA512: 6f3c281e98dc899608c55ad164a452b23ace421d4570d5a5420797bfbbc40f1a6cf41e089a8664b76089b6e5687c44b8864af2ec2709c33bdf59c465988baef1
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod (Rootless)
+Author: iGameGod
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64
 Version: 1.0.1
