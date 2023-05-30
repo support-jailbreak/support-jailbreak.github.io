@@ -10868,6 +10868,24 @@ Name: CallAssistBar VH
 Author: nqt1195
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BVNREPO.AEFloatingrootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme Rootless
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BVNREPO.AEFloatingrootless_1.0_iphoneos-arm64.deb
+Size: 372202
+MD5sum: a6507e5e171bc9c442663bc5052054af
+SHA1: 1a36bc30e84227969ea39914bc650acf283b5514
+SHA256: 82f3c6f9a992149d5e1f456195ca7653b4d61ece66e8875ecec6e858e89a4e8b
+SHA512: 3422d835c005ced3e61be71147e6876c013a733aeda766300377db86f2be1f801a2913c4a9382f845549007ee216455754bf60101f019e3c56a09e1a7ea85027
+Description: Gói AE nổi cho Theme
+Name: AE Floating(Rootless)
+Author: theprestigext
+Depiction: http://support-jailbreak.github.io/infodeb/AEFloating/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AEFloating.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.BVNREPO.OnyxRootless
 Architecture: iphoneos-arm64
 Version: 1.6
@@ -13927,6 +13945,24 @@ Name: libfoxfortutils
 Author: FoxfortMobile
 Icon: file:///Applications/Cydia.app/Sections/phattrienn1.png
 
+Package: com.gamegod.igg.rootless
+Architecture: iphoneos-arm64
+Version: 0.4.0.1
+Section: Utilities
+Maintainer: Repo BVN
+Installed-Size: 195200
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debfiles/com.gamegod.igg.rootless_0.4.0.1_iphoneos-arm64.deb
+Size: 77944584
+MD5sum: 9475bd974168ed921928b8784a0565bb
+SHA1: 50173253cb4c78b8f8d56c138ba6d8ea0dc490e3
+SHA256: e0f30780bbec739ae3b3e983b39e87cfc736360443317109a66c62fbaf363a20
+SHA512: 3e1c34f6b6ff1d404ad9e5ef8a766986e1950242c4cf0901b520427d8e148af6c04a0d8e3a59027178bf78cf23237ef5fc3c348e859c2b791af219e31e21a3b3
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod (Rootless)
+Author: iGameGod
+Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
 Version: 0.2.5
@@ -13977,6 +14013,24 @@ SHA512: 07750753be8e87879a75ab6b1de4ec65d523ebf9cba3a228b6115db592d6de07aad91113
 Description: Be the god of your games!
 Name: iGameGod
 Author: iGameGod
+
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.4.0.1
+Section: Utilities
+Maintainer: Repo BvN
+Installed-Size: 195200
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debfiles/com.gamegod.igg_0.4.0.1_iphoneos-arm.deb
+Size: 77942314
+MD5sum: 3a169c55442758564289f22be788864b
+SHA1: 9911295e387e218e16f53e339b5638780a7bd8cf
+SHA256: 67b8e5c2d723cb6e2d45a4bf58dc1ca536f5afb2570e6f0982f9fc31655d9eb9
+SHA512: 5acea62a393ffd410e61301fc97a60de0740294c770f801b6c5712e8cbd2c16c9fed9c11b1de6885a318fc1d6a7310a1c435626b85e918329dbc51b3e28c9618
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod VH
+Author: iGameGod
+Icon: file:///Applications/Cydia.app/Sections/tienichh1.png
 
 Package: com.gamegod.igg
 Architecture: iphoneos-arm64
