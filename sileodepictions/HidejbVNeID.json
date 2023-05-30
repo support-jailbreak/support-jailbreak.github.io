@@ -80,7 +80,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.7.0\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 2.0.7\n\nHỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
