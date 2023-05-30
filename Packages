@@ -15571,6 +15571,27 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Six.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Skitty
 
+Package: com.repobvn.snapper2-rootless
+Architecture: iphoneos-arm64
+Version: 2.6.1
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debfiles/com.repobvn.snapper2-rootless_2.6.1_iphoneos-arm64.deb
+Size: 521888
+MD5sum: 387995f2a9eb11174891fc8cee20d96c
+SHA1: cf4ea8e9eeb284c1ee2bede3cc776f1b685022d2
+SHA256: 222eb8c2d9224b1e87ae5a8327673163ea2ba143bd53150d826eb1b31741f379
+SHA512: 673c0f7cd89048900130c5d12fa51dc5a5c16a7be2c3fa7c33c2a0b6efda7ee8940f1879474aa108ed0326fc8ba4a9cee600ea412afcd4af6d6e581eb75e32fa
+Description: Ghim ảnh chụp màn hình trên màn hình.
+Name: Snapper 2 VH(Rootless)
+Author: Jonathan Winger-lang
+Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.snowboard-rootless
 Architecture: iphoneos-arm64
 Version: 1.5.9-Beta3-rootless
@@ -15721,6 +15742,26 @@ Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://support-jailbreak.github.io/depictions/Velvet.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Velvet.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.vneidbypassjb
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.repobvn.vneidbypassjb_2.0.7_iphoneos-arm64.deb
+Size: 2912
+MD5sum: 5f874f495b55c547f32ee4f41aa7d5e9
+SHA1: 2eef159a50d30db46993847568b5fa012ff62490
+SHA256: 5fb41afd7822fc466449a9b9b3077abff9327857d8bc07c1a2e0513d21c6c7a7
+SHA512: 2d74db8b6b5097462b020a0801f5d7ee206ea7e911166100db9077e6ffdf7119ad549e02e033f80bbfecde9e5975f5ea1aa8f99cf4c0e02180bbfc09aa61bcae
+Description: Ẩn Jailbreak VNeID!
+Name: Hidejb VNeID
+Author: Sơn Siro
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HidejbVNeID/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HidejbVNeID.json
 
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
