@@ -985,6 +985,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Sh!!ny/?p=info
 
+Package: com.BIENVANNHAT.SlipstreamLET-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14)
+Filename: ./debfiles/com.BIENVANNHAT.SlipstreamLET-rootless_1.0_iphoneos-arm64.deb
+Size: 66576
+MD5sum: df3d926f4a71c67af79b4d600cafb72b
+SHA1: 020d9d1ab115af82c777cfc0ec370bc26523ee2d
+SHA256: 16b511a02a8696be1015ad03b9256bcfe634c302efcb50460af22ccdfd81b8cd
+SHA512: b5bbd2e4cc8d36e82b878099bb6712f40726c314b012ab1d67c6f8f8e5d8b75414b1cc62f84af1935a715169c8fb0786f003d72ecd818d959572c5d488856c8e
+Description: Phông chữ cho AIM
+Name: Slipstream_LETf(Rootless)
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font3/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font3.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.BIENVANNHAT.SlipstreamLET
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1190,6 +1209,25 @@ Description: Luôn kết nối WIFI,hỗ trợ Ios 11 đến Ios 14.7
 Name: Luôn kết nối WiFi
 Author: Biện Văn Nhật
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.YangJiiiExodar-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debfiles/com.BIENVANNHAT.YangJiiiExodar-rootless_1.0_iphoneos-arm64.deb
+Size: 14002
+MD5sum: 3be786756a0f5dbfe1feaf2b181eeac7
+SHA1: 438be2f2c36bce4a49276177e0cec98ecf96fea9
+SHA256: 541e8f2b993ededfed47a8c428d4df092d4237f20cc71e1c4562996449b59c83
+SHA512: 7e47081817f6eb667ef7607f99f26110455ab3886c786b72d5597924744fa11e0007416564dc7751c239695e3a385cb08ae25fce531ea6a7e35c2c54718b5bb9
+Description: Phông chữ cho AIM
+Name: YangJiii_Exodar(Rootless)
+Author: legionfonts
+Depiction: http://support-jailbreak.github.io/infodeb/Font8/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font8.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.BIENVANNHAT.YangJiiiExodar
 Architecture: iphoneos-arm
@@ -5703,6 +5741,25 @@ Description: Sắp xếp biểu tượng trên màn hình chính theo sở thíc
 Name: Gridiculous13-14 VH
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.gwyneth23-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: AIM Fonts (Rootless)
+Maintainer: REPO CYDIA BVN
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debfiles/com.BIENVANNHAT.gwyneth23-rootless_1.0_iphoneos-arm64.deb
+Size: 16998
+MD5sum: 39460e3df6ccd948563a2ba0d20b4334
+SHA1: 31c569b577442c23f996daa8fb7711ace7368359
+SHA256: d6de138e056455d75edc906ad9aef0e6178e19712e8d2848596e0c6cafb8027e
+SHA512: 5827f50442e4ddb8f32b956d5c8a22e1e498d836d2eca8a23aac252d77e2f54f6bd01540e8fd2302b7979e188bd316b13895b388eac3d142ee2fc978d95595f7
+Description: Phông chữ cho AIM
+Name: Gwyneth23(Rootless)
+Author: YangJiii
+Depiction: http://support-jailbreak.github.io/infodeb/Font2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Font2.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
 
 Package: com.BIENVANNHAT.gwyneth23
 Architecture: iphoneos-arm
