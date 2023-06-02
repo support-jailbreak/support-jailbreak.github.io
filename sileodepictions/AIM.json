@@ -34,7 +34,8 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### Các tính năng:\n\n+ Thời gian với 4 Phông chữ Thời gian gốc từ iOS16\n\n+ Ngày: 7 Tùy chọn ngày (với Nhiệt độ, Vị trí, Báo thức, v.v.)\n\n+ 3 tiện ích \n\n+ Vị trí và Quy mô\nn\+ Căn chỉnh\n\+ Tuỳ chỉnh màu sắc\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh văn bản"Vuốt lên để mở"\n\+ Nếu thời tiết không hiển thị, hãy thêm Thành phố/Vị trí trong Ứng dụng thời tiết \n\n\n",
+"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### Các tính năng: \n\n+ Thời gian với 4 Phông chữ Thời gian gốc từ iOS16 \n\n+ Ngày: 7 Tùy chọn ngày (với
+Nhiệt độ, Vị trí, Báo thức, v.v.) \n\n+ 3 tiện ích \n\n+ Vị trí và Quy mô \nn\Căn chỉnh \n\+ Tuỳ chỉnh màu sắc \n\+ Tuỳ chỉnh phông chữ \n\+ Tuỳ chỉnh văn bản"Vuốt lên để mở" \n\+ Nếu thời tiết không hiển thị, hãy thêm Thành phố/Vị trí trong Ứng dụng thời tiết \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
