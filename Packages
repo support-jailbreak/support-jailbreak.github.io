@@ -1479,6 +1479,27 @@ Name: AgentCamera VH
 Author: Adolfoi_
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.aimpro
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Repo BvN
+Installed-Size: 5708
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
+Filename: ./debfiles/com.BIENVANNHAT.aimpro_1.0.3_iphoneos-arm.deb
+Size: 3402124
+MD5sum: c684baba4f7aa24303e1096e57341c74
+SHA1: 4f4ab81c187207a409e9cab76948da1596af2f0d
+SHA256: 6686d74fa293be5c411215450297d74f80790904e7f3e105b4373cd8f3521416
+SHA512: 99cb707e0c3a2b4093e23d038846c85832a26858672568b44238042ad9c9afeb44d395aafadb22e9d148ccf5ea572791c80fb6bfefa295818174f2b507c1bc16
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM Pro VH
+Author: alimaulana
+Depiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.aimprorooess
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -1488,17 +1509,17 @@ Installed-Size: 4904
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
 Filename: ./debfiles/com.BIENVANNHAT.aimprorooess.deb
-Size: 3234542
-MD5sum: b0fecc883f799c8f32bc9cc72e67d713
-SHA1: 517436eb484cd0b540ec215baac836b318d2c8a9
-SHA256: 7cb85a4e8cc93032740631830f260f7e91be0e5913c94850bf780efbf4ef6846
-SHA512: 42d7f5381d983c72a5ed7bd26edd1bb7b507319f62418436403d07833fbe139956ce9441b74cbfcb3a32743081980d171e1db92b1c21262ee4b0fbd55a1c3dec
+Size: 3248530
+MD5sum: 1cbb2612196cda3b1eb2840e24bf0b47
+SHA1: 259f396fac61955004e678c8042a20918b946e0f
+SHA256: b9ca291113cb24d0fb903b5c9901d68ef26c1ebda707e55e4e957e80c69f600a
+SHA512: 9acdc4f7bb0bff8b5a8405ffc1fa7484ec6c8b9ef5582ab0d5bf075f37b911845d55d9b91ad5307d63f47f02c928d04d05ff487421db35cd0d406162d4fb9133
 Description: Màn hình khoá phong cách iOS16
 Name: AIM Pro VH(Rootless)
 Author: alimaulana
 Sponsor: 搬运工
 Depiction: http://support-jailbreak.github.io/infodeb/AIM/?p=info
-SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AIM.json
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.airaw
@@ -8296,42 +8317,6 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/pubgjbbypass/?p=info
 dev: sbypassdetection
 
-Package: com.BIENVANNHAT.pulloverprofixios14
-Architecture: iphoneos-arm
-Version: 2.5~Beta
-Section: Tweaks
-Maintainer: BvnSupport <nhatbien97@gmail.com>
-Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, com.ex.substitute, applist
-Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios14_2.5~Beta_iphoneos-arm.deb
-Size: 1603774
-MD5sum: 700e8351ace8b8fcf990aefe5b452c99
-SHA1: 540177389791060bbe30251f89a9c5798447bbe8
-SHA256: 478e23d4d72e6ded60f9cd5ea939f750291b7e0af27f6b34a38829b55faabee5
-SHA512: 84f7d7d0304c98963b2057421e25b81bc2afd2375159c4be1c18f975d5b15de845f4b0ee26b4787a9244931a311636008b75d88261c27b88ba1884306cc709ee
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14.4-14.7.Phiên bản hỗ trợ Jailbreak bằng Checkra.
-Name: PullOver Pro 14 (Checkra1n)
-Conflict: com.supportjailbreak.pulloverprovitho
-Author: c1d3r <c1d3rdev@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.BIENVANNHAT.pulloverprofixios
-Architecture: iphoneos-arm
-Version: 2.4~Beta
-Section: Tweaks
-Maintainer: BvnSupport <nhatbien97@gmail.com>
-Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Filename: ./debfiles/com.BIENVANNHAT.pulloverprofixios_2.4~Beta_iphoneos-arm.deb
-Size: 1603760
-MD5sum: 6069638046e3f384697d92dc7163c53f
-SHA1: 1c1810a2329b85ffd3850e27d40213c5df322535
-SHA256: 43d53a014eff965488f5ba3e3bb364320acd90b507ef036ae44b72a34ae027ba
-SHA512: 3c9fd21b556884a677877f167c3260948b3b26ce70d738c38b120981165d093958c40b09491c89f93f67091d6be0f0e3e817204ae1b6067833d2d31c135ab0da
-Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!Chỉ hỗ trợ ios 14-14.3.Hỗ trợ cho Uncover&Taurine
-Name: PullOver Pro 14(Unc0ver&Taurine)
-Conflict: com.supportjailbreak.pulloverprovitho, com.BIENVANNHAT.pulloverprofixios14
-Author: c1d3r <c1d3rdev@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
-
 Package: com.BIENVANNHAT.quizlitehack
 Architecture: iphoneos-arm
 Version: 1.0
@@ -11269,17 +11254,17 @@ Installed-Size: 1488
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
 Filename: ./debfiles/com.REPOCYDIABVN.PullOverPro15_15.17_iphoneos-arm.deb
-Size: 491560
-MD5sum: 846487f08a7a5134a0d6c431abc19090
-SHA1: a4866f372828bdd673d07faafa51b8c8aaec2869
-SHA256: 0590ef3ad5900202a65731ef5475bf03a53c49155454e7e14924fcf0c7161dbb
-SHA512: 19adcdce2800ad443ed63c327a7d51b6174d5fc2292a71f00c3a56b00c71b165af0397fd9794c9d9df6ffcd514e3766ff9abaf2f7401b976b6c5b9a9e7dbf7be
+Size: 491592
+MD5sum: 40aec9c75e99e13b894dca24637ed44d
+SHA1: 005e44113e451964105edd0cf47f00445daf07f8
+SHA256: 15f5b5797370d5319235622eb5001e20e59d395f61408a63b416393fe4bef77a
+SHA512: 4f7cb35a345db894d70b574319302d5e90917b25ef11dc187b96a1427045476c6f65a0829879759faba76f352971094c671e28400d57c9c06be9711e7e68e8b7
 Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS15
-Name: PullOver Pro iOS15
+Name: PullOver Pro VH(iOS11/15)
 Author: c1d3r
-Depiction: http://support-jailbreak.github.io/infodeb/PullOver1/?p=info
+Depiction: https://support-jailbreak.github.io/depictions/PullOver.html
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PullOver.json
-Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.REPOCYDIABVN.a-bypass
 Architecture: iphoneos-arm

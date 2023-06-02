@@ -34,8 +34,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### Các tính năng: \n\n+ Thời gian với 4 Phông chữ Thời gian gốc từ iOS16 \n\n+ Ngày: 7 Tùy chọn ngày (với
-Nhiệt độ, Vị trí, Báo thức, v.v.) \n\n+ 3 tiện ích \n\n+ Vị trí và Quy mô \nn\Căn chỉnh \n\+ Tuỳ chỉnh màu sắc \n\+ Tuỳ chỉnh phông chữ \n\+ Tuỳ chỉnh văn bản"Vuốt lên để mở" \n\+ Nếu thời tiết không hiển thị, hãy thêm Thành phố/Vị trí trong Ứng dụng thời tiết \n\n\n",
+"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### AIM Pro là phiên bản hoàn hảo của AIM, giờ đây nó có thể được tùy chỉnh trên Màn hình khoá hoặc Trung tâm thông báo .\n\n+ Tính năng:\n\n+ Thời gian\n\n+Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh màu\n\+ Căn chỉnh\n\+ Vị trí cao & Thấp\n\### Ngày:\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh kích thước phông chữ\n\+ Tuỳ chỉnh màu\n\+ Vị trí Cao & Thấp\n\+ Căn chỉnh\n\### Lưu ý: Đặt phông chữ tùy chỉnh trong /Library/Application Support/AIMFont (định dạng .ttf/.otf/.woff \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,7 +60,7 @@ Nhiệt độ, Vị trí, Báo thức, v.v.) \n\n+ 3 tiện ích \n\n+ Vị trí
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"alimaulana "
+"text":"Alimaulana "
 },
 {
 "class":"DepictionTableTextView",
@@ -71,12 +70,12 @@ Nhiệt độ, Vị trí, Báo thức, v.v.) \n\n+ 3 tiện ích \n\n+ Vị trí
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"02/6/2023"
+"text":"3/6/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 15.7.1"
+"text":"iOS 14.0 đến 16.4"
 },
 {
 "class":"DepictionLabelView",
