@@ -1488,16 +1488,16 @@ Installed-Size: 5708
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
 Filename: ./debfiles/com.BIENVANNHAT.aimpro_1.0.3_iphoneos-arm.deb
-Size: 3402124
-MD5sum: c684baba4f7aa24303e1096e57341c74
-SHA1: 4f4ab81c187207a409e9cab76948da1596af2f0d
-SHA256: 6686d74fa293be5c411215450297d74f80790904e7f3e105b4373cd8f3521416
-SHA512: 99cb707e0c3a2b4093e23d038846c85832a26858672568b44238042ad9c9afeb44d395aafadb22e9d148ccf5ea572791c80fb6bfefa295818174f2b507c1bc16
+Size: 3402136
+MD5sum: 36cc10be92acbabe5d81188aeb85d1ae
+SHA1: d80c589030ff92860485c57850d948af70f512f3
+SHA256: 4d769299c13c2da3dbdb70f6bd5896201e5cb8c03625386048b44a12d1a9493e
+SHA512: 5b4414028e2c32e4836036bfcefa6fcce7e611ae0d1e8979d90bee69fe497fc0b80f0cdf09a3fc9ff82e1023c53b7fea502d789481f38f5203a8668de1fe109b
 Description: Màn hình khóa thời gian và ngày kiểu iOS 16
 Name: AIM Pro VH
 Author: alimaulana
 Depiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
-SileoDepiction: http://support-jailbreak.github.io/infodeb/aimpro/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aimpro.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.aimprorooess
