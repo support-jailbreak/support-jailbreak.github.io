@@ -34,7 +34,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### AIM Pro là phiên bản hoàn hảo của AIM, giờ đây nó có thể được tùy chỉnh trên Màn hình khoá hoặc Trung tâm thông báo .\n\n+ Tính năng:\n\n+ Thời gian\n\n+Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh màu\n\+ Căn chỉnh\n\+ Vị trí cao & Thấp\n\### Ngày:\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh kích thước phông chữ\n\+ Tuỳ chỉnh màu\n\+ Vị trí Cao & Thấp\n\+ Căn chỉnh\n\### Lưu ý: Đặt phông chữ tùy chỉnh trong /Library/Application Support/AIMFont (định dạng .ttf/.otf/.woff \n\n\n",
+"markdown":"# AIM Pro VH(Rootless) \n\n### Màn hình khoá phong cách iOS16\n\n### AIM Pro là phiên bản hoàn hảo của AIM, giờ đây nó có thể được tùy chỉnh trên Màn hình khoá hoặc Trung tâm thông báo .\n\n+ Tính năng:\n\n+ Thời gian\n\n+Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh màu\n\+ Căn chỉnh\n\+ Vị trí cao & Thấp\n\+ Ngày:\n\+ Tuỳ chỉnh phông chữ\n\+ Tuỳ chỉnh kích thước phông chữ\n\+ Tuỳ chỉnh màu\n\+ Vị trí Cao & Thấp\n\+ Căn chỉnh\n\+ Lưu ý: Đặt phông chữ tùy chỉnh trong /Library/Application Support/AIMFont (định dạng .ttf/.otf/.woff \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
