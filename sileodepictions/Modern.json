@@ -10,11 +10,19 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/Modern/Screenshots/1.png",
+"url":"https://support-jailbreak.github.io/infodeb/Snapper/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://support-jailbreak.github.io/infodeb/Modern/Screenshots/2.png",
+"url":"https://support-jailbreak.github.io/infodeb/Snapper/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/Snapper/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/Snapper/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -22,7 +30,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Chủ đề iOS 6 cho SnowBoard\n\nCác bạn có thể xem hình ảnh phía trên👆. \n\n\n",
+"markdown":"# Snapper2 VH(Rootless).\n\nChụp ảnh màn hình nâng cao hơn! \n\nSnapper là một tinh chỉnh cho phép bạn cắt một phần màn hình và dịch ngôn ngữ trên hình ảnh bạn chụp thật tiện lợi. Có rất nhiều tính năng trong tinh chỉnh Snapper 2 mà bạn có thể khám phá hơn nữa.\n\nTiện ích mà nó có thể làm cho bạn:\n\nKhông bao giờ chuyển đổi giữa hai ứng dụng nhiều lần để nhập mật khẩu một lần nữa\n\nSo sánh nội dung trên màn hình!\n\nKiểm duyệt ngay lập tức một hình ảnh mà bạn muốn chia sẻ\n\nGiữ một tham chiếu đến một cái gì đó trong khi tìm kiếm trong ví dụ Safari\n\nTuyệt vời khi bạn có một từ khó đánh vần mà bạn cần nhập vào đâu đó\n\nChụp ảnh màn hình một phần nhỏ của màn hình\n\nThu phóng hình ảnh không thể nhìn thấy\n\nKhông thể sao chép văn bản trong một số ứng dụng? Chỉ cần chụp và lưu vào cuộn camera để xem sau \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -48,7 +56,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"iCeCool Tech"
+"text":"Jonathan Winget-lang"
 },
 {
 "class":"DepictionTableTextView",
@@ -58,12 +66,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"6/06/2023"
+"text":"30/5/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4.1"
+"text":"iOS 15.0 đến 16.4"
 },
 {
 "class":"DepictionLabelView",
@@ -80,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.1.1-\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 2.6.1\n\nHỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",

@@ -19059,6 +19059,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/evavh/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: me.REPOBVN.ding
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debfiles/me.REPOBVN.ding_1.0.0_iphoneos-arm64.deb
+Size: 37998
+MD5sum: 7bfe3db31a4c08d290918323046f7437
+SHA1: e6c8d9017d5eeb5ce7b1a6e80310c8d3da5989a1
+SHA256: 46668bad92a7acd52309b881b77477686ebf2dfa61a537cb916940ea52c165b0
+SHA512: 6c917217defe7319f65abb2f9ba82e19b82e9436f9e6e13f36fbe6b9afa17852eb11b7362332d63b32695ac565fec9c99c550d1f78f476dbe20603b6c546ed20
+Description: Kiểm soát công tắc rung của bạn!
+Name: Ding VH (Rootless)
+Author: Nebula
+Depiction: http://support-jailbreak.github.io/infodeb/Ding/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Ding.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: me.jjolano.fmwk.hookkit
 Architecture: iphoneos-arm
 Version: 1.0.15
