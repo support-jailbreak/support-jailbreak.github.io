@@ -13634,6 +13634,24 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytb
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-ytbkill.youtubekiller
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bvnsupport.RedWhite
+Architecture: iphoneos-arm64
+Version: 108
+Section: Theme Rootless
+Maintainer: Biện Văn Nhật
+Filename: ./debfiles/com.bvnsupport.RedWhite_108_iphoneos-arm64 (1).deb
+Size: 5776978
+MD5sum: 2462cfa4d5fef5b263ca7b0261309d7d
+SHA1: bf903551881209d1572c9f29656df03537403336
+SHA256: 42005aecee0606148acc254c0c3f40f36a2e008358bfdf264ed440c438813439
+SHA512: 5a58b4fa872537ecf74bde2f8e19ad5ad0fc438c6c5785e43c19ae26207bcf388c64b5ba318d0db2436bb457af4bb0516706143d5f7f7622d9f60b312c6d7e2e
+Description: Chủ đề Red White dành cho bạn
+Name: Red White (Rootless)
+Author: Khoảng Lặng
+Depiction: http://support-jailbreak.github.io/infodeb/RedWhite/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/RedWhite.json
+Icon: file:///var/jb/Library/IconRepo/chudee1.png
+
 Package: com.bvnsupport.jailbreak.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.0
