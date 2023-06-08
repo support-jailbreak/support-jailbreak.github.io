@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Ding VH(Rootless).\n\Ding Thay đổi chức năng của nút gạt im lặng sang các chức năng khác!\n\nCác chức năng:\n\nBỏ qua nút gạt im lặng vật lý\n\nChọn một hành động khi bấm nút gạt im lặng\n\nBật nút gạt im lặng chỉ dành cho nhạc chuông\n\nBật Haptics \n\n\n",
+"markdown":"# Ding VH(Rootless)\n\nThay đổi chức năng của nút gạt im lặng sang các chức năng khác \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +34,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
+"markdown":"[**Facebook NHẬT BIỆN**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,12 +58,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"07/06/2023"
+"text":"7/6/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.4"
+"text":"iOS 13 đến 16.4"
 },
 {
 "class":"DepictionLabelView",
