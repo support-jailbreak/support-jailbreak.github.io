@@ -1,3 +1,24 @@
+Package: BIENVANNHAT.violetpro-rootless
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 6740
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Filename: ./debfiles/BIENVANNHAT.violetpro-rootless_1.0.0_iphoneos-arm64.deb
+Size: 5919322
+MD5sum: 44b33a671722b003a6ba12e18d772c36
+SHA1: 898aae0192f5e06bfbbfac8a64df6810556564d6
+SHA256: ad44c85e6a5d8049c575a8ea330f20cd422d80ed34e0e1b5e24122644e02259b
+SHA512: 0d1ce9101b600d4eec1bcd40651d10dfbac3f446ff8f13f60ca10aea58064500a8f37beaef1e5700298c40caa3999d11647492603448e3f82fff81469f1eb251
+Description: Người giúp việc cho trình cắm Siri được cá nhân hóa Siri của bạn!
+Depiction: http://support-jailbreak.github.io/infodeb/Violet/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Violet.json
+Name: Violet Pro VH(Rootless
+Author: Erast
+Sponsor: 搬运工
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNBAT.runaway
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -12475,6 +12496,27 @@ Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.settingsrevamp
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debfiles/com.bienvannhat.settingsrevamp_2.0.8_iphoneos-arm.deb
+Size: 130930
+MD5sum: eb930a222bdb346899373a8394dd0925
+SHA1: fe6f616607836535ef96fb8632e7d2a41906408c
+SHA256: 89821d9338e1f83ef6959788cea0a3a3d27858c56a83cbde89649a392ad4e312
+SHA512: d460cd029c6616edc02f5f0007d1ff9ef10854815a1b55af491492dde88daff72d907b284f6ffecdcd3abe9514b5ec63af07ff79df2c4b5b78e44b485f65a586
+Description: Tùy chỉnh trang cài đặt ios
+Name: SettingsRevamp VH
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.uyou1
 Architecture: iphoneos-arm
 Version: 17.25.1
@@ -15643,6 +15685,27 @@ SHA256: 9fc89fd0fc0a6ec102ed684bcd6e5f9358a68e20ea6421ffe6e0dad0d9dd4f60
 SHA512: 2313a662ea5873a3d776af17ad4766a6da356d7258417daccf131cb1b8295af2a1b691883289b41f4c8e020c3e9abee9f1f0db5e2b01299f8ab04c9a34ce60e0
 Description: Tùy chỉnh trang cài đặt ios
 Name: SettingsRevamp VH (Rootless)
+Author: SOPPPra
+Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.repobvn.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debfiles/com.repobvn.settingsrevamp_2.0.8_iphoneos-arm64.deb
+Size: 131122
+MD5sum: 7a0913edf1ae649c64e82a45f1cac8eb
+SHA1: 83520859d97d3fd2672f78cba3c479548905593f
+SHA256: babe2a559f38c12282e4a8da0742523bfc2cd62132da2d4e9bbe61cd1a759a88
+SHA512: 2b6b5b6458f2dabd14f3f97cb5a1fd1b3f345264775addab529222e4bfd9c1f702a984f3c3edffac51861bb7e78f7f033f0dadc2652d7807053518ecc1d04522
+Description: Customize the ios settings page
+Name: SettingsRevamp VH(Rootless)
 Author: SOPPPra
 Depiction: http://support-jailbreak.github.io/infodeb/SettingsRevamp2/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SettingsRevamp.json
