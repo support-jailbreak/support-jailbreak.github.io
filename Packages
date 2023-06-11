@@ -10009,6 +10009,46 @@ Name: Trình Phát Wi-Fi
 Author: Sam Bingner <support@tetherme.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.ong
 
+Package: com.BIENVANNHAT.truecallergold
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.truecallergold_1.0.0_iphoneos-arm.deb
+Size: 21036
+MD5sum: e9cba4083c2f9bb2aff9087338c7d7f2
+SHA1: afeed83ced973b51ba23c0c21716f0a91c9d09c6
+SHA256: bf79e71ccca3f319bbb93cc3cf4dfe1c0f61ae371265b156980478844a2b2f5f
+SHA512: 98439645cc1c9b1f0e2b12bdf547db3ba5c049aca32d678c90c0a992072f198f4c14cd59bd978c7a2fddf5c85353d466e3cc671d7c47e98f710251496ea1f1a7
+Description: Cracked By Ravand
+Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: Truecaller Gold
+Author: Ravand
+
+Package: com.BIENVANNHAT.truecallergold
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 280
+Depends: mobilesubstrate, com.bienvannhat.iconreporootless
+Filename: ./debfiles/com.BIENVANNHAT.truecallergold_1.0.0_iphoneos-arm64.deb
+Size: 21104
+MD5sum: 89c4a6c76c7b949ad97e2c239ecaf780
+SHA1: 18c7635702d5abea6f6e7b46f706ae3d32387459
+SHA256: d7718f525b53b54a09b91c33e42d587d11ee61327e219c33ac3169bc02d925e7
+SHA512: be0964141c143ec64c8d0090e765e0cfe5c81432946e0efa39b7a213506f679daf3097f429bcab12635c2199107feb9a2881f7d62e606fa5e6ae4c2228168fa3
+Description: Cracked By Ravand
+Name: Truecaller Gold (Rootless)
+Author: Ravand
+Depiction: http://support-jailbreak.github.io/infodeb/Truecaller/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Truecaller.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.tsssaver
 Architecture: iphoneos-arm
 Version: 2.0.3
@@ -15274,13 +15314,13 @@ Version: 1.4.0
 Section: Tweaks
 Maintainer: Repo BVN
 Installed-Size: 2412
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.BIENVANNHAT.iconreporootless
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.bienvannhat.iconreporootless
 Filename: ./debfiles/com.repo.appdata-rootless_1.4.0_iphoneos-arm64.deb
-Size: 995182
-MD5sum: 6d827cdc2df44871470de18542fd63eb
-SHA1: 5f3cbd290b04e29d14cb239984c687154b2d5693
-SHA256: d770fb779c53775eabdec692c991806ffd600252379308a2a18364c8694477eb
-SHA512: 7bcfc145c4c2a0db9f38faf3aa6485aa9fc6efb30c786fb9ebac77ec6b5e53918565d69c4ebb102cc9cfb2abcdfd0fd4bd607adfbb4e25a94f0515d6ce4537f1
+Size: 995174
+MD5sum: 2e12553c5398df318ff470fc8b982086
+SHA1: 9cf1550c6dcb8f30669cbdddc6de204cc096c2ea
+SHA256: e196719042911831dc1d48af462636e6fec6ee6924cadc0cda9f536e6c5624f8
+SHA512: 51672e77c4275639b5e726c79bdd8ffb02b2223580fe26f545f5be3d6e19790b00d182c6c310480842633eb17240b792512ed17d9620068981051cd035bad121
 Description: Vuốt lên hoặc xuống biểu tượng trên màn hình nền hoặc nhấn 3D và giữ menu chọn để gọi công cụ gõ tắt dữ liệu ứng dụng biểu tượng Phiên bản này hoàn toàn là tiếng Trung và được quản trị web chỉnh sửa và tối ưu hóa. Sửa đổi và tối ưu hóa: Thêm phiên bản đơn giản của ứng dụng hạ cấp, thêm tùy chọn trượt xuống để gọi ra, thêm xem trạng thái mã hóa ứng dụng, thêm tùy chọn bảng để xóa đường phân chia bảng, sửa đổi phiên bản gốc gỡ ứng dụng thành gỡ cài đặt thực sự mà không giữ lại dữ liệu, sửa đổi phiên bản gốc sau khi xóa bộ đệm Làm mới đồng bộ sự cố hiển thị dữ liệu tổng, khắc phục sự cố lỗi nhấn và sao chép thông tin trên trang thông tin thêm ban đầu, sửa đổi dữ liệu đặt lại của phiên bản gốc để bao gồm dữ liệu thư mục trong nhóm chương trình đặt lại và sửa đổi kích thước dữ liệu của cột dữ liệu đặt lại ban đầu để bao gồm dữ liệu thư mục bên trong nhóm chương trình, sau khi sửa đổi phiên bản gốc để đặt lại dữ liệu, hiển thị dữ liệu được lưu trong bộ nhớ cache và số lượng quyền không được làm mới đồng bộ, sửa đổi phiên bản gốc không thể được sử dụng để đặt lại dữ liệu/đặt lại quyền/gỡ cài đặt ứng dụng khi ứng dụng được tải xuống từ không phải AppStore được gọi (đã sửa đổi Sau đó, chỉ vô hiệu hóa trên các ứng dụng hệ thống)
 Name: AppData (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
