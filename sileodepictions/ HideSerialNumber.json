@@ -22,7 +22,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Tinh chỉnh giúp thay đổi hoặc ẩn toàn bộ thông tin trong phần Giới thiệu \n\n### Trang giới thiệu:\n\n### Bạn có thể chỉnh sửa các mục trong trang Giới thiệu của Settings.app (ngoài Bài hát, Video và Ảnh).\n\+ Chưa kiểm tra Hai SIM Vui lòng thiết lập trong cài đặt.\n\n+ Ngay cả theo mặc định, số sê-ri và địa chỉ MAC đều bị ẩn.\n\n+ Các bạn có thể xem hình ảnh phía trên để biết rõ hơn! \n\n\n",
+"markdown":"# Tinh chỉnh giúp thay đổi hoặc ẩn toàn bộ thông tin trong phần Giới thiệu Điện thoại\n\nCác bạn có thể xem hình ảnh phía trên👆. \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -34,7 +34,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
+"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,12 +58,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"12/6/2023"
+"text":"12/06/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15 đến 16.4"
+"text":"iOS 15 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",
@@ -80,7 +80,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 0.0.2\n\nHỗ trợ Rootless Jailbreak."
+"markdown":"#### Phiên bản 0.0.2\n\nHỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
