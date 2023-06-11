@@ -5961,6 +5961,28 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Helix/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Helix/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.hideserialnumber-rootless_0.0.2_iphoneos-arm64.deb
+Size: 72202
+MD5sum: c3068c6bcd3f547c39976de02f380b75
+SHA1: 8d4e753a616952d947295ea9ae8cae94fa743407
+SHA256: eeb16dcf1233e58588aa65a4c06fb9bf118784ce1c9b4af778cef40845ae2d0a
+SHA512: 5c3fb011e223e59aedd263c7c3a18240977c1f75183264d6406b08147603ac19e7b6fcf8064c2a50115089c39029fe2973f7530853491a6cc0861abea77b95ea
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+dev: ichitaso
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HideSerialNumber.json
+
 Package: com.BIENVANNHAT.hideserialnumber
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -8038,6 +8060,29 @@ Description: Thêm nhiều tính năng vào ứng dụng ảnh.
 Name: PhotosPro Việt Hoá
 Author: ahmedmakls <makhl.2266@yahoo.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.picsart-rootless
+Architecture: iphoneos-arm64
+Version: 22.4.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com>
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.picsart-rootless_22.4.4_iphoneos-arm64.deb
+Size: 268926
+MD5sum: 33490a7700841de820f0bfa38076f40a
+SHA1: 89894b6fa7ddb3c4cf8e8b46d079f3826ba3f7ee
+SHA256: 2b33b4e0fceea74d10c0f39206c19273cc9d554ff582652d712aa05cd31e3555
+SHA512: ba2164af77c103eee79673bf5fba63b90d0b8f018435f1ce39cd7a133f5b47c92cef711829a0eb5f7173aa47e8298c0a80a844cdb61911f6f81434bbd453b12b
+Description: 
+  • Mở khóa tất cả các tính năng
+  • Xóa Quảng cáo và Biểu ngữ
+  • Gói cao cấp & VIP
+Name: PicsArt® Gold (Rootless)
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: http://support-jailbreak.github.io/infodeb/PicsArt/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/PicsArt.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.picsart
 Architecture: iphoneos-arm
@@ -12494,6 +12539,29 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Tags: compatible_min::ios10.0
 
+Package: com.bienvannhat.picsart
+Architecture: iphoneos-arm
+Version: 22.4.4
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 940
+Depends: mobilesubstrate
+Filename: ./debfiles/com.bienvannhat.picsart_22.4.4_iphoneos-arm.deb
+Size: 273386
+MD5sum: 1f1ebf04cec59f4cfcbca0f450881715
+SHA1: 6371466aa398d1491c2a92a963475f95a83382f2
+SHA256: b3233203b713818e1aae7f96b2d35286b28fee88c63e32657c29a01f37b7a80c
+SHA512: c803e3061aeeac737b648569bc031ccbabccc6866ea6ed590e135afeb8bebf861e47f43147e0ea5493d636ef3ff2232719befda6035fd41eed0a1c9ad7a12c16
+Description: 
+  • Mở khóa tất cả các tính năng
+  • Xóa Quảng cáo & Biểu ngữ
+  • Gói cao cấp & VIP
+Name: PicsArt® Gold
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.settingsrevamp
 Architecture: iphoneos-arm
 Version: 2.0.6
@@ -15166,6 +15234,26 @@ Name: Choicy (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.reobvn.choicy
+Architecture: iphoneos-arm64
+Version: 1.4.9-3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debfiles/com.reobvn.choicy_1.4.9-3_iphoneos-arm64.deb
+Size: 169426
+MD5sum: 3c803c738bfedf088a7753548cc57472
+SHA1: f875ac7c63954a7b525f0f15b8337aaa6dda0514
+SHA256: d61a1ea6e78b603a7246ee1e41e6367f1d5696c3c8bfc0c7323dd267a9763b19
+SHA512: 8754947ed463683736d88b1b95d5e9734faf066a78488fdff4f5d0992281c4185698c99712dfca3fc540ee9f75f2d861ab56d4410053fb3805adc724fb6f43f4
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn
+Name: Choicy VH (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Choicy.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.reoobvn.iconrotation-rootless
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -17266,6 +17354,28 @@ Author: opa334 <opa334@protonmail.com>
 Name: Choicy Việt Hoá
 dev: opa334
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh1.png
+
+Package: com.supportjailbreak.choicyvn
+Architecture: iphoneos-arm
+Version: 1.4.10
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 1024
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debfiles/com.supportjailbreak.choicyvn_1.4.10_iphoneos-arm.deb
+Size: 263782
+MD5sum: 491ba968e7427b8bb97cd7d20d4a26f0
+SHA1: 866a497033332ee59af55d84423cac2071e8087d
+SHA256: 2ca390a45be93c8aec5528e7bd85b98cdce12408b067c7938931641a87683db6
+SHA512: ab5d5c43fe6b9671153ffc36a3d79d85b2f92864d938fb97768a22039cb191549703dfb8454e9434b86d93d5c799b90560ee5a16b78111fd2f9e782d69861486
+Description: Chặn phát hiện Jailbreak cho ứng dụng của bạn!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: Choicy VH
+Depiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/Choicy/?p=info
+dev: opa334
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.supportjailbreak.choicyvn
 Architecture: iphoneos-arm
