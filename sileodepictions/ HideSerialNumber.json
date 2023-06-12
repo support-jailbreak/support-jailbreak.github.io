@@ -10,11 +10,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/1.png",
+"url":"https://support-jailbreak.github.io/infodeb/ HideSerialNumber/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
 "url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://support-jailbreak.github.io/infodeb/HideSerialNumber/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -22,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Tinh chỉnh giúp thay đổi hoặc ẩn toàn bộ thông tin trong phần Giới thiệu Điện thoại\n\nCác bạn có thể xem hình ảnh phía trên👆. \n\n\n",
+"markdown":"# Tinh chỉnh giúp thay đổi hoặc ẩn toàn bộ thông tin trong phần Giới thiệu\n\nCác bạn có thể xem hình ảnh phía trên👆. \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
