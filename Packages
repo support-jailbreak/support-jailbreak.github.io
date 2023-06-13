@@ -5983,6 +5983,28 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HideSerialNumber.json
 
+Package: com.BIENVANNHAT.hideserialnumber-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 352
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.hideserialnumber-rootless_0.0.3_iphoneos-arm64.deb
+Size: 72208
+MD5sum: bd7fd23d951f8c82efcfa76d828e9029
+SHA1: 465b848bd572b4b12dd5698c61f909f05ce8dee4
+SHA256: 32d7053eeabd570617b1533e774f914c9a9043bf2dcdbe482ab758b7825801fb
+SHA512: b14219ded5972ecf2dac1a5cc430cfe450af6ee8e8de66458bbd3fb92a1c9bef9aa82fc60ff2c53bd029fadbbe96205b4e6e39998b6ac76c192b863439453c6a
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber (Rootless)
+dev: ichitaso
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/hideseri.json
+
 Package: com.BIENVANNHAT.hideserialnumber
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -10171,6 +10193,29 @@ Name: TweakSettings VH
 Author: CreatureSurvive <support@creaturecoding.com>
 dev: CreatureSurvive
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.tweaksettings
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Priority: optional
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT <bienvannhat97@gmail.com
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debfiles/com.BIENVANNHAT.tweaksettings_1.0.8_iphoneos-arm64.deb
+Size: 440664
+MD5sum: dcd0591b9d8ab4e3214422a018e5d0b4
+SHA1: a21dbb30b73570bf93042530033ee7e895a401b1
+SHA256: 5633c3a2d6c092a522fc2d67ad2516c1c9db9295a137e214c0374aac316031a3
+SHA512: 6ef3e7032081f6d185f6d371e2e541a3541093d481988b1fde97a6696cd6978eaeef072017fc75d10577776fe3fe62191a1337bed137b824fb4eef39de1f1edf
+Description: Ứng dụng cài đặt chuyên dụng cho các chỉnh sửa
+Tag: purpose::application, compatible_min::ios10
+Name: TweakSettings VH(Rootless)
+Author: CreatureSurvive <support@creaturecoding.com>
+dev: CreatureSurvive
+Depiction: http://support-jailbreak.github.io/infodeb/TweakSettings/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TweakSettings.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.twitchnoads
 Architecture: iphoneos-arm
