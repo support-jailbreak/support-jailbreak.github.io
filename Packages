@@ -12327,6 +12327,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios12.0
 
+Package: com.bienvannhat.aim
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: BIEN VAN NHAT <bienvannhat97@gmail.com>
+Installed-Size: 4904
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker, oldabi, com.bienvannhat.iconreporootless
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aimpro, com.icraze.nexus, com.bienvannhat.aimprorooess
+Filename: ./debfiles/com.bienvannhat.aim_1.3_iphoneos-arm64.deb
+Size: 2779488
+MD5sum: 9b411c4ba11bac496809c44ac8046177
+SHA1: 45ee3f6bb82ee6d6205be6756fef6c214407526f
+SHA256: feffaeab83a4cb1d86471d605545967855821e2798de5d0d2c2ff4d278c7dc26
+SHA512: 908f7f816119f96b3730ea24a823eb85509b456f26dba1dd98dc18673e0bbf76325ca056da5193c9e0f2035e5cc52d9159b999e7e49ce26b09063764094bcc4a
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Name: AIM VH (Rootless)
+Author: alimaulana
+Depiction: http://support-jailbreak.github.io/infodeb/aim/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/aim.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannhat.amber
 Architecture: iphoneos-arm
 Version: 1.2.0
