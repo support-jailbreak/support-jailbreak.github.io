@@ -9775,6 +9775,25 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/SwipeExtenderX/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/SwipeExtenderX/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.systeminfo
+Architecture: iphoneos-arm64
+Version: 2.7.2-3
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Depends: mobilesubstrate, oldabi
+Filename: ./debfiles/com.BIENVANNHAT.systeminfo.deb
+Size: 437318
+MD5sum: 21120abe7d6819dce81c63c56e8af48b
+SHA1: 53e5ecc5a88f54455aa16d4f89edd7704f2aacee
+SHA256: ee19bf5b0f52990eb37467520a8f83d4a6e7b07878f29a9adf6ac9cb54cde009
+SHA512: b07c66c033c9047677df6adcd390515b4889febcf9554928245ab298460c411e2f2683fb2be3b82e2084f3b8a9c2594c6ca6bb819ea3c066d9546d982414830d
+Description: Thông tin hệ thống trong ứng dụng Cài đặt > Cài đặt chung > Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+Name: System Info (Rootless)
+Author: ARX8x
+Depiction: http://support-jailbreak.github.io/infodeb/SystemInfo/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SystemInfo.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.tapflash
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -12245,6 +12264,26 @@ Tag: role::developer
 Name: HyperixaKit
 Author: Hyperixa
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.BIENVANNHAT.betterccxi
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 640
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debfiles/com.atwiiks.betterccxi_1.6.deb
+Size: 137076
+MD5sum: 16ccafcb8cf23054a02de46dfcb9e394
+SHA1: dc59147ce3e281a99b69d48372850554942f33b7
+SHA256: 0fe3d659d2ea85348f15dae099477f27fe96fd15a616338757e009b1adfc200a
+SHA512: fed9eb3bccdf6c2e71f7a5fa24cd824809be9891cf48b81d332e6ebc1cc195cfcfa7b2d43b33be911c2dca183757e301055c22cbc6499f26e765f687def8700a
+Description: Tăng cường trung tâm điều khiển của bạn trên iOS 11 và iOS 12
+Name: BetterCCXI VH(Rootless)
+Author: ATWiiks
+Depiction: http://support-jailbreak.github.io/infodeb/BetterCCXI/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/BetterCCXI.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.bienvannhat-support.animemybadges
 Architecture: iphoneos-arm
@@ -18924,6 +18963,26 @@ Description: ElleKit tweak injection libraries and loader
 Name: ElleKit (Beta)
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Evelyn
+
+Package: emt.paisseon.xinamine
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: System
+Maintainer: BIỆN VĂN NHẬT
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debfiles/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 116712
+MD5sum: 9c0783cce71aee847392c3346bb2c397
+SHA1: 3e4848c2b3902a5814982cc752aa1e7dad1dfc73
+SHA256: 4b9a67b813c34f19ce55a8e19b5ab2cf170d06878cefbb224944cf9d442342b0
+SHA512: 884aae0ae4667ade17914e130ac61803ed4063e22871b31d6ee8dad8c983892f6444be6dab43dd9db34c136529b4237e9b0eef575b429825952e261cef74d3c9
+Description: Thêm khả năng tương thích tinh chỉnh Xina với Dopamine
+Name: Xinamine (Rootless)
+Author: Sudo + Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Xinamine.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 
 Package: expat
 Architecture: iphoneos-arm
