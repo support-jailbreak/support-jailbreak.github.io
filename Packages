@@ -8709,6 +8709,25 @@ Name: SafariTabs14
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.safeccmodules
+Architecture: iphoneos-arm64
+Version: 1.5-2
+Section: Addons (ControlCenter)
+Maintainer: BIỆN VĂN NHẬT
+Filename: ./debfiles/com.BIENVANNHAT.safeccmodules.deb
+Size: 1407242
+MD5sum: 00543f824e82174bd3b97550148948e7
+SHA1: 65cf2d46c24bcd343a90922caf5b456b477c816a
+SHA256: 9385fed999a54181eb4775ba948929af965cc0c46d6b7ebc3819cca1e3d5d3a9
+SHA512: 7fa716d222aa14cfff80779035941dcab335aa0ef8a9db7505e6b0fb01efc2c028ebacce2630fe7f69db959a9d136f03781edfe56494036c015eabafba447383
+Description: Control center modules for iOS 11/12/13/15. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
+Author: jailbreak365
+Name: CCModules (Rootless)
+dev: jailbreak365
+Depiction: http://support-jailbreak.github.io/infodeb/CCModules/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CCModules.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.satella
 Architecture: iphoneos-arm
 Version: 2.2-1
