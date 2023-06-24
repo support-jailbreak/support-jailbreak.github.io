@@ -3632,6 +3632,46 @@ Depiction: http://bvnsupport-jailbreak.github.io/infodeb/ChromaHomeBarX/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/ChromaHomeBarX/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.colorbar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 320
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.colorbar_1.0_iphoneos-arm.deb
+Size: 18718
+MD5sum: e8df8b75550acfe6c7dbd39e3f0c00d6
+SHA1: 5fde60ed09ce5c17d0bef917160b70b0bb66a365
+SHA256: d5fec4801e86058b5d031c0d825adc316b6ed354dd289ecdb31f6ff85d801a85
+SHA512: d7aac102e6bfb89c0a27ade18f0a336cb6cbf69606c8e3879e0d01d1422ddbf954d32c128b8e7cc666419adf37b863ef654c94d9b99f63b071a8f88b63fd3f56
+Description: Color that HomeBar!
+Name: ColorBar VH
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/ColorBar/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ColorBar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.colorbar
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 316
+Depends: mobilesubstrate,org.thebigboss.libcolorpicker,preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.colorbar_1.0_iphoneos-arm64.deb
+Size: 16486
+MD5sum: 667ff1d23abfe70ab90c4e9b6ccb5f65
+SHA1: dafec39e9485e7fa50a8df4280e5352d586716c1
+SHA256: e985dc3a55558b0c2fa1b94f94708ba6e5e0d6b209d66ab9d5b4777dca134a6d
+SHA512: 0726ad928e57c8d57dfb9c67d9e70420f308465e0da82ba18b58bf1722cd1696d04e8dea526023785765b8413aea9988ccafa4c839337e6b4205f4223a56cf60
+Description: Tuỳ chỉnh màu sắc Thanh Home của bạn!
+Name: ColorBar VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/ColorBar/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ColorBar.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.control-center.ccvpn
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -4942,6 +4982,26 @@ Author: FoxfortMobile
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.facebooknoads
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.0_iphoneos-arm64.deb
+Size: 6090
+MD5sum: cb17ce945589e73911c3b4152d86b1e5
+SHA1: cd912ed76efd5bc6635200f5f59653d42970e97d
+SHA256: d11d8fd9a149ab07e9e616164a27aa4a7fe68fa53086ae3a90cf6725ecdef5dc
+SHA512: d510675fa9c7a2d164fd78e0796edf5affeeabff1db614e05b4181d9c9a5f9e08bb15652c6123f75f1e789050af2d277f42df8570e8d2a301c2a21f21e1f87ff
+Description: Chặn quảng cáo cho Ứng dụng Facebook
+Name: Facebook No Ads (Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/facebooknoads/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/facebooknoads.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm
 Version: 1.4.1
 Section: Tweaks
@@ -6026,6 +6086,26 @@ dev: ichitaso
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/HideSerialNumber/?p=info
+
+Package: com.BIENVANNHAT.homebarsizer
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BIỆN VĂN NHẬG
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.homebarsizer_1.1.1_iphoneos-arm64.deb
+Size: 33740
+MD5sum: c3ba84e1c6d7aa3f49966297167f3509
+SHA1: 154837454400af0be9554d39247f21fc2bd443af
+SHA256: 5309d743ab6fa52f10dd0116a498bde4a91d8837bf9ca9fe82cd990d5d3a5361
+SHA512: 4128583cf6162bdd59a4bbf36335b03d4f543f2461bfc8f301c648924be15f1fd5858e4e2807fda8cf9c0f0a1f13a2a04978f5df696ac24fc65896c601339df0
+Description: Tuỳ chỉnh kích thước của Thanh Home!
+Name: HomeBarSizer VH(Rootless)
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/HomeBarSizer/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HomeBarSizer.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
 Package: com.BIENVANNHAT.homepluspro
 Architecture: iphoneos-arm
