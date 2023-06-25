@@ -88,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.7.0\n\nHỗ trợ iOS 16\n\Khắc phục OCR với Cài đặt chính xác cho các thiết bị sử dụng bản bẻ khóa Dopamine, iOS 15.0-15.4.1, trên A12 thiết bị trở lên (XS trở lên)"
+"markdown":"#### Phiên bản 2.7.0\n\nHỗ trợ iOS 16 & Khắc phục OCR với Cài đặt chính xác cho các thiết bị sử dụng bản bẻ khóa Dopamine, iOS 15.0-15.4.1, trên A12 thiết bị trở lên (XS trở lên)"
 },
 {
 "class":"DepictionLabelView",
