@@ -66,7 +66,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/5/2023"
+"text":"25/6/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -88,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 2.6.1\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 2.7.0\n\nHỗ trợ iOS 16\n\Khắc phục OCR với Cài đặt chính xác cho các thiết bị sử dụng bản bẻ khóa Dopamine, iOS 15.0-15.4.1, trên A12 thiết bị trở lên (XS trở lên)"
 },
 {
 "class":"DepictionLabelView",

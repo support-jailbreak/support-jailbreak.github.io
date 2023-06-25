@@ -10953,6 +10953,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/YouTube/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.BIENVANNHAT.ytx
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debfiles/com.BIENVANNHAT.ytx_1.3.0_iphoneos-arm.deb
+Size: 4156
+MD5sum: c8061a2276a9f247a18bed20771e2588
+SHA1: 7370c11bc9471cfcff5cbdce95aae11ac8d965fc
+SHA256: 87d1cfddab19755f5ce137c99dd19979f6606753b9b90a60b3c0daf74aac05bf
+SHA512: 87f1cb3d8ab233900e2fbc8de3450de78a0231954568636f3bb375ede6d4bc2b828db5f3adb19d46f9ecac298af97b06df3d6000db67e68ca944d10ad116d3e6
+Description: Chặn quảng cáo và phát lại nền cho Ứng Dụng Youtube!
+Name: YouTube X VH
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.zephyr
 Architecture: iphoneos-arm
 Version: 1.6.4-1
@@ -16106,6 +16126,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
+Package: com.repobvn.snapper2-rootless
+Architecture: iphoneos-arm64
+Version: 2.7.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debfiles/com.repobvn.snapper2-rootless_2.7.0_iphoneos-arm64.deb
+Size: 721382
+MD5sum: e782bea374adf1bbfcd935c0439f6c3c
+SHA1: 16c7f1d7c8d19863ee8ba0f3aaeaaa561817e5ed
+SHA256: 752dfb935ab99fdf1d69aa0eea91ac4780490ff801c0d02284b459fd2a54d3c8
+SHA512: 1f444c2cdaa888be35c4f7497d492f05f9df3c6de42b3223324c682418ede13d57c92e0363469b56b109b161314cca7147192ebda8571c907da99828a9c1721b
+Description: Ghim ảnh chụp màn hình trên màn hình.
+Name: Snapper 2 VH(Rootless)
+Author: Jonathan Winger-lang
+Depiction: http://support-jailbreak.github.io/infodeb/Snapper/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Snapper.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.repobvn.snowboard-rootless
 Architecture: iphoneos-arm64
 Version: 1.5.9-Beta3-rootless
@@ -16378,6 +16418,26 @@ SHA1: 64e3b77bd3487e54098d0aefe5e3a535c4a0d734
 SHA256: 622ca06c7d5c5b67f65843b81f15b7c842a95026886ee9a371dd9e44c3a49716
 SHA512: 63577807c1d36341494043ad88666b81bf2eef0f086b8db38fe7db1d51c7ce184e617b57a90b7f343b299e9e962c790272098941f7617735d48c179240b24469
 Description: Chặn quảng cáo,phát lại nền trên ứng dụng Youtube
+Name: YouTube X (Rootless)
+Author: PoomSmart
+Depiction: https://support-jailbreak.github.io/depictions/ytx.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/ytx.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package:  com.repobvn.ytx
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.ps.ytabgoodies
+Filename: ./debfiles/com.repobvn.ytx_1.3.0_iphoneos-arm64.deb
+Size: 4234
+MD5sum: 0ce8dacc5321b7547904e7f6c83ed5a6
+SHA1: 442cbe64f52fd8a77fa35254c04baef1eecfe5ac
+SHA256: d6758965cd16acc27914c670255536f5d1b3e1014bd3f0df36af88cda97514c0
+SHA512: 4e25fa987acfe328f4d2c38ffd59323059f81ec20a0dd4c70c91bf2d13203d4530a7267bddf9572bcf93899e01fc2e05f26210f99e0dc87aaf2d0617da5f4351
+Description: Chặn quảng cáo và phát lại nền cho ứng dụng Youtube!
 Name: YouTube X (Rootless)
 Author: PoomSmart
 Depiction: https://support-jailbreak.github.io/depictions/ytx.html
