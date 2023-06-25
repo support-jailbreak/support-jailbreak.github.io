@@ -4985,18 +4985,17 @@ Package: com.BIENVANNHAT.facebooknoads
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
-Maintainer: Biện Văn Nhật
-Installed-Size: 152
-Depends: mobilesubstrate
+Maintainer: BIỆN VĂN NHẬT
 Filename: ./debfiles/com.BIENVANNHAT.facebooknoads_1.0_iphoneos-arm64.deb
-Size: 6090
-MD5sum: cb17ce945589e73911c3b4152d86b1e5
-SHA1: cd912ed76efd5bc6635200f5f59653d42970e97d
-SHA256: d11d8fd9a149ab07e9e616164a27aa4a7fe68fa53086ae3a90cf6725ecdef5dc
-SHA512: d510675fa9c7a2d164fd78e0796edf5affeeabff1db614e05b4181d9c9a5f9e08bb15652c6123f75f1e789050af2d277f42df8570e8d2a301c2a21f21e1f87ff
-Description: Chặn quảng cáo cho Ứng dụng Facebook
+Size: 6044
+MD5sum: 67bd4cee957393a86e7c9da9af83dce9
+SHA1: 51821d5dfdf3e92d1afd80ed9062665177896d11
+SHA256: c23d5d2721e2c32135591ac07f719afd960ae3d735ad3e3f4bccbafd84fa0100
+SHA512: da74fa43cae412dcb5a6e7eadf6bb712e357cd1d358b7f051f8fe8c5017ca74f59b8cb66b583f51b8ba11c823e78b51224a7919a3c4ddc469f9712457f89fdd9
+Description: Chặn quảng cáo cho Ứng Dụng Facebook
+Author: pk2dev
 Name: Facebook No Ads (Rootless)
-Author: P2KDev <p2kdev@gmail.com>
+dev: Pk2dev
 Depiction: http://support-jailbreak.github.io/infodeb/facebooknoads/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/facebooknoads.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
