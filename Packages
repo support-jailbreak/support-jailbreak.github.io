@@ -12982,6 +12982,46 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.bienvannhat.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm.deb
+Size: 130566
+MD5sum: e8aaa2eedf28d4fdaaceeff8a9f5143d
+SHA1: a12232a09a1aafb46fa8d332c6834e80d7760cef
+SHA256: 6d4538391bee5f0ce10f29f94846587cde37a17ea3ac1dbcabe4b8b68ca6808d
+SHA512: 948ae75d920fe55deeb35cee633739a10ee41766f2ebbf3cd4b8714e019b80f772d40634661d25bfe1ada3092838724b5868b59bfa543df520f0192f201b1cf1
+Description: YouTube Music Premium
+Name: YTMusicUltimate VH
+Author: Ginsu
+Depiction: http://support-jailbreak.github.io/infodeb/YTMusicUltimate/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/YTMusicUltimate.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.bienvannhat.ytmusicultimate_1.4.1_iphoneos-arm64.deb
+Size: 130652
+MD5sum: 36b3c10babec4282270283ddf1f09760
+SHA1: b05f904c3af336443062ca053b9a9f643de0f715
+SHA256: 0f70a68f1e16369b02f05e153cad97a3c7cf01bbf0b7d76a01c48639c8b1783b
+SHA512: d7e0285c108fd7a3273a88ec4f7beee3c3d14829a683ebae2ed507019ff293c109c4f0c40234d13764b0926c1f1285d42ffffe3ba84a4731516adcb6a5191b9e
+Description: YouTube Music Premium
+Name: YTMusicUltimate VH(Rootless)
+Author: Ginsu
+Depiction: http://support-jailbreak.github.io/infodeb/YTMusicUltimate/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/YTMusicUltimate.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannnat.youpip
 Architecture: iphoneos-arm
 Version: 1.5.15
