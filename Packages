@@ -20031,6 +20031,27 @@ Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Tags: compatible_min::ios10, compatible_max::ios15, role::developer
 Author: ren7995  <lau7995ren@gmail.com>
 
+Package: me.nepeta.axon-rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debfiles/me.nepeta.axon-rootless_1.4_iphoneos-arm64.deb
+Size: 193920
+MD5sum: edf3e4f9a64289c2c9c02da96db7f61d
+SHA1: 89284129b1e37f0525771c8ae90f9f629f96caa6
+SHA256: b15e99623936f36d744d64a6219bda316d0f6dc9cc8076b98fa10347d23ee6d4
+SHA512: 1202a96f90d8aa5fc8c8a66ccfef55287fdd4e2744c03b95c5a0c53c3e5c4f65762160dd0d701cb015db4d2b0fe9bce24cb36cc86ab0638f5711ef3c5859255b
+Description: Priority Hub for iOS 15
+Name: Axon VH (Rootless)
+Author: Nepeta & Baw Appie
+Depiction: http://support-jailbreak.github.io/infodeb/Axon2/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Axon2.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: net.BIENVANNHAT.dynamicpeninsula-rootless
 Architecture: iphoneos-arm64
 Version: 0.6-14
