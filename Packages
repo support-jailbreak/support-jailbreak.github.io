@@ -14659,6 +14659,26 @@ Name: libhdev
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 Author: Hao Nguyen <hao.ict56@gmail.com>
 
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm64
+Version: 0.4
+Section: System
+Maintainer: REPO BVN
+Installed-Size: 168
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debfiles/com.ichitaso.otadisabler_0.4_iphoneos-arm64.deb
+Size: 19588
+MD5sum: b2044b6bbcd72094b25d0b83f1666bdc
+SHA1: f3ff2db1dca21e7dd166d5bf8bceaa5cb4215a0c
+SHA256: 43760643689e8cfd059ef3b7b679789711ac39f6ee8a822103ee332051d895fe
+SHA512: 431a1873febdb321f76682fc3652534631f60613ef0a9c516d52c858b934ea3073f7f2c2a46223e25c7eebc9f609fc5d145eb40cb87a617f3fd7f94e48adcd1d
+Description: Chặn cập nhật phần mềm
+Name: OTADisabler (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/OTADisabler/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/OTADisabler.json
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: ichitaso
+
 Package: com.ichitaso.undecimus
 Architecture: iphoneos-arm
 Version: 6.2.0
