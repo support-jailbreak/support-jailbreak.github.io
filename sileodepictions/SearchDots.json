@@ -26,7 +26,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15. \n\n### Các tuỳ chọn bao gồm\n\nTìm kiếm trong Spotlight\n\nTìm kiếm trong Thư viện ứng dụng \n\n\n",
+"markdown":"# SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15. \n\n### Các tuỳ chọn bao gồm\n\nTìm kiếm trong Spotlight\n\nTìm kiếm trong Thư viện ứng dụng\n\nẨn nền\n\nHỗ trợ một trang(Yêu cầu Respring để áp dụng) \n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -62,12 +62,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"28/5/2023"
+"text":"4/7/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.7"
+"text":"iOS 14.0 đến 15.7"
 },
 {
 "class":"DepictionLabelView",
@@ -84,7 +84,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.0.0\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 1.1.5\n\nHỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",

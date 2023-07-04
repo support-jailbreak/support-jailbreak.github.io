@@ -902,6 +902,48 @@ SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.j
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: NightwinDev
 
+Package: com.BIENVANNHAT.SearchDots
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 498
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.SearchDots_1.1.5_iphoneos-arm.deb
+Size: 126584
+MD5sum: d637c58978c3f09cdc5af59864c25fdf
+SHA1: 6f16b444f1b5fe4c427b97df76ac3b3d8ab31641
+SHA256: 366f41e2022dda77563a5c68b748cb49e936ab10b91365db235abfbc42cadcfe
+SHA512: 6dc03fb96bafc1ed6e02d8e1cbf03fa08841dce36aebbb2f11df8d4f96ca215aa92c942c4580b8f51920d522636177755f22be1b7a36fd40ae18984f16488190
+Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Name: SearchDots VH
+Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.SearchDots
+Architecture: iphoneos-arm64
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 506
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.BIENVANNHAT.SearchDots_1.1.5_iphoneos-arm64.deb
+Size: 126714
+MD5sum: a0f1ee3a5fd3601766e3987b44a7fc7b
+SHA1: 0a217283e0aefcddf09899bb04cf4af81f52918d
+SHA256: 8b24606cab6b471816857c997f7c4c3e88ed43f3d9267f9deca1b0114776140e
+SHA512: d59e1d8c16da94c22a6ffdf422dfedf1b04f1419babb2d74dbee407b06f89330fec4d1ac511753ef655cfc4fa22931a42a7730a6f0b4ebf3789556df3086e87f
+Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Name: SearchDots VH(Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/SearchDots/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/SearchDots.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.BIENVANNHAT.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.3
@@ -3298,6 +3340,27 @@ Author: udevs
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Campy/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Campy/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debfiles/com.BIENVANNHAT.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1915296
+MD5sum: 3fa8df84dfd2a2c19900a3f7e6bcdc4b
+SHA1: b58a61167cf42805791fbef17a5ec45ef5365151
+SHA256: c7d322cd67f2fa340aab7a0520825aaac5cf9740e8b5553a1841a3fe746d1eb0
+SHA512: 5ac858066641d2932f255f38773d24473e172ad4483cae2c2dc10bdd3fdbd4df5cf11b6b4cf7b28a8079ed52ee3efc7d50eee830804ef47ef0322706261dd10a
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Depiction: https://support-jailbreak.github.io/depictions/CarBridge.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/CarBridge.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: CarBridge VH
+Author: leftyfl1p
 
 Package: com.BIENVANNHAT.carbridge13
 Architecture: iphoneos-arm
