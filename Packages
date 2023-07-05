@@ -16463,6 +16463,26 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://support-jailbreak.github.io/infodeb/HidejbVNeID/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HidejbVNeID.json
 
+Package: com.repobvn.vneidbypassjb
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debfiles/com.repobvn.vneidbypassjb_2.0.8_iphoneos-arm64.deb
+Size: 2908
+MD5sum: f96386ccd5136a7b6b84d0e1d0a929f5
+SHA1: 14530c9aa155435fa388ffb8bf530e1ac79de580
+SHA256: e1d558cd5d6dcef35b6a4bba13fc3742dd91dc80fa4c99c146ebb4f40a36abc8
+SHA512: db8506f674002bfa4606fdd7119d5154cc88d7c4ab0e350f9d8ec73638df550758da20848cc69e9ce583e68652f5edc4804822f6834b668b22bc5dec2cbac0f2
+Description: Ẩn Jailbreak VNeID!
+Name: Hidejb VNeID
+Author: Sơn
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Depiction: http://support-jailbreak.github.io/infodeb/HidejbVNeID/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/HidejbVNeID.json
+
 Package: com.repobvn.youpip
 Architecture: iphoneos-arm64
 Version: 1.7.19-1

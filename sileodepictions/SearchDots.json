@@ -1,11 +1,22 @@
 {
-"minVersion":"0.4",
+"minVersion":"0.1",
 "headerImage":"https://support-jailbreak.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15.\n\n- Các tuỳ chọn bao gồm:\n\n- Tìm kiếm trong Thư viện ứng dụng\n\n- Tìm kiếm trong Spotlight\n\- Ẩn nền\n\- Hỗ trợ một trang(Yêu cầu Respring để áp dụng)\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -26,7 +37,14 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15. \n\n### Các tuỳ chọn bao gồm\n\nTìm kiếm trong Spotlight\n\nTìm kiếm trong Thư viện ứng dụng\n\nẨn nền\n\nHỗ trợ một trang(Yêu cầu Respring để áp dụng) \n\n\n",
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -35,25 +53,14 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Facebook NHẬT BIỆN**](https://www.facebook.com/bvnmobileservices999) - 24/7 \n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
+"title":"Thông tin tinh chỉnh"
 },
 {
 "class":"DepictionTableTextView",
-"title":"Tác giả",
+"title":"Nhà phát triển",
 "text":"Nightwind"
 },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -71,7 +78,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -84,11 +91,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.1.5\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.1.5\n\n- Hỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2023 by BVN",
+"text":"Copyright © 2023 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
