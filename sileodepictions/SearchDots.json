@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15.\n\n- Các tuỳ chọn bao gồm:\n\n- Tìm kiếm trong Thư viện ứng dụng\n\n- Tìm kiếm trong Spotlight\n\- Ẩn nền\n\- Hỗ trợ một trang(Yêu cầu Respring để áp dụng)\n\nㅤ\n\n",
+"markdown":"SearchDots VH(Rootless)Mang phong cách tìm kiếm trên iOS 16 xuống iOS15.\n\n- Các tuỳ chọn bao gồm:\n\n- Tìm kiếm trong Spotlight\n\- Tìm kiếm trong Thư viện ứng dụng\n\- Ẩn nền\n\- Hỗ trợ một trang(Yêu cầu Respring để áp dụng)\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -60,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"Nightwind"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.8" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -69,12 +69,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"4/7/2023"
+"text":"5/7/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 15.7"
+"text":"iOS 14 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",

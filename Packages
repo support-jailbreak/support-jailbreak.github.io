@@ -15760,6 +15760,26 @@ Name: AppData (Rootless)
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Fouad Raheb
 
+Package: com.repo.appdata-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.repo.appdata-rootless_1.4.1_iphoneos-arm64.deb
+Size: 7401272
+MD5sum: 3fd1695dd161dac8a059869b96e7c167
+SHA1: c33049e4535778b51d51a0a347c479d8560c4e90
+SHA256: b346dda4934eca8717484f3390fe0960238832bd78831e93ae380b282ff8e3f3
+SHA512: 85e86c28c6aacbe41ddbdc6ea724f81cf00418f12ee2dfc68521c0c0ed71585b33d4a525ee6c00fdd8cb1f3bb53da97d7a1e7ded9889c56964f7dc307942821f
+Description: Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc dùng cảm ứng lực
+Name: AppData (Rootless)
+Depiction: http://support-jailbreak.github.io/infodeb/AppData/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/AppData.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Author: Fouad Raheb
+
 Package: com.repobvn.Bauhaus-Rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
