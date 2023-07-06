@@ -20196,6 +20196,27 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 05e0085610aba1f19878e4149df380bc
 
+Package: net.BIENVANNHAT.dynamicpeninsula-rootless
+Architecture: iphoneos-arm64
+Version: 0.6-19
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), org.mr.unsubsrl
+Filename: ./debfiles/net.BIENVANNHAT.dynamicpeninsula-rootless_0.6-19_iphoneos-arm64.deb
+Size: 460168
+MD5sum: 9ba83ab6c8f3f442f41e789cf4f4513a
+SHA1: 71959eb83d87a2760b4b1ebf963c945624104fc9
+SHA256: 14a3badaae06cb232cc3e5c1d49c8b03394baa88a153a4424d64039259e6afdf
+SHA512: 81c1958e012dc1dca3b6c663cedaa732f42aadf78497ac29055ffc7af1a90b66ef0ec5b86624c9ef98d7a7603245e2359225ba79b7f1dcf400e73e5751ec5b8e
+Description: Dynamic Island trên notch của bạn
+Name: DynamicPeninsula VH (Rootless)
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://support-jailbreak.github.io/infodeb/DynamicPeninsula1/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/DynamicPeninsula1.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+MainLibMD5: 921b926fd501306429310a4e8659f913
+
 Package: net.jakeashacks.theosinstaller2
 Architecture: iphoneos-arm
 Version: 1.0.3
