@@ -15214,6 +15214,26 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Icon: file:///var/jb/Library/IconRepo/hethongg1.png
 Author: opa334
 
+Package: com.opa334.libsandy
+Architecture: iphoneos-arm
+Version: 1.0.5-2
+Section: System
+Maintainer: opa334
+Installed-Size: 436
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debfiles/com.opa334.libsandy_1.0.5-2_iphoneos-arm.deb
+Size: 39602
+MD5sum: 7e961d8219a1a012e34a68fca6ff201b
+SHA1: 8f071bca53aa12c401ccade636fc4a09f23761ee
+SHA256: 0f9c5c06d2175f863b9a6c939986f997de89a782052278a188319817f1aabc29
+SHA512: 5a8edd77028391e1e1a40b92adfc1f2aea526b550746d122b77db370f9ba21934543707d25755efb6275215bc6d0d6fcd2fbcde5a0c040de8cb1039d2f53419e
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Name: libSandy
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Icon: file:///var/jb/Library/IconRepo/hethongg1.png
+Author: opa334
+
 Package: com.peterdev.libpddokdo
 Architecture: iphoneos-arm
 Version: 1.3R
