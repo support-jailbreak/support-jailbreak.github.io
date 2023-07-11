@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"fahlnbg"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.6-19" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",

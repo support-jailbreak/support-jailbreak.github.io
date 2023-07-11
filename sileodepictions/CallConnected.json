@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"NTQ"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.6-19" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
