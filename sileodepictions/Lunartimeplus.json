@@ -52,7 +52,7 @@
 "title":"Nhà phát triển",
 "text":"NTQ"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.6-19" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -93,7 +93,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 1.1\n\n- Hỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
