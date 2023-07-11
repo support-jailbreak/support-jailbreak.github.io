@@ -54,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"23/5/2023"
+"text":"10/7/2023"
 },
 {
 "class":"DepictionTableTextView",
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.6.3\n\nfix 1 số lỗi"
+"markdown":"#### Phiên bản 1.6.4\n\nfix 1 số lỗi"
 },
 {
 "class":"DepictionLabelView",
