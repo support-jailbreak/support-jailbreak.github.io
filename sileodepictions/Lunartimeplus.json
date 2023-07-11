@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"LunarTime Plus(Rootless)\n\n- Thêm ngày tháng Âm Lịch vào phía trên góc trái màn hình của bạn\n\n-Hỗ trợ các dòng máy không có Tai Thỏ\n\n- Các bạn có thể xem hình ảnh phía dưới \n\nㅤ\n\n",
+"markdown":"LunarTime Plus(Rootless)\n\n- Thêm ngày tháng Âm Lịch vào phía trên góc trái màn hình của bạn\n\n- Hỗ trợ các dòng máy không có Tai Thỏ\n\n- Các bạn có thể xem hình ảnh phía dưới \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,7 +50,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"NTQ"
+"text":"NQT1195"
 },
 { "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
 {
