@@ -13086,6 +13086,46 @@ SileoDepiction: http://support-jailbreak.github.io/infodeb/Uyou/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.bienvannhat.vscocrack-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debfiles/com.bienvannhat.vscocrack-rootless_1.1-3_iphoneos-arm64.deb
+Size: 124792
+MD5sum: 778c32acc4255279d567881ea4569d86
+SHA1: cfe4657627d9ff590af6ebb7938f62889c07a953
+SHA256: ba6eebd4af06c7f976c69c3ab8eff8f40778e149a37d80c960b6d95adfe76e1f
+SHA512: 22bbe109bf6b66ac65698156988a88515b005a760bae3b75cdaec4c71e4124dc79a9ad1447d4e982bc7a9b074b8fa7ace8822fdef8df3c9e52816021ce5dde8e
+Description: VSCO Cao cấp, chỉ hỗ trợ phiên bản 316.0.0 trở lên
+Name: VSCO Pro (Rootless)
+Author: Netskao
+Depiction: http://support-jailbreak.github.io/infodeb/VSCO/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/VSCO.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.bienvannhat.vscocrack
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Tweals
+Maintainer: Biện Văn Nhật
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debfiles/com.bienvannhat.vscocrack_1.1-3_iphoneos-arm.deb
+Size: 125336
+MD5sum: 2677198477f7c1918b9a1d78d86a329c
+SHA1: aee4eef784d78d9a8a60863459534ef858432494
+SHA256: b638c18cc28e28255372ae15ee428299b1dcb4af19501f3c04376bac84ed0f8a
+SHA512: 1e214269a8abf3d17efa05446442154d50d6315c1f7334f58e5623d1295c7518b51ad5324ca4a4063618bc27bcc7528c497cd43cdc7bdc382e549661c16fbfec
+Description: VSCO Cao cấp, chỉ hỗ trợ phiên bản 316.0.0 trở lên
+Name: VSCO Pro
+Author: Netskao
+Depiction: http://support-jailbreak.github.io/infodeb/VSCO/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/VSCO.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
 Package: com.bienvannhat.ytmusicultimate
 Architecture: iphoneos-arm
 Version: 1.4.1
