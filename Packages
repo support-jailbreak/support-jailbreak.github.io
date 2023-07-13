@@ -20617,21 +20617,6 @@ Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechang
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
 
-Package: oldabi
-Architecture: iphoneos-arm64
-Version: 0.3.2
-Maintainer: Evelyn
-Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
-Filename: ./debfiles/oldabi_0.3.2_iphoneos-arm64.deb
-Size: 14900
-MD5sum: 2cc9de6dbc75226517fb558ab251b60f
-SHA1: d0f1f502f27764505e8557348f8b9ed58714df84
-SHA256: cb5bb774cd99f5f39c14d2925a5189782a3536583588b8385066dc00c6220d56
-SHA512: e351bb292a5bc8c6a4848aa0cdffcbd097d00f971725b19742aaa807499d17fa1ff2a8bf884fa228a9c6540ae8f93208fe9deac262582db8643b6f05e62efe17
-Description: Support for legacy arm64e ABI in iOS 15.0+
-Author: Evelyn
-Name: Legacy arm64e Support
-
 Package: org.coolstar.libhooker
 Architecture: iphoneos-arm
 Version: 1.5.5
