@@ -11684,11 +11684,11 @@ Installed-Size: 1488
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
 Filename: ./debfiles/com.REPOCYDIABVN.PullOverPro15_15.17-1_iphoneos-arm.deb
-Size: 495496
-MD5sum: b3d65ec793556025c2d83a56657c31f5
-SHA1: b1262ce162afcfd0af99d44957dfe2049885aa77
-SHA256: f4e33079a452c83f6b2ed4070816cde986ba1c9d42f7bebb56c28316ae001524
-SHA512: 4accfbffd27456c6ac0c391e555691474cc00ddcf639ad71483ecca9b5828d8bc192948dc7a87dda11ff237a868a4233cbc636e85313d8a1c29afab31f321c06
+Size: 495502
+MD5sum: 1cf11cfcb2f776310ec4d1bad315c9f2
+SHA1: d87cd1c28747c1e8e93576e42891c60eb1518176
+SHA256: 70e8471d30bb442d48b4e33daf39d56aa3c00628527628516c09bb4489ca3f65
+SHA512: 0c58f4d62a844b60eabd6fea2ca865fcec6f41ccb7d262636f6cb5b6aeb6930aa69d8ea1f87f74a46d03666ff32a1e29f50377d98a637af4d6a18560004bd277
 Description: Một cách tốt hơn để đa nhiệm! Hỗ trợ khắc phục cho iOS14-iOS16
 Name: PullOver Pro VH(iOS11/16)
 Author: c1d3r
