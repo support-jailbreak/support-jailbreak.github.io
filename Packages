@@ -2852,6 +2852,26 @@ Depiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=info
 
 Package: com.BIENVANNHAT.batterypercent
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Repo Cydia BVN
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debfiles/com.BIENVANNHAT.batterypercent_1.0.1_iphoneos-arm64.deb
+Size: 22758
+MD5sum: 5656346c05efcaf6a39ee92bc9fcc9f8
+SHA1: 0e5baf881c6bac12c447bd28b3e39030a1a65665
+SHA256: cc4b1ba6f412368b315173f986c3da513f6c75699bdbae84b63cd6a852ab2210
+SHA512: 0622599a2706fa97df472d43bd0784bc5d413cffdbe6e1b15ac89a191b5a63d2e651d670dcdbc129a9f2ad5b9e5a62ba0b795e1b4072e376dcdce8ba144514a5
+Description: Hiển thị phần trăm pin iOS 16 cho thiết bị đã bẻ khóa!
+Name: BatteryPercent iOS16 (Rootless)
+Author: nqt1195
+Depiction: http://support-jailbreak.github.io/infodeb/BatteryPercent/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/BatteryPercent.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.BIENVANNHAT.batterypercent
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
@@ -20616,6 +20636,21 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: oldabi
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debfiles/oldabi_0.3.2_iphoneos-arm64.deb
+Size: 14900
+MD5sum: 2cc9de6dbc75226517fb558ab251b60f
+SHA1: d0f1f502f27764505e8557348f8b9ed58714df84
+SHA256: cb5bb774cd99f5f39c14d2925a5189782a3536583588b8385066dc00c6220d56
+SHA512: e351bb292a5bc8c6a4848aa0cdffcbd097d00f971725b19742aaa807499d17fa1ff2a8bf884fa228a9c6540ae8f93208fe9deac262582db8643b6f05e62efe17
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
 
 Package: org.coolstar.libhooker
 Architecture: iphoneos-arm
