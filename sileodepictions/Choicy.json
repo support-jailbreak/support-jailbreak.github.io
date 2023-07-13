@@ -54,12 +54,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"12/06/2023"
+"text":"13/7/2023"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4"
+"text":"iOS 10.0 đến 16.4"
 },
 {
 "class":"DepictionLabelView",
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.4.9-3\n\nHỗ trợ Rootless Jailbreak"
+"markdown":"#### Phiên bản 1.4.10-3\n\nSửa lỗi tích hợp Crane không hoạt động như mong đợi trong một số điều kiện nhất định"
 },
 {
 "class":"DepictionLabelView",
