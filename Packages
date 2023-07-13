@@ -14661,6 +14661,23 @@ Name: iGameGod (Rootless)
 Author: iGameGod
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
 
+Package: com.gamegod.igg.rootless
+Architecture: iphoneos-arm64
+Version: 0.4.2.1
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 195060
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debfiles/com.gamegod.igg.rootless_0.4.2.1_iphoneos-arm.deb
+Size: 36601528
+MD5sum: d4310c546a0f8b534006f7cbd0ca03f6
+SHA1: 851421b409f7465fc8c004da3507270633530abb
+SHA256: 4a3b3bb3b1dc907bcaa1fc5ad6b37454d73dbb40b8df52b9c95ab4ecba3287f7
+SHA512: ca8598e1fc0e09a9c494b87dd0ce31f145e352dbcb7c2f1087f71fcd9939cc332546c3d8662f60e74a4c09f5c0d23fabab7e6b6191ecb8e7db13e36fbee3b2f4
+Description: Be the god of your games!
+Name: iGameGod Rootless
+Author: iGameGod
+
 Package: com.gamegod.igg
 Architecture: iphoneos-arm
 Version: 0.2.5
@@ -14747,6 +14764,23 @@ Description: Hãy là vị thần của trò chơi của bạn!
 Name: iGameGod (Rootless)
 Author: iGameGod
 Icon: file:///var/jb/Library/IconRepo/tienichh1.png
+
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.4.2.1
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 195092
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Filename: ./debfiles/com.gamegod.igg_0.4.2.1_iphoneos-arm.deb
+Size: 36606232
+MD5sum: 6d0189ad23c8b66fb6358b8efe220305
+SHA1: 95dc9add7953950d35612f458c392ddfa1e50a99
+SHA256: 2c1b1c5f7f6dcebd9525ba43e36d7bef98fddae74ecf83943dae9b53fe2f84a4
+SHA512: d88deb13d08d40956ecf97adf67369dcd47ebeb2ef4175848e78efaa33801479e12954a3b4d6a14c3290e200f0c834014a814d11326563579395a66edbd96f17
+Description: Be the god of your games!
+Name: iGameGod
+Author: iGameGod
 
 Package: com.ginsu.gscore
 Architecture: iphoneos-arm64
