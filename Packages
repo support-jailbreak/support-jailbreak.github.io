@@ -10237,6 +10237,50 @@ SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/tiktok/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Hao Nguyen
 
+Package: com.BIENVANNHAT.tiktokpro
+Architecture: iphoneos-arm
+Version: 3.1-6+RootFull
+Priority: optional
+Section: Tweaks
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Installed-Size: 804
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.tiktokpro_3.1-6+RootFull_iphoneos-arm.deb
+Size: 213798
+MD5sum: a77bc399065fa97e9829f328152e41d5
+SHA1: 84b164eeaf7958dab5f01d356cafd0843582ec0e
+SHA256: b9d7f519ed06a8e3ad41ccab7371e95f878da12a8a01854afc845190c12303f0
+SHA512: 10efe7c735a67fc00bdd31eb8f6f9d0388ad6da9874383785f64fb7c94196a4c65f0c515cdaac022109608cdcf444a2cd495ac277650b154d28d560117d7f798
+Description: Các tùy chọn nâng cao cho ứng dụng TikTok
+Tag: purpose::extension
+Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: TikTok Pro
+Author: TTJB Team
+
+Package: com.BIENVANNHAT.tiktokpro
+Architecture: iphoneos-arm64
+Version: 3.1-6+Rootless
+Priority: optional
+Section: Tweaks
+Maintainer: Repo BVN
+Installed-Size: 804
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.tiktokpro_3.1-6+Rootless_iphoneos-arm64.deb
+Size: 213818
+MD5sum: 9f269c1660246e106b87c53a1ac60245
+SHA1: 020835e4ad4fa1801a597858fe2c689f498bb720
+SHA256: e302d724b13cb63a8d6622e503578691ffb86a325b1b343b90583b97967ba4d5
+SHA512: 9694173d3af4961e5597b6adf2a0ac17bf90c9e06756c2fd59388dc0656101d663b930916c85c84ef5d5141714952ee5ecee1359074925425caab77acf1a2127
+Description: Các tùy chọn nâng cao cho ứng dụng TikTok
+Tag: purpose::extension
+Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: TikTok Pro (Rootless)
+Author: TTJB Team
+
 Package: com.BIENVANNHAT.toonsy
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -12928,6 +12972,26 @@ Name: PicsArt® Gold
 Author: Laila Azmi <Lailaazmi@my.com>
 Depiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
 SileoDepiction: http://support-jailbreak.github.io/infodeb/Picsart/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.bienvannhat.satella
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debfiles/com.bienvannhat.satella_2.3_iphoneos-arm.deb
+Size: 147474
+MD5sum: 7a27481d31533a1d32649274ccb3ada0
+SHA1: c2337b2a7ffdf881fe16f68206ad7c0796e4b7f2
+SHA256: b94aa349e7d5e24c4afbf761b4abcd202d091d2aad019f75c069f074c133ce4c
+SHA512: 676f86e960ccae5ed5b62fd7ad025092d767e02b5bdef2da7b6c8de4703cc538730400a8624d50198472c24a2fc7692a778ea82105107aa6441b6bf48ab5e501
+Description: Trình bẻ khóa mua hàng trong ứng dụng hiện đại
+Name: Satella VH
+Author: Lilliana
+Depiction: http://support-jailbreak.github.io/infodeb/Satella/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.bienvannhat.settingsrevamp
@@ -15918,6 +15982,26 @@ Description: Crack apps
 Name: Satella (Rootless)
 Author: Paisseon
 Depiction: https://support-jailbreak.github.io/depictions/Satella.html
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
+Package: com.reoobvn.satella-rootless
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debfiles/com.reoobvn.satella-rootless_1.8.1_iphoneos-arm64.deb
+Size: 141194
+MD5sum: 8cf01ee708de712e8ff73a36264995d8
+SHA1: e4f75241a23f9e30db7d77727f38b3edeb7ef447
+SHA256: 939aa8c47b8e490d123c65a64a1b4ec19161af19e4d4ce220491b315f3d4be11
+SHA512: 825052ea34dbbeacb6e1509c0ea0a869a3e0a3d22ae3f92e46eb3f7fb1dbb88d2c8378075d1037da8162cf2a94676543e0213ea24674b52e580ab48757dc8684
+Description: Trình bẻ khóa mua hàng trong ứng dụng hiện đại
+Name: Satella (Rootless)
+Author: Lilliana
+Depiction: http://support-jailbreak.github.io/infodeb/Satella/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/Satella.json
 Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 
@@ -20618,6 +20702,21 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
 Author: Elias Limneos <limneoselias@gmail.com>
 MainLibMD5: 8131809d9825837c841f8f54015f50b4
+
+Package: oldabi
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debfiles/oldabi_0.3.2_iphoneos-arm64.deb
+Size: 14900
+MD5sum: 2cc9de6dbc75226517fb558ab251b60f
+SHA1: d0f1f502f27764505e8557348f8b9ed58714df84
+SHA256: cb5bb774cd99f5f39c14d2925a5189782a3536583588b8385066dc00c6220d56
+SHA512: e351bb292a5bc8c6a4848aa0cdffcbd097d00f971725b19742aaa807499d17fa1ff2a8bf884fa228a9c6540ae8f93208fe9deac262582db8643b6f05e62efe17
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
 
 Package: org.coolstar.libhooker
 Architecture: iphoneos-arm
