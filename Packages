@@ -10281,6 +10281,50 @@ Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: TikTok Pro (Rootless)
 Author: TTJB Team
 
+Package: com.BIENVANNHAT.tiktokpro
+Architecture: iphoneos-arm
+Version: 3.2+RootFull
+Priority: optional
+Section: Tweaks
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Installed-Size: 804
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.tiktokpro_3.2+RootFull_iphoneos-arm.deb
+Size: 229384
+MD5sum: d158d3af11c3f9be4ec9bc33b5867a03
+SHA1: d16c7d2c0c721667cd0574ebba4e96b591435a3f
+SHA256: 18c36537a7afd95e573a178d4eba067d672c375c8435b134f207d1bfba4b324f
+SHA512: e8889c52ec74bb58e05ea2883a9389840616d73a2d48237cc06c3a1a81393176d3f08deaaf2c375d16fdaa37b464b65accdf19474157c977a8ba05c4faae8d54
+Description: Các tùy chọn nâng cao cho ứng dụng TikTok
+Tag: purpose::extension
+Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: TikTok Pro
+Author: TTJB Team
+
+Package: com.BIENVANNHAT.tiktokpro
+Architecture: iphoneos-arm64
+Version: 3.2+Rootless
+Priority: optional
+Section: Tweaks
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Installed-Size: 804
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debfiles/com.BIENVANNHAT.tiktokpro_3.2+Rootless_iphoneos-arm64.deb
+Size: 229416
+MD5sum: 5fdb8781de6f8a11b09822349bfce670
+SHA1: 3903812ce367a67f9ce9c1771eee592fe2bd80cb
+SHA256: 6d0e1e48c854674fab96d2d9c8c00b7f68be513b9d4b908200ac295d554f2f38
+SHA512: 3651099adef39fa218b0d63452048b7869647fec4f7700b9331406776e6540999b72b74fe57d30f401a414dcac04589232533e1c51d060ea7e392481646ce18d
+Description: Các tùy chọn nâng cao cho ứng dụng TikTok
+Tag: purpose::extension
+Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
+SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: TikTok Pro
+Author: TTJB Team
+
 Package: com.BIENVANNHAT.toonsy
 Architecture: iphoneos-arm
 Version: 1.2.3
