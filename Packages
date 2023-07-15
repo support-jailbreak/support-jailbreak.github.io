@@ -12717,6 +12717,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: Netskao
 Tags: compatible_min::ios12.0
 
+Package: com.bienvannhat.accdemo
+Architecture: iphoneos-arm64
+Version: 0.2.5
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 828
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debfiles/com.bienvannhat.accdemo_0.2.5_iphoneos-arm64.deb
+Size: 148992
+MD5sum: af63a1c4723aed25602cfad179ab2611
+SHA1: 487c077e3b0df48e767da4f64e34b2a9c30da009
+SHA256: 9f69c061f9053a4e2a61e7d2d36830d43f72a1122c4c2e659c7733b2cf23f4a7
+SHA512: 72a9867eee269cd5d8b3877e772e500087161602615f79f15fb3151c854281b353730e4dd027a26e8c79c4ffd72fb4cb8c9f1154a8291c37bc51d53b5ed116c5
+Description: Kiểm soát tốc độ của trình tăng tốc trò chơi trò chơi của bạn, bạn có thể chơi nó, nó được nhóm bạn yêu cầu, vì vậy nó được đưa lên nguồn! Vui lòng tải xuống nếu bạn có bất kỳ câu hỏi nào!
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Name: AccDemo VH(Rootless)
+Author: Brend0n
+Sponsor: 搬运工
+
 Package: com.bienvannhat.aim
 Architecture: iphoneos-arm64
 Version: 1.3
