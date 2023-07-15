@@ -12815,6 +12815,24 @@ Name: Bakgrunnur VH
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.bienvannhat.batteryhealthenabler
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debfiles/com.bienvannhat.batteryhealthenabler_1.0.0_iphoneos-arm64.deb
+Size: 8430
+MD5sum: 554cd6e2de8dbafe654aa597a22c161b
+SHA1: 8ebbf2cb504369a45f34a441f8e0e5c0d83bab95
+SHA256: 8032098577d3e14fe61f86754d9fac690fb20cb524c434d4b18a218f531140d1
+SHA512: 900aba661ec202b4a4e0571ecfae5b331561795e91123463eb7742aba70497ee01c382353e32383edebb7b33ab0e10150b00c3de933b2023eb9c3e03e7d6bd68
+Description: Bật Tình trạng pin trên các thiết bị không được hỗ trợ.
+Name: BatteryHealth (Rootless)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannhat.harpy-reloaded
 Architecture: iphoneos-arm
 Version: 1.0.1
