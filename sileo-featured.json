@@ -37,6 +37,11 @@
             "title": "Velvet 2",
             "package": "com.repobvn.velvet2-rootless",
             "url": "https://support-jailbreak.github.io/features/Velvet.png"
+         },
+         {
+            "title": "BatteryPercent iOS16",
+            "package": "com.bienvannhat.batterypercent",
+            "url": "https://support-jailbreak.github.io/features/battery.png"
         }
     ]
 }
