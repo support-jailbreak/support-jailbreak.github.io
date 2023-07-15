@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"TTJB TEAM"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.8.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -83,7 +83,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 16.4.1"
+"text":"iOS 13.0 đến 16.4.1"
 },
 {
 "class":"DepictionLabelView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.8.1\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"### Phiên bản 3.2\n\n- Hỗ trợ Rootless Jailbreak"
 },
 {
 "class":"DepictionLabelView",
