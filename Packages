@@ -12777,6 +12777,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Depiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
 SileoDepiction: http://bvnsupport-jailbreak.github.io/infodeb/Amber/?p=info
 
+Package: com.bienvannhat.appcolorclose
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.appcolorclose, com.spicat.appcolorclose
+Filename: ./debfiles/com.bienvannhat.appcolorclose_1.2.1_iphoneos-arm64.deb
+Size: 28894
+MD5sum: f79efea272b701c2fd759dcac3fd6dda
+SHA1: 289805122bad547011d9019d946aab4e582c7377
+SHA256: 362fa8e396fe784f9619a6e4d965dbc20d2d4cc32ffef9f35e09819d8aa63b4d
+SHA512: fd59baae0d332051522f4d6e2fd1016f81c1994068e5f490ba5a5b2e017109c0e56c2705fd2758f5fc4c045744c3233ec40e0138af62c528654c9ec87e919a58
+Description: Tô màu hộp đóng ứng dụng dựa trên màu biểu tượng ứng dụng.
+Name: AppColorClose (Rootless)
+Author: PoomSmart
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+
 Package: com.bienvannhat.april
 Architecture: iphoneos-arm
 Version: 2.0.1
