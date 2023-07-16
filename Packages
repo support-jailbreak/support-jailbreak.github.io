@@ -12697,6 +12697,26 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 Author: AirTroller
 Tags: compatible_min::ios12.0
 
+Package: com.bienvannhat.AirTroller
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Biện Văn Nhật
+Depends: firmware (>=12.0)
+Filename: ./debfiles/com.bienvannhat.AirTroller_1.3_iphoneos-arm.deb
+Size: 811126
+MD5sum: c07ed30d6e1e85bb45f5ad4def8b5caf
+SHA1: b9740ad8f360537d2f2863885781c66bfaf63c29
+SHA256: 9ee5f1faaef62931da17bf6f539430d53285d3a56bb756e975731a63a465eb4b
+SHA512: a88ccf7d37bae6d44bd3150d04d3ba5e74a857e0621faae8589996dd6b8d5c441804ce00cc37bfb432c1b8b65ec47756635bba53655995d22460b8eddbad9d65
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: AirTroller
+Depiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+SileoDepiction: http://support-jailbreak.github.io/infodeb/AirTroller/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Author: AirTroller
+Tags: compatible_min::ios12.0
+
 Package: com.bienvannhat.RingTonesManager
 Architecture: iphoneos-arm
 Version: 1.1-4
