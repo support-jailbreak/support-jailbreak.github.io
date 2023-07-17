@@ -10313,15 +10313,15 @@ Installed-Size: 804
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debfiles/com.BIENVANNHAT.tiktokpro_3.2+Rootless_iphoneos-arm64.deb
 Size: 229416
-MD5sum: 5fdb8781de6f8a11b09822349bfce670
-SHA1: 3903812ce367a67f9ce9c1771eee592fe2bd80cb
-SHA256: 6d0e1e48c854674fab96d2d9c8c00b7f68be513b9d4b908200ac295d554f2f38
-SHA512: 3651099adef39fa218b0d63452048b7869647fec4f7700b9331406776e6540999b72b74fe57d30f401a414dcac04589232533e1c51d060ea7e392481646ce18d
+MD5sum: 77c1d0dd14e0284faeb58570a5cba70c
+SHA1: 31122ff7b2d1b348358d26155158f0a81931af1a
+SHA256: ce0f3c160412e0b11fd154af44e11900c1c0f29a66c1044465863d7c110da590
+SHA512: 55659a142928b64277180a7bd98a7843f103e89f20c641da7aa4b67406eeafe92f80536b6fb7b16ef3c249ced017a45526857a0ef88f3cdce3e687c2d42c20a5
 Description: Các tùy chọn nâng cao cho ứng dụng TikTok
 Tag: purpose::extension
 Depiction: http://support-jailbreak.github.io/infodeb/TikTokpro/?p=info
 SileoDepiction: https://support-jailbreak.github.io/sileodepictions/TikTokpro.json
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
 Name: TikTok Pro
 Author: TTJB Team
 
