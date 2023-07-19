@@ -1,2 +1,2 @@
-Hello bvn! Chào mừng bạn đến với Repo BVN ,kho lưu trữ tinh chỉnh tốt nhất cho iPhone/iPad
-#Addrepo:https://support-jailbreak.github.io
+Nguồn BIỆN VĂN NHẬT CHUYỂN VỀ 
+#Repo: bvnsupport.github.io
