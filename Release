@@ -1,9 +1,9 @@
-Origin: Hello
+Origin: REPO Support-jailbreak=>bvnsupport.github.io
 Label: iOS/iPadOS-Jailbreak
 Suite: stable
 Version: 1.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm 
 Components: main
 Description: iOS/iPadOS-Jailbreak
 
